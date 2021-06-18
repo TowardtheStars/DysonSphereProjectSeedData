@@ -27,7 +27,14 @@ recipe_types = {
 for item in item_raw:
     items[item['ID']] = {
         'name': item['Name'],
-        'building': item['CanBuild'] == 1
+        'building': item['CanBuild'] == 1,
+        'iconpath': item['IconPath'],
+        'grid':
+            {
+                'tab': item['GridIndex'] // 1000,
+                'row': (item['GridIndex'] % 1000) // 100,
+                'col': item['GridIndex'] % 100
+            }
     }
     mining_from = item['MiningFrom']
     if mining_from is not None:
@@ -36,7 +43,8 @@ for item in item_raw:
                 's': [{'name': item['Name'], 'n': 1, 'id':item['ID']}],
                 'q': [],
                 'm': "采矿机" if mining_from.find('矿') != -1 else "抽水机" if mining_from.find('海洋') != -1 else None,
-                't': 1
+                't': 1,
+                'iconpath': item['IconPath']
             })
 
 
@@ -54,7 +62,14 @@ for recipe in recipe_raw:
                 's': s,
                 'q': q,
                 'm': m,
-                't': recipe['TimeSpend'] / 60
+                't': recipe['TimeSpend'] / 60,
+                'iconpath': recipe['IconPath'] or items[results[0]]['iconpath'],
+                'name': recipe['Name'],
+                'grid': {
+                    'tab': recipe['GridIndex'] // 1000,
+                    'row': recipe['GridIndex'] % 1000 // 100,
+                    'col': recipe['GridIndex'] % 100
+                }
             }
         )
 recipes = [v for v in recipes if v['m']]
@@ -143,3 +158,39 @@ with open(join(svlik_root, 'recipes.js'), mode='w') as file:
 
     file.write(orbital_append)
     file.writelines('];\n')
+
+
+with open(join(data_root, 'icons.json'), encoding='utf-8') as file:
+    icons_raw = json.load(file)
+
+for k, v in items.items():
+    items[k]['icon'] = icons_raw['icons']['itemrecipe'][v['iconpath'].split('/')[-1]]
+
+
+for i in range(len(recipes)):
+    recipes[i]['icon'] = icons_raw['icons']['itemrecipe'][recipes[i]['iconpath'].split('/')[-1]]
+
+
+with open(join(svlik_root, 'data.json'), 'w', encoding='utf-8') as file:
+    result = {
+        'icons1': [],
+        'icons2': []
+    }
+    result['icons1'] = [
+        {
+            'name': '{row}-{col}-{name}'.format(name=v['name'], **v['grid']),
+            'value': v['icon']
+        }
+        for v in recipes if 'grid' in v.keys() and v['grid']['tab'] == 1
+        ]
+    result['icons2'] = [
+        {
+            'name': '{row}-{col}-{name}'.format(name=v['name'], **v['grid']),
+            'value': v['icon']
+        }
+        for v in recipes if 'grid' in v.keys() and v['grid']['tab'] == 2
+        ]   
+
+    json.dump(result, file, ensure_ascii=False, indent=2)
+
+

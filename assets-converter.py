@@ -63,7 +63,7 @@ def process_yaml_data(data):
             ) as file:
         json.dump(dataArray, file, ensure_ascii=False, indent=2)
 
-assets_root = 'prototypes'
+assets_root = 'raw_data/prototypes'
 data_root = 'data'
 
 data_re = re.compile(r":(?P<anyc>[ ]{1,}[^\[\{\s])")

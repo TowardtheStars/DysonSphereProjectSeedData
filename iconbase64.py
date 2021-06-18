@@ -4,7 +4,7 @@ from os import listdir
 from PIL import Image
 from io import BytesIO
 
-root = 'svlik'
+root = 'data'
 icon_root = join('raw_data', 'icons')
 
 def recursive_import(path_stack:(list, tuple, str)):

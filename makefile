@@ -1,7 +1,7 @@
 
 VERSION=0.7.18.7178
 
-all: dirs assets zip svlik
+all: dirs assets icon zip svlik
 
 assets: dirs
 	python assets-converter.py
@@ -20,5 +20,5 @@ dirs:
 	powershell if (-not (Test-Path "./data")) {mkdir ./data}
 	powershell if (-not (Test-Path "./svlik")) {mkdir ./svlik}
 	
-svlik: dirs assets
+svlik: dirs assets icon
 	python svlik.py

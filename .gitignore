@@ -1,4 +1,5 @@
 prototypes/
 __pycache__/
 build/
-raw_data/
+raw_data/icons
+raw_data/prototypes
