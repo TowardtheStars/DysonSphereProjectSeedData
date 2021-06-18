@@ -1,7 +1,10 @@
 import base64, json
 from os.path import join, splitext, isfile, isdir, sep
 from os import listdir
-root = 'data'
+from PIL import Image
+from io import BytesIO
+
+root = 'svlik'
 icon_root = join('raw_data', 'icons')
 
 def recursive_import(path_stack:(list, tuple, str)):
@@ -21,8 +24,12 @@ def recursive_import(path_stack:(list, tuple, str)):
     elif isfile(path):
         name, ext = splitext(name)
         if ext == '.png':
-            with open(path, 'rb') as file:
-                result = base64.b64encode(file.read()).decode(encoding='UTF-8')
+            img = Image.open(path)
+            img = img.resize((80, 80))
+            # with open(path, 'rb') as file:
+            #     result = base64.b64encode(file.read()).decode(encoding='UTF-8')
+            # return {name: result}
+            result = base64.b64encode(img.tobytes()).decode(encoding='UTF-8')
             return {name: result}
         else:
             return {}

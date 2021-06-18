@@ -76,8 +76,6 @@ for name in proto_types:
         strings = file.read()
 
         strings = re.sub(data_re, lambda matched: ": !!str {0}".format(matched.group('anyc')), strings)
-        if name == 'Recipe':
-            print(strings) 
         data = yaml.load(strings, Loader=yaml.FullLoader)
         process_yaml_data(data)
 
