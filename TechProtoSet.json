@@ -1,0 +1,7122 @@
+[
+  {
+    "Name": "T戴森球计划",
+    "ID": 1,
+    "SID": null,
+    "Desc": "戴森球计划描述",
+    "Conclusion": null,
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [],
+    "Items": [],
+    "ItemPoints": [],
+    "HashNeeded": 1,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 5,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T电磁学",
+    "ID": 1001,
+    "SID": null,
+    "Desc": "电磁学描述",
+    "Conclusion": "电磁学结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1001",
+    "IsLabTech": 0,
+    "PreTechs": [
+      1024
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      1202
+    ],
+    "ItemPoints": [
+      30
+    ],
+    "HashNeeded": 1200,
+    "UnlockRecipes": [
+      7,
+      8,
+      48
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2203,
+      2201,
+      2301
+    ],
+    "AddItemCounts": [
+      67108864,
+      262144,
+      1024
+    ],
+    "Position": {
+      "x": 9,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T电磁矩阵",
+    "ID": 1002,
+    "SID": null,
+    "Desc": "电磁矩阵描述",
+    "Conclusion": "电磁矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1002",
+    "IsLabTech": 0,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      1202,
+      1301
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 1800,
+    "UnlockRecipes": [
+      9,
+      10
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2901
+    ],
+    "AddItemCounts": [
+      1024
+    ],
+    "Position": {
+      "x": 13,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T高效电浆控制",
+    "ID": 1101,
+    "SID": null,
+    "Desc": "高效电浆控制描述",
+    "Conclusion": "高效电浆控制结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1101",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 9000,
+    "UnlockRecipes": [
+      11,
+      12,
+      13
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      271955460
+    ],
+    "AddItemCounts": [
+      10
+    ],
+    "Position": {
+      "x": 13,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T等离子萃取精炼",
+    "ID": 1102,
+    "SID": null,
+    "Desc": "等离子萃取精炼描述",
+    "Conclusion": "等离子萃取精炼结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1102",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1120,
+      1101
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      10
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      14,
+      15,
+      16
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -23
+    }
+  },
+  {
+    "Name": "TX射线裂解",
+    "ID": 1103,
+    "SID": null,
+    "Desc": "X射线裂解描述",
+    "Conclusion": "X射线裂解结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1103",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1121,
+      1102
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      58
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T能量矩阵",
+    "ID": 1111,
+    "SID": null,
+    "Desc": "能量矩阵描述",
+    "Conclusion": "能量矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1111",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1102
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      1816320
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T氢燃料棒",
+    "ID": 1112,
+    "SID": null,
+    "Desc": "氢燃料棒描述",
+    "Conclusion": "氢燃料棒结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1112",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2153539075
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272256260
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      1079887360
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T推进器",
+    "ID": 1113,
+    "SID": null,
+    "Desc": "推进器描述",
+    "Conclusion": "推进器结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1113",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3231610115
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272256260
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [
+      2157958400
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T加力推进器",
+    "ID": 1114,
+    "SID": null,
+    "Desc": "加力推进器描述",
+    "Conclusion": "加力推进器结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1114",
+    "IsLabTech": 1,
+    "PreTechs": [
+      14779395
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272256260
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 288000,
+    "UnlockRecipes": [
+      3236029440
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T流体储存封装",
+    "ID": 1120,
+    "SID": null,
+    "Desc": "流体储存封装描述",
+    "Conclusion": "流体储存封装结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1120",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 9000,
+    "UnlockRecipes": [
+      1553209600,
+      3221568420
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2106
+    ],
+    "AddItemCounts": [
+      1024
+    ],
+    "Position": {
+      "x": 13,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T基础化工",
+    "ID": 1121,
+    "SID": null,
+    "Desc": "基础化工描述",
+    "Conclusion": "基础化工结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1121",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1120,
+      1102
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      10
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      3777036288,
+      3483701918,
+      2162700349
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T高分子化工",
+    "ID": 1122,
+    "SID": null,
+    "Desc": "高分子化工描述",
+    "Conclusion": "高分子化工结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1122",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2154144515
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      180356608,
+      1128507
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T高强度晶体",
+    "ID": 1123,
+    "SID": null,
+    "Desc": "高强度晶体描述",
+    "Conclusion": "高强度晶体结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1123",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3232215555
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [
+      26
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T结构矩阵",
+    "ID": 1124,
+    "SID": null,
+    "Desc": "结构矩阵描述",
+    "Conclusion": "结构矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1124",
+    "IsLabTech": 1,
+    "PreTechs": [
+      15384835
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [
+      27
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T卡西米尔晶体",
+    "ID": 1125,
+    "SID": null,
+    "Desc": "卡西米尔晶体描述",
+    "Conclusion": "卡西米尔晶体结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1125",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1076678915
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [
+      28,
+      29
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T高强度玻璃",
+    "ID": 1126,
+    "SID": null,
+    "Desc": "高强度玻璃描述",
+    "Conclusion": "高强度玻璃结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1126",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1132
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3533904128,
+      1351398597
+    ],
+    "ItemPoints": [
+      12,
+      6
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [
+      30
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T应用型超导体",
+    "ID": 1131,
+    "SID": null,
+    "Desc": "应用型超导体描述",
+    "Conclusion": "应用型超导体结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1131",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2154144515
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      31,
+      32
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T高强度材料",
+    "ID": 1132,
+    "SID": null,
+    "Desc": "高强度材料描述",
+    "Conclusion": "高强度材料结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1132",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1131
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3533904128,
+      1351398597
+    ],
+    "ItemPoints": [
+      2123170560,
+      8979365
+    ],
+    "HashNeeded": 135000,
+    "UnlockRecipes": [
+      4034201344,
+      3224594011
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T粒子可控技术",
+    "ID": 1133,
+    "SID": null,
+    "Desc": "粒子可控技术描述",
+    "Conclusion": "粒子可控技术结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1133",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1132
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      756350976,
+      3379481346,
+      9012123
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [
+      36,
+      62
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T重氢分馏",
+    "ID": 1134,
+    "SID": null,
+    "Desc": "重氢分馏描述",
+    "Conclusion": "重氢分馏结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1134",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1412,
+      1102
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      20,
+      30
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      110,
+      115
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T波函数干扰",
+    "ID": 1141,
+    "SID": null,
+    "Desc": "波函数干扰描述",
+    "Conclusion": "波函数干扰结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1141",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1299584768,
+      2150562197
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      2429457353
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      2
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [
+      2159709185
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 41,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T微型粒子对撞机",
+    "ID": 1142,
+    "SID": null,
+    "Desc": "微型粒子对撞机描述",
+    "Conclusion": "微型粒子对撞机结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1142",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1076678915
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [
+      2727807232,
+      16748478
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T奇异物质",
+    "ID": 1143,
+    "SID": null,
+    "Desc": "奇异物质描述",
+    "Conclusion": "奇异物质结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1143",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1078429700
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [
+      10030340
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 41,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T人造恒星",
+    "ID": 1144,
+    "SID": null,
+    "Desc": "人造恒星描述",
+    "Conclusion": "人造恒星结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1144",
+    "IsLabTech": 1,
+    "PreTechs": [
+      964100
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 432000,
+    "UnlockRecipes": [
+      43
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 61,
+      "y": -3
+    }
+  },
+  {
+    "Name": "T可控湮灭反应",
+    "ID": 1145,
+    "SID": null,
+    "Desc": "可控湮灭反应描述",
+    "Conclusion": "可控湮灭反应结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1145",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1506
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3533904128,
+      3490763717
+    ],
+    "ItemPoints": [
+      24,
+      12
+    ],
+    "HashNeeded": 600000,
+    "UnlockRecipes": [
+      42,
+      44
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 57,
+      "y": -3
+    }
+  },
+  {
+    "Name": "T加速剂 Mk.I",
+    "ID": 1151,
+    "SID": null,
+    "Desc": "加速剂 Mk.I描述",
+    "Conclusion": "加速剂 Mk.I结果",
+    "Published": 0,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1151",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1101
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      106,
+      109
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T加速剂 Mk.II",
+    "ID": 1152,
+    "SID": null,
+    "Desc": "加速剂 Mk.II描述",
+    "Conclusion": "加速剂 Mk.II结果",
+    "Published": 0,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1152",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1151
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      16,
+      12
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [
+      107
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T加速剂 Mk.III",
+    "ID": 1153,
+    "SID": null,
+    "Desc": "加速剂 Mk.III描述",
+    "Conclusion": "加速剂 Mk.III结果",
+    "Published": 0,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1153",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1079035140
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      8,
+      6,
+      4
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [
+      108
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T基础制造工艺",
+    "ID": 1201,
+    "SID": null,
+    "Desc": "基础制造工艺描述",
+    "Conclusion": "基础制造工艺结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1201",
+    "IsLabTech": 0,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      1301,
+      1201
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 1800,
+    "UnlockRecipes": [
+      45
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2303
+    ],
+    "AddItemCounts": [
+      1024
+    ],
+    "Position": {
+      "x": 13,
+      "y": -3
+    }
+  },
+  {
+    "Name": "T高速制造工艺",
+    "ID": 1202,
+    "SID": null,
+    "Desc": "高速制造工艺描述",
+    "Conclusion": "高速制造工艺结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1202",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1201,
+      1302
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      20,
+      10
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [
+      46
+    ],
+    "UnlockFunctions": [
+      7168
+    ],
+    "UnlockValues": [
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -3
+    }
+  },
+  {
+    "Name": "T量子打印技术",
+    "ID": 1203,
+    "SID": null,
+    "Desc": "量子打印技术描述",
+    "Conclusion": "量子打印技术结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1203",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1202,
+      1303
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 288000,
+    "UnlockRecipes": [
+      47
+    ],
+    "UnlockFunctions": [
+      7168
+    ],
+    "UnlockValues": [
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 49,
+      "y": -3
+    }
+  },
+  {
+    "Name": "T处理器",
+    "ID": 1302,
+    "SID": null,
+    "Desc": "处理器描述",
+    "Conclusion": "处理器结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1302",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1311
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [
+      1082849025
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T量子芯片",
+    "ID": 1303,
+    "SID": null,
+    "Desc": "量子芯片描述",
+    "Conclusion": "量子芯片结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1303",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2300512000,
+      5586805
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      2429457353
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 288000,
+    "UnlockRecipes": [
+      2160854530
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 45,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T半导体材料",
+    "ID": 1311,
+    "SID": null,
+    "Desc": "半导体材料描述",
+    "Conclusion": "半导体材料结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1311",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1201
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      4172545
+    ],
+    "HashNeeded": 18000,
+    "UnlockRecipes": [
+      3222148610
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T信息矩阵",
+    "ID": 1312,
+    "SID": null,
+    "Desc": "信息矩阵描述",
+    "Conclusion": "信息矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1312",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1302,
+      1133
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      10,
+      10
+    ],
+    "HashNeeded": 288000,
+    "UnlockRecipes": [
+      1083388930
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 41,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T自动化冶金",
+    "ID": 1401,
+    "SID": null,
+    "Desc": "自动化冶金描述",
+    "Conclusion": "自动化冶金结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1401",
+    "IsLabTech": 0,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      1202,
+      1301
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 1800,
+    "UnlockRecipes": [
+      343936256,
+      3231152244
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2302
+    ],
+    "AddItemCounts": [
+      3072
+    ],
+    "Position": {
+      "x": 13,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T冶炼提纯",
+    "ID": 1402,
+    "SID": null,
+    "Desc": "冶炼提纯描述",
+    "Conclusion": "冶炼提纯结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1402",
+    "IsLabTech": 1,
+    "PreTechs": [
+      271955460
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 18000,
+    "UnlockRecipes": [
+      34,
+      17,
+      59
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T晶体冶炼",
+    "ID": 1403,
+    "SID": null,
+    "Desc": "晶体冶炼描述",
+    "Conclusion": "晶体冶炼结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1403",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1402
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 90000,
+    "UnlockRecipes": [
+      60,
+      61,
+      37
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T钢材冶炼",
+    "ID": 1411,
+    "SID": null,
+    "Desc": "钢材冶炼描述",
+    "Conclusion": "钢材冶炼结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1411",
+    "IsLabTech": 1,
+    "PreTechs": [
+      271955460
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 21600,
+    "UnlockRecipes": [
+      63
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T火力发电",
+    "ID": 1412,
+    "SID": null,
+    "Desc": "火力发电描述",
+    "Conclusion": "火力发电结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1412",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1201
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 5400,
+    "UnlockRecipes": [
+      5923330
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2204
+    ],
+    "AddItemCounts": [
+      1024
+    ],
+    "Position": {
+      "x": 17,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T钛矿冶炼",
+    "ID": 1413,
+    "SID": null,
+    "Desc": "钛矿冶炼描述",
+    "Conclusion": "钛矿冶炼结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1413",
+    "IsLabTech": 1,
+    "PreTechs": [
+      272560900
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      1083994370
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T高强度钛合金",
+    "ID": 1414,
+    "SID": null,
+    "Desc": "高强度钛合金描述",
+    "Conclusion": "高强度钛合金结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1414",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2428637445
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2147765926
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [
+      2162065410
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T移山填海工程",
+    "ID": 1415,
+    "SID": null,
+    "Desc": "移山填海工程描述",
+    "Conclusion": "移山填海工程结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1415",
+    "IsLabTech": 1,
+    "PreTechs": [
+      272560900
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      2149395460
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T微型核聚变发电",
+    "ID": 1416,
+    "SID": null,
+    "Desc": "微型核聚变发电描述",
+    "Conclusion": "微型核聚变发电结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1416",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1134
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      20,
+      10,
+      5
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [
+      1765349632,
+      1078043283
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T位面冶金",
+    "ID": 1417,
+    "SID": null,
+    "Desc": "位面冶金描述",
+    "Conclusion": "位面冶金结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1417",
+    "IsLabTech": 1,
+    "PreTechs": [
+      358660
+    ],
+    "PreTechsImplicit": [
+      1403
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [
+      2150000900
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 45,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T太阳能收集",
+    "ID": 1501,
+    "SID": null,
+    "Desc": "太阳能收集描述",
+    "Conclusion": "太阳能收集结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1501",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1402,
+      1002,
+      1201
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      4172545
+    ],
+    "HashNeeded": 18000,
+    "UnlockRecipes": [
+      3223359490
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2205
+    ],
+    "AddItemCounts": [
+      1024
+    ],
+    "Position": {
+      "x": 21,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T光子变频",
+    "ID": 1502,
+    "SID": null,
+    "Desc": "光子变频描述",
+    "Conclusion": "光子变频结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1502",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1501
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [
+      3332443904,
+      1084600791
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T太阳帆轨道系统",
+    "ID": 1503,
+    "SID": null,
+    "Desc": "太阳帆轨道系统描述",
+    "Conclusion": "太阳帆轨道系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1503",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1502
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 54000,
+    "UnlockRecipes": [
+      2891386880,
+      3232351480
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T射线接收站",
+    "ID": 1504,
+    "SID": null,
+    "Desc": "射线接收站描述",
+    "Conclusion": "射线接收站结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1504",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1503
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [
+      7134210
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T行星电离层利用",
+    "ID": 1505,
+    "SID": null,
+    "Desc": "行星电离层利用描述",
+    "Conclusion": "行星电离层利用结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1505",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1504
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      3494927708
+    ],
+    "ItemPoints": [
+      2952790016,
+      162623668,
+      1342485828,
+      2149516583
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      8
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 49,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T狄拉克逆变机制",
+    "ID": 1506,
+    "SID": null,
+    "Desc": "狄拉克逆变机制描述",
+    "Conclusion": "狄拉克逆变机制结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1506",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1505
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      20,
+      20,
+      5,
+      5,
+      10
+    ],
+    "HashNeeded": 540000,
+    "UnlockRecipes": [
+      74
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 53,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T宇宙矩阵",
+    "ID": 1507,
+    "SID": null,
+    "Desc": "宇宙矩阵描述",
+    "Conclusion": "宇宙矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1507",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1506
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 720000,
+    "UnlockRecipes": [
+      75
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 65,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T任务完成",
+    "ID": 1508,
+    "SID": null,
+    "Desc": "任务完成描述",
+    "Conclusion": "任务完成结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1508",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1507
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": 3600000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3226321155
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 69,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T能量储存",
+    "ID": 1511,
+    "SID": null,
+    "Desc": "能量储存描述",
+    "Conclusion": "能量储存结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1511",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1403,
+      1501
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [
+      76
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T星际电力运输",
+    "ID": 1512,
+    "SID": null,
+    "Desc": "星际电力运输描述",
+    "Conclusion": "星际电力运输结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1512",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1414,
+      1511
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2147765926
+    ],
+    "HashNeeded": 216000,
+    "UnlockRecipes": [
+      77
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T高强度轻质结构",
+    "ID": 1521,
+    "SID": null,
+    "Desc": "高强度轻质结构描述",
+    "Conclusion": "高强度轻质结构结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1521",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1503
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      1347173045
+    ],
+    "ItemPoints": [
+      12,
+      2
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [
+      2042827008,
+      3232950842
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T垂直发射井",
+    "ID": 1522,
+    "SID": null,
+    "Desc": "垂直发射井描述",
+    "Conclusion": "垂直发射井结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1522",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1521
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 576000,
+    "UnlockRecipes": [
+      1601769984,
+      1085799771
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 45,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T戴森球应力系统",
+    "ID": 1523,
+    "SID": null,
+    "Desc": "戴森球应力系统描述",
+    "Conclusion": "戴森球应力系统结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 6,
+    "LevelCoef1": 180000,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1523",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1522
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      67108864,
+      3845209629,
+      3044003751,
+      3504554698,
+      2149516583
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      26
+    ],
+    "UnlockValues": [
+      15
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 49,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T基础物流系统",
+    "ID": 1601,
+    "SID": null,
+    "Desc": "基础物流系统描述",
+    "Conclusion": "基础物流系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1601",
+    "IsLabTech": 0,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      1301,
+      1201
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 1800,
+    "UnlockRecipes": [
+      1500643328,
+      2585230965,
+      4069927
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2001,
+      2011
+    ],
+    "AddItemCounts": [
+      1257833472,
+      1087110118
+    ],
+    "Position": {
+      "x": 13,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T改良物流系统",
+    "ID": 1602,
+    "SID": null,
+    "Desc": "改良物流系统描述",
+    "Conclusion": "改良物流系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1602",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2693165570
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 18000,
+    "UnlockRecipes": [
+      507515904,
+      2151853486
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [
+      2020,
+      2012
+    ],
+    "AddItemCounts": [
+      262144,
+      5120
+    ],
+    "Position": {
+      "x": 17,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T高效物流系统",
+    "ID": 1603,
+    "SID": null,
+    "Desc": "高效物流系统描述",
+    "Conclusion": "高效物流系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1603",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3771236610
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      1087110118
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      89,
+      90,
+      91
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T行星物流系统",
+    "ID": 1604,
+    "SID": null,
+    "Desc": "行星物流系统描述",
+    "Conclusion": "行星物流系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1604",
+    "IsLabTech": 1,
+    "PreTechs": [
+      537628930
+    ],
+    "PreTechsImplicit": [
+      1113,
+      3701
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      20,
+      10
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [
+      92,
+      93,
+      94
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T星际物流系统",
+    "ID": 1605,
+    "SID": null,
+    "Desc": "星际物流系统描述",
+    "Conclusion": "星际物流系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1605",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1000804096,
+      3496215254
+    ],
+    "PreTechsImplicit": [
+      1114
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2147765926
+    ],
+    "HashNeeded": 216000,
+    "UnlockRecipes": [
+      95,
+      96
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T气态行星开采",
+    "ID": 1606,
+    "SID": null,
+    "Desc": "气态行星开采描述",
+    "Conclusion": "气态行星开采结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1606",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1605,
+      1512
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 432000,
+    "UnlockRecipes": [
+      111
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 41,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T电磁驱动",
+    "ID": 1701,
+    "SID": null,
+    "Desc": "电磁驱动描述",
+    "Conclusion": "电磁驱动结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1701",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1001
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 9000,
+    "UnlockRecipes": [
+      1086956035
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T磁悬浮技术",
+    "ID": 1702,
+    "SID": null,
+    "Desc": "磁悬浮技术描述",
+    "Conclusion": "磁悬浮技术结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1702",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1701
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      1087110118
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [
+      2148250115
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T粒子磁力阱",
+    "ID": 1703,
+    "SID": null,
+    "Desc": "粒子磁力阱描述",
+    "Conclusion": "粒子磁力阱结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1703",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1702
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      20,
+      10
+    ],
+    "HashNeeded": 288000,
+    "UnlockRecipes": [
+      3512800768,
+      5301777
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T引力波折射",
+    "ID": 1704,
+    "SID": null,
+    "Desc": "引力波折射描述",
+    "Conclusion": "引力波折射结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1704",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1143,
+      1703
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [
+      101,
+      78
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 45,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T引力矩阵",
+    "ID": 1705,
+    "SID": null,
+    "Desc": "引力矩阵描述",
+    "Conclusion": "引力矩阵结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1705",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1303,
+      1704
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 576000,
+    "UnlockRecipes": [
+      102,
+      79
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 49,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T超级磁场发生器",
+    "ID": 1711,
+    "SID": null,
+    "Desc": "超级磁场发生器描述",
+    "Conclusion": "超级磁场发生器结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1711",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1702
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      1087110118
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [
+      3226926595
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -39
+    }
+  },
+  {
+    "Name": "T卫星配电系统",
+    "ID": 1712,
+    "SID": null,
+    "Desc": "卫星配电系统描述",
+    "Conclusion": "卫星配电系统结果",
+    "Published": 1,
+    "Level": 0,
+    "MaxLevel": 0,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/1712",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1711
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [
+      1085205250
+    ],
+    "UnlockFunctions": [],
+    "UnlockValues": [],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -39
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2101,
+    "SID": null,
+    "Desc": "机甲核心描述",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2101",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [],
+    "Items": [
+      1101,
+      1104
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 3600,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      40000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2102,
+    "SID": null,
+    "Desc": "机甲核心描述2",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2102",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1078400770
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      10,
+      10
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      240000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2103,
+    "SID": null,
+    "Desc": "机甲核心描述2",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2103",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2156471810
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      400000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2104,
+    "SID": null,
+    "Desc": "机甲核心描述2",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2104",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3234542850
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      800000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2105,
+    "SID": null,
+    "Desc": "机甲核心描述2",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2105",
+    "IsLabTech": 1,
+    "PreTechs": [
+      935170
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      2048,
+      134217736,
+      524288,
+      2048
+    ],
+    "HashNeeded": 1440000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      1600000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机甲核心",
+    "ID": 2106,
+    "SID": null,
+    "Desc": "机甲核心描述2",
+    "Conclusion": "机甲核心结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 10000,
+    "LevelCoef1": -8100000,
+    "LevelCoef2": 900000,
+    "IconPath": "Icons/Tech/2106",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1079006210
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      2048
+    ],
+    "HashNeeded": 18000000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      6144
+    ],
+    "UnlockValues": [
+      2400000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 25
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2201,
+    "SID": null,
+    "Desc": "机械骨骼描述",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2201",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      1203
+    ],
+    "ItemPoints": [
+      30
+    ],
+    "HashNeeded": 7200,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2202,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2202",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1087891205
+    ],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2203,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2203",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2202
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2204,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2204",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2203
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2205,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2205",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2204
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2206,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2206",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2205
+    ],
+    "PreTechsImplicit": [
+      935170
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2207,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 7,
+    "MaxLevel": 7,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2207",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2206
+    ],
+    "PreTechsImplicit": [
+      935170
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机械骨骼",
+    "ID": 2208,
+    "SID": null,
+    "Desc": "机械骨骼描述2",
+    "Conclusion": "机械骨骼结果",
+    "Published": 1,
+    "Level": 8,
+    "MaxLevel": 8,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2208",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2207
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      6144,
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 1200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      3072
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": 21
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2301,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2301",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      1103,
+      1301
+    ],
+    "ItemPoints": [
+      60,
+      60
+    ],
+    "HashNeeded": 7200,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2302,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2302",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2301
+    ],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2303,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2303",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2302
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2304,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2304",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2303
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2305,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2305",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2304
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 240000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T机舱容量",
+    "ID": 2306,
+    "SID": null,
+    "Desc": "机舱容量描述",
+    "Conclusion": "机舱容量结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2306",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2305
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      6144,
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 600000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      5120
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 17
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2401,
+    "SID": null,
+    "Desc": "通讯控制描述",
+    "Conclusion": "通讯控制结果1",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2401",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      4172545
+    ],
+    "HashNeeded": 9000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1024
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2402,
+    "SID": null,
+    "Desc": "通讯控制描述2",
+    "Conclusion": "通讯控制结果2",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2402",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3492324355
+    ],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1024
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2403,
+    "SID": null,
+    "Desc": "通讯控制描述3",
+    "Conclusion": "通讯控制结果3",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2403",
+    "IsLabTech": 1,
+    "PreTechs": [
+      275493635
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      9
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2404,
+    "SID": null,
+    "Desc": "通讯控制描述2",
+    "Conclusion": "通讯控制结果4",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2404",
+    "IsLabTech": 1,
+    "PreTechs": [
+      1353564675
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1024
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2405,
+    "SID": null,
+    "Desc": "通讯控制描述2",
+    "Conclusion": "通讯控制结果5",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2405",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2431635715
+    ],
+    "PreTechsImplicit": [
+      935170
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1024
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2406,
+    "SID": null,
+    "Desc": "通讯控制描述3",
+    "Conclusion": "通讯控制结果6",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2406",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3492929795
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 1440000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      9
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T通讯控制",
+    "ID": 2407,
+    "SID": null,
+    "Desc": "通讯控制描述2",
+    "Conclusion": "通讯控制结果7",
+    "Published": 1,
+    "Level": 7,
+    "MaxLevel": 10000,
+    "LevelCoef1": -21600000,
+    "LevelCoef2": 1800000,
+    "IconPath": "Icons/Tech/2407",
+    "IsLabTech": 1,
+    "PreTechs": [
+      276099075
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": 64800000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1024
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": 13
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2501,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2501",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      1030,
+      1006,
+      1109
+    ],
+    "ItemPoints": [
+      30,
+      30,
+      30
+    ],
+    "HashNeeded": 7200,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      200000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2502,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2502",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2501
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      200000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2503,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2503",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2502
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 216000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      200000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2504,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2504",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2503
+    ],
+    "PreTechsImplicit": [
+      935170
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 600000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      200000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2505,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2505",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2504
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 2700000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      800000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T能量回路",
+    "ID": 2506,
+    "SID": null,
+    "Desc": "能量回路描述",
+    "Conclusion": "能量回路结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 10000,
+    "LevelCoef1": -16200000,
+    "LevelCoef2": 1800000,
+    "IconPath": "Icons/Tech/2506",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2505
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": 36000000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2048
+    ],
+    "UnlockValues": [
+      1000000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 9
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2601,
+    "SID": null,
+    "Desc": "无人机引擎描述",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2601",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      4172545
+    ],
+    "HashNeeded": 18000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2602,
+    "SID": null,
+    "Desc": "无人机引擎描述2",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2602",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2601
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 72000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2603,
+    "SID": null,
+    "Desc": "无人机引擎描述2",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2603",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2602
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2604,
+    "SID": null,
+    "Desc": "无人机引擎描述2",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2604",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2603
+    ],
+    "PreTechsImplicit": [
+      935170
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2605,
+    "SID": null,
+    "Desc": "无人机引擎描述2",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2605",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2604
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 1440000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T无人机引擎",
+    "ID": 2606,
+    "SID": null,
+    "Desc": "无人机引擎描述2",
+    "Conclusion": "无人机引擎结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 20,
+    "LevelCoef1": -18000000,
+    "LevelCoef2": 1800000,
+    "IconPath": "Icons/Tech/2606",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2605
+    ],
+    "PreTechsImplicit": [
+      1079006210
+    ],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": 45000000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      10
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 5
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2901,
+    "SID": null,
+    "Desc": "驱动引擎描述",
+    "Conclusion": "驱动引擎结果1",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2901",
+    "IsLabTech": 0,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1078400770
+    ],
+    "Items": [
+      1006,
+      1202
+    ],
+    "ItemPoints": [
+      1650330368,
+      2157911312
+    ],
+    "HashNeeded": 10800,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      4096
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2902,
+    "SID": null,
+    "Desc": "驱动引擎描述2",
+    "Conclusion": "驱动引擎结果2",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2902",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2901
+    ],
+    "PreTechsImplicit": [
+      2156471810
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      4096
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2903,
+    "SID": null,
+    "Desc": "驱动引擎描述3",
+    "Conclusion": "驱动引擎结果3",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2903",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2902
+    ],
+    "PreTechsImplicit": [
+      3234542850
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      0
+    ],
+    "UnlockValues": [
+      1000
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2904,
+    "SID": null,
+    "Desc": "驱动引擎描述4",
+    "Conclusion": "驱动引擎结果4",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2904",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2903
+    ],
+    "PreTechsImplicit": [
+      2104,
+      1704
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 720000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      4096
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2905,
+    "SID": null,
+    "Desc": "驱动引擎描述5",
+    "Conclusion": "驱动引擎结果5",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/2904",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2904
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      3494927708
+    ],
+    "ItemPoints": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "HashNeeded": 1080000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      27
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T驱动引擎",
+    "ID": 2906,
+    "SID": null,
+    "Desc": "驱动引擎描述5",
+    "Conclusion": "驱动引擎结果5",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 100,
+    "LevelCoef1": -1800000,
+    "LevelCoef2": 360000,
+    "IconPath": "Icons/Tech/2904",
+    "IsLabTech": 1,
+    "PreTechs": [
+      2905
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      10
+    ],
+    "HashNeeded": 0,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      27
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": 1
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3101,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3101",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1503
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      1245380608,
+      17014996,
+      4131406
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      300
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3102,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3102",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3101
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      300
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3103,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3103",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3102
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      600
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3104,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3104",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3103
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      600
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3105,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3105",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3104
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 480000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      900
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T太阳帆寿命",
+    "ID": 3106,
+    "SID": null,
+    "Desc": "太阳帆寿命描述",
+    "Conclusion": "太阳帆寿命结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3106",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3105
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 1200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      12
+    ],
+    "UnlockValues": [
+      900
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -7
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3201,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3201",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1504
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      1245380608,
+      17014996,
+      4131406
+    ],
+    "HashNeeded": 54000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3202,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3202",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3201
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3203,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3203",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3202
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3204,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3204",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3203
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3205,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3205",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3204
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 420000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3206,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3206",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3205
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 480000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.9
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3207,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 7,
+    "MaxLevel": 7,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3207",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3206
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 1620000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.85
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T射线传输效率",
+    "ID": 3208,
+    "SID": null,
+    "Desc": "射线传输效率描述",
+    "Conclusion": "射线传输效率结果",
+    "Published": 1,
+    "Level": 8,
+    "MaxLevel": 10000,
+    "LevelCoef1": 1800000,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3208",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3207
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": -12600000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      13
+    ],
+    "UnlockValues": [
+      0.85
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -11
+    }
+  },
+  {
+    "Name": "T分拣器货物叠加",
+    "ID": 3301,
+    "SID": null,
+    "Desc": "分拣器货物叠加描述",
+    "Conclusion": "分拣器货物叠加结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3301",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      537628930
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      1245380608,
+      17014996,
+      4131406
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      14
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T分拣器货物叠加",
+    "ID": 3302,
+    "SID": null,
+    "Desc": "分拣器货物叠加描述",
+    "Conclusion": "分拣器货物叠加结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3302",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3301
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      14
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T分拣器货物叠加",
+    "ID": 3303,
+    "SID": null,
+    "Desc": "分拣器货物叠加描述",
+    "Conclusion": "分拣器货物叠加结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3303",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3302
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      14
+    ],
+    "UnlockValues": [
+      4
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T分拣器货物叠加",
+    "ID": 3304,
+    "SID": null,
+    "Desc": "分拣器货物叠加描述",
+    "Conclusion": "分拣器货物叠加结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3304",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3303
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      14
+    ],
+    "UnlockValues": [
+      5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T分拣器货物叠加",
+    "ID": 3305,
+    "SID": null,
+    "Desc": "分拣器货物叠加描述",
+    "Conclusion": "分拣器货物叠加结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3305",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3304
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      402653184,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 900000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      14
+    ],
+    "UnlockValues": [
+      6
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -19
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3401,
+    "SID": null,
+    "Desc": "运输船引擎描述",
+    "Conclusion": "运输船引擎结果1",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3401",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1615699970
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      1245380608,
+      17014996,
+      4131406
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15
+    ],
+    "UnlockValues": [
+      0.2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3402,
+    "SID": null,
+    "Desc": "运输船引擎描述",
+    "Conclusion": "运输船引擎结果2",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3402",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3401
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15
+    ],
+    "UnlockValues": [
+      0.2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3403,
+    "SID": null,
+    "Desc": "运输船引擎描述2",
+    "Conclusion": "运输船引擎结果3",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3403",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3402
+    ],
+    "PreTechsImplicit": [
+      2693771010
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15,
+      16
+    ],
+    "UnlockValues": [
+      0.3,
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3404,
+    "SID": null,
+    "Desc": "运输船引擎描述3",
+    "Conclusion": "运输船引擎结果4",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3404",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3403
+    ],
+    "PreTechsImplicit": [
+      2904
+    ],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15,
+      16,
+      17
+    ],
+    "UnlockValues": [
+      0.3,
+      0.5,
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3405,
+    "SID": null,
+    "Desc": "运输船引擎描述2",
+    "Conclusion": "运输船引擎结果5",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3405",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3404
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 360000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15,
+      16
+    ],
+    "UnlockValues": [
+      0.4,
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3406,
+    "SID": null,
+    "Desc": "运输船引擎描述2",
+    "Conclusion": "运输船引擎结果6",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3406",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3405
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 1440000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15,
+      16
+    ],
+    "UnlockValues": [
+      0.4,
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输船引擎",
+    "ID": 3407,
+    "SID": null,
+    "Desc": "运输船引擎描述2",
+    "Conclusion": "运输船引擎结果7",
+    "Published": 1,
+    "Level": 7,
+    "MaxLevel": 10000,
+    "LevelCoef1": -21600000,
+    "LevelCoef2": 1800000,
+    "IconPath": "Icons/Tech/3407",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3406
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": 64800000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      15,
+      16
+    ],
+    "UnlockValues": [
+      0.5,
+      0.5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -23
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3501,
+    "SID": null,
+    "Desc": "运输机舱扩容描述",
+    "Conclusion": "运输机舱扩容结果1",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3501",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1615699970
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      1245380608,
+      17014996,
+      4131406
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1816320
+    ],
+    "UnlockValues": [
+      5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3502,
+    "SID": null,
+    "Desc": "运输机舱扩容描述2",
+    "Conclusion": "运输机舱扩容结果2",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3502",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3501
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1816320
+    ],
+    "UnlockValues": [
+      5
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3503,
+    "SID": null,
+    "Desc": "运输机舱扩容描述3",
+    "Conclusion": "运输机舱扩容结果3",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3503",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3502
+    ],
+    "PreTechsImplicit": [
+      2693771010
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      5,
+      100
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3504,
+    "SID": null,
+    "Desc": "运输机舱扩容描述4",
+    "Conclusion": "运输机舱扩容结果4",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3504",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3503
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      10,
+      100
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3505,
+    "SID": null,
+    "Desc": "运输机舱扩容描述4",
+    "Conclusion": "运输机舱扩容结果5",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3505",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3504
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 720000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      10,
+      100
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3506,
+    "SID": null,
+    "Desc": "运输机舱扩容描述4",
+    "Conclusion": "运输机舱扩容结果5",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3506",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3505
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 960000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      10,
+      100
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3507,
+    "SID": null,
+    "Desc": "运输机舱扩容描述4",
+    "Conclusion": "运输机舱扩容结果5",
+    "Published": 1,
+    "Level": 7,
+    "MaxLevel": 7,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3507",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3506
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      3072,
+      201326604,
+      786432,
+      3072
+    ],
+    "HashNeeded": 2400000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      10,
+      200
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 33,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T运输机舱扩容",
+    "ID": 3508,
+    "SID": null,
+    "Desc": "运输机舱扩容描述4",
+    "Conclusion": "运输机舱扩容结果5",
+    "Published": 1,
+    "Level": 8,
+    "MaxLevel": 8,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3508",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3507
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      3072,
+      201326604,
+      786432,
+      3072
+    ],
+    "HashNeeded": 4800000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1682113536,
+      1079869894
+    ],
+    "UnlockValues": [
+      20,
+      200
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 37,
+      "y": -27
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3601,
+    "SID": null,
+    "Desc": "矿物利用描述",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3601",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1001
+    ],
+    "Items": [
+      3746044160,
+      269102005
+    ],
+    "ItemPoints": [
+      2515667200,
+      4131535
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3602,
+    "SID": null,
+    "Desc": "矿物利用描述2",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3602",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3601
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      2770141184,
+      2147569770,
+      2149516711
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3603,
+    "SID": null,
+    "Desc": "矿物利用描述2",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3603",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3602
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      2952790016,
+      162623668,
+      1342485828,
+      2149516583
+    ],
+    "HashNeeded": 180000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3604,
+    "SID": null,
+    "Desc": "矿物利用描述2",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3604",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3603
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      2416856668
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 480000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3605,
+    "SID": null,
+    "Desc": "矿物利用描述2",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3605",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3604
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      335544320,
+      4133108970,
+      291541821,
+      490937864,
+      3499104095
+    ],
+    "ItemPoints": [
+      4096,
+      268435472,
+      1048576,
+      4096
+    ],
+    "HashNeeded": 1800000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T矿物利用",
+    "ID": 3606,
+    "SID": null,
+    "Desc": "矿物利用描述2",
+    "Conclusion": "矿物利用结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 10000,
+    "LevelCoef1": 3600000,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3606",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3605
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      4096
+    ],
+    "HashNeeded": -18000000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1257833472,
+      3227620583
+    ],
+    "UnlockValues": [
+      0.94,
+      0.1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -31
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3701,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3701",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      2693165570
+    ],
+    "Items": [
+      272256260
+    ],
+    "ItemPoints": [
+      4172545
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3702,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3702",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3701
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272256260
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 108000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3703,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3703",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3702
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3533904128,
+      1351398597
+    ],
+    "ItemPoints": [
+      1257833472,
+      2149549543
+    ],
+    "HashNeeded": 144000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3704,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3704",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3703
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3705,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 5,
+    "MaxLevel": 5,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3705",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3704
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3046506496,
+      2648157781,
+      1351386313
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 480000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 25,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T垂直建造",
+    "ID": 3706,
+    "SID": null,
+    "Desc": "垂直建造描述",
+    "Conclusion": "垂直建造结果",
+    "Published": 1,
+    "Level": 6,
+    "MaxLevel": 6,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3706",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3705
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      3038802714,
+      3494927708
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 1200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      392496640,
+      3228219945
+    ],
+    "UnlockValues": [
+      1,
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 29,
+      "y": -15
+    }
+  },
+  {
+    "Name": "T研究速度",
+    "ID": 3901,
+    "SID": null,
+    "Desc": "研究速度描述",
+    "Conclusion": "研究速度结果",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3901",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [
+      1357918465
+    ],
+    "Items": [
+      2428398340
+    ],
+    "ItemPoints": [
+      6144
+    ],
+    "HashNeeded": 600000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2421760
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T研究速度",
+    "ID": 3902,
+    "SID": null,
+    "Desc": "研究速度描述",
+    "Conclusion": "研究速度结果",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3902",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3901
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2428398340
+    ],
+    "ItemPoints": [
+      6144
+    ],
+    "HashNeeded": 1200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2421760
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T研究速度",
+    "ID": 3903,
+    "SID": null,
+    "Desc": "研究速度描述",
+    "Conclusion": "研究速度结果",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3903",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3902
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2428398340
+    ],
+    "ItemPoints": [
+      6144
+    ],
+    "HashNeeded": 2400000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2421760
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T研究速度",
+    "ID": 3904,
+    "SID": null,
+    "Desc": "研究速度描述",
+    "Conclusion": "研究速度结果",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 10000,
+    "LevelCoef1": 14400000,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/3904",
+    "IsLabTech": 1,
+    "PreTechs": [
+      3903
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      272861700
+    ],
+    "ItemPoints": [
+      2048
+    ],
+    "HashNeeded": -43200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      2421760
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": -35
+    }
+  },
+  {
+    "Name": "T宇宙探索",
+    "ID": 4101,
+    "SID": null,
+    "Desc": "宇宙探索描述1",
+    "Conclusion": "宇宙探索结果1",
+    "Published": 1,
+    "Level": 1,
+    "MaxLevel": 1,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/4101",
+    "IsLabTech": 1,
+    "PreTechs": [],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 1800,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1080427265
+    ],
+    "UnlockValues": [
+      1
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 9,
+      "y": 33
+    }
+  },
+  {
+    "Name": "T宇宙探索",
+    "ID": 4102,
+    "SID": null,
+    "Desc": "宇宙探索描述2",
+    "Conclusion": "宇宙探索结果2",
+    "Published": 1,
+    "Level": 2,
+    "MaxLevel": 2,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/4102",
+    "IsLabTech": 1,
+    "PreTechs": [
+      8393728
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      3505863940
+    ],
+    "ItemPoints": [
+      2157958400
+    ],
+    "HashNeeded": 36000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1080427265
+    ],
+    "UnlockValues": [
+      2
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 13,
+      "y": 33
+    }
+  },
+  {
+    "Name": "T宇宙探索",
+    "ID": 4103,
+    "SID": null,
+    "Desc": "宇宙探索描述3",
+    "Conclusion": "宇宙探索结果3",
+    "Published": 1,
+    "Level": 3,
+    "MaxLevel": 3,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/4103",
+    "IsLabTech": 1,
+    "PreTechs": [
+      8394752
+    ],
+    "PreTechsImplicit": [
+      2902
+    ],
+    "Items": [
+      3046506496,
+      2648157781,
+      2429457353
+    ],
+    "ItemPoints": [
+      12,
+      12,
+      12
+    ],
+    "HashNeeded": 300000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1080427265
+    ],
+    "UnlockValues": [
+      3
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 17,
+      "y": 33
+    }
+  },
+  {
+    "Name": "T宇宙探索",
+    "ID": 4104,
+    "SID": null,
+    "Desc": "宇宙探索描述4",
+    "Conclusion": "宇宙探索结果4",
+    "Published": 1,
+    "Level": 4,
+    "MaxLevel": 4,
+    "LevelCoef1": 0,
+    "LevelCoef2": 0,
+    "IconPath": "Icons/Tech/4104",
+    "IsLabTech": 1,
+    "PreTechs": [
+      8395776
+    ],
+    "PreTechsImplicit": [],
+    "Items": [
+      2181234688,
+      3653938250,
+      2826662682,
+      3499153260
+    ],
+    "ItemPoints": [
+      402653208,
+      1572864,
+      6144
+    ],
+    "HashNeeded": 1200000,
+    "UnlockRecipes": [],
+    "UnlockFunctions": [
+      1080427265
+    ],
+    "UnlockValues": [
+      4
+    ],
+    "AddItems": [],
+    "AddItemCounts": [],
+    "Position": {
+      "x": 21,
+      "y": 33
+    }
+  }
+]

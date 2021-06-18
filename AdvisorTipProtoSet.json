@@ -1,0 +1,582 @@
+[
+  {
+    "Name": "提示1",
+    "ID": 1,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕1",
+    "Voice": "tip-1",
+    "MinLength": 15.5,
+    "MaxLength": 16.5
+  },
+  {
+    "Name": "提示2",
+    "ID": 2,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕2",
+    "Voice": "tip-2",
+    "MinLength": 29.6,
+    "MaxLength": 30.6
+  },
+  {
+    "Name": "提示3",
+    "ID": 3,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕3",
+    "Voice": "tip-3",
+    "MinLength": 3.5,
+    "MaxLength": 4.5
+  },
+  {
+    "Name": "提示4",
+    "ID": 4,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕4",
+    "Voice": "tip-4",
+    "MinLength": 18,
+    "MaxLength": 28
+  },
+  {
+    "Name": "提示5",
+    "ID": 5,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕5",
+    "Voice": "tip-5",
+    "MinLength": 9,
+    "MaxLength": 19
+  },
+  {
+    "Name": "提示6",
+    "ID": 6,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕6",
+    "Voice": "tip-6",
+    "MinLength": 8,
+    "MaxLength": 18
+  },
+  {
+    "Name": "提示7",
+    "ID": 7,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕7",
+    "Voice": "tip-7",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示8",
+    "ID": 8,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕8",
+    "Voice": "tip-8",
+    "MinLength": 10,
+    "MaxLength": 20
+  },
+  {
+    "Name": "提示9",
+    "ID": 9,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕9",
+    "Voice": "tip-9",
+    "MinLength": 17,
+    "MaxLength": 120
+  },
+  {
+    "Name": "提示10",
+    "ID": 10,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕10",
+    "Voice": "tip-10",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示11",
+    "ID": 11,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕11",
+    "Voice": "tip-11",
+    "MinLength": 10,
+    "MaxLength": 20
+  },
+  {
+    "Name": "提示12",
+    "ID": 12,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕12",
+    "Voice": "tip-12",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示13",
+    "ID": 13,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕13",
+    "Voice": "tip-13",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示14",
+    "ID": 14,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕14",
+    "Voice": "tip-14",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示15",
+    "ID": 15,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕15",
+    "Voice": "tip-15",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示16",
+    "ID": 16,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕16",
+    "Voice": "tip-16",
+    "MinLength": 16,
+    "MaxLength": 26
+  },
+  {
+    "Name": "提示17",
+    "ID": 17,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕17",
+    "Voice": "tip-17",
+    "MinLength": 25,
+    "MaxLength": 35
+  },
+  {
+    "Name": "提示18",
+    "ID": 18,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕18",
+    "Voice": "tip-18",
+    "MinLength": 16,
+    "MaxLength": 26
+  },
+  {
+    "Name": "提示19",
+    "ID": 19,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕19",
+    "Voice": "tip-19",
+    "MinLength": 17,
+    "MaxLength": 27
+  },
+  {
+    "Name": "提示20",
+    "ID": 20,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕20",
+    "Voice": "tip-20",
+    "MinLength": 17,
+    "MaxLength": 27
+  },
+  {
+    "Name": "提示21",
+    "ID": 21,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕21",
+    "Voice": "tip-21",
+    "MinLength": 27,
+    "MaxLength": 37
+  },
+  {
+    "Name": "提示22",
+    "ID": 22,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕22",
+    "Voice": "tip-22",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示23",
+    "ID": 23,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕23",
+    "Voice": "tip-23",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示24",
+    "ID": 24,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕24",
+    "Voice": "tip-24",
+    "MinLength": 17,
+    "MaxLength": 27
+  },
+  {
+    "Name": "提示25",
+    "ID": 25,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕25",
+    "Voice": "tip-25",
+    "MinLength": 22,
+    "MaxLength": 32
+  },
+  {
+    "Name": "提示26",
+    "ID": 26,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕26",
+    "Voice": "tip-26",
+    "MinLength": 17,
+    "MaxLength": 27
+  },
+  {
+    "Name": "提示27",
+    "ID": 27,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕27",
+    "Voice": "tip-27",
+    "MinLength": 11,
+    "MaxLength": 21
+  },
+  {
+    "Name": "提示28",
+    "ID": 28,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕28",
+    "Voice": "tip-28",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示29",
+    "ID": 29,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕29",
+    "Voice": "tip-29",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示30",
+    "ID": 30,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕30",
+    "Voice": "tip-30",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示31",
+    "ID": 31,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕31",
+    "Voice": "tip-31",
+    "MinLength": 30,
+    "MaxLength": 40
+  },
+  {
+    "Name": "提示32",
+    "ID": 32,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕32",
+    "Voice": "tip-32",
+    "MinLength": 17,
+    "MaxLength": 27
+  },
+  {
+    "Name": "提示33",
+    "ID": 33,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕33",
+    "Voice": "tip-33",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示34",
+    "ID": 34,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕34",
+    "Voice": "tip-34",
+    "MinLength": 25,
+    "MaxLength": 35
+  },
+  {
+    "Name": "提示35",
+    "ID": 35,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕35",
+    "Voice": "tip-35",
+    "MinLength": 30,
+    "MaxLength": 40
+  },
+  {
+    "Name": "提示36",
+    "ID": 36,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕36",
+    "Voice": "tip-36",
+    "MinLength": 20,
+    "MaxLength": 30
+  },
+  {
+    "Name": "提示37",
+    "ID": 37,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕37",
+    "Voice": "tip-37",
+    "MinLength": 31,
+    "MaxLength": 41
+  },
+  {
+    "Name": "提示38",
+    "ID": 38,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕38",
+    "Voice": "tip-38",
+    "MinLength": 19,
+    "MaxLength": 29
+  },
+  {
+    "Name": "提示39",
+    "ID": 39,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕39",
+    "Voice": "tip-39",
+    "MinLength": 22,
+    "MaxLength": 32
+  },
+  {
+    "Name": "提示40",
+    "ID": 40,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕40",
+    "Voice": "tip-40",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示41",
+    "ID": 41,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕41",
+    "Voice": "tip-41",
+    "MinLength": 35,
+    "MaxLength": 45
+  },
+  {
+    "Name": "提示42",
+    "ID": 42,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕42",
+    "Voice": "tip-42",
+    "MinLength": 31,
+    "MaxLength": 41
+  },
+  {
+    "Name": "提示43",
+    "ID": 43,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕43",
+    "Voice": "tip-43",
+    "MinLength": 25,
+    "MaxLength": 35
+  },
+  {
+    "Name": "提示44",
+    "ID": 44,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕44",
+    "Voice": "tip-44",
+    "MinLength": 33,
+    "MaxLength": 43
+  },
+  {
+    "Name": "提示45",
+    "ID": 45,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕45",
+    "Voice": "tip-45",
+    "MinLength": 18,
+    "MaxLength": 28
+  },
+  {
+    "Name": "提示46",
+    "ID": 46,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕46",
+    "Voice": "tip-46",
+    "MinLength": 19,
+    "MaxLength": 29
+  },
+  {
+    "Name": "提示47",
+    "ID": 47,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕47",
+    "Voice": "tip-47",
+    "MinLength": 10,
+    "MaxLength": 20
+  },
+  {
+    "Name": "提示48",
+    "ID": 48,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕48",
+    "Voice": "tip-48",
+    "MinLength": 20,
+    "MaxLength": 30
+  },
+  {
+    "Name": "提示49",
+    "ID": 49,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕49",
+    "Voice": "tip-49",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示50",
+    "ID": 50,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕50",
+    "Voice": "tip-50",
+    "MinLength": 20,
+    "MaxLength": 30
+  },
+  {
+    "Name": "提示51",
+    "ID": 51,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕51",
+    "Voice": "tip-51",
+    "MinLength": 24,
+    "MaxLength": 34
+  },
+  {
+    "Name": "提示52",
+    "ID": 52,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕52",
+    "Voice": "tip-52",
+    "MinLength": 14,
+    "MaxLength": 24
+  },
+  {
+    "Name": "提示53",
+    "ID": 53,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕53",
+    "Voice": "tip-53",
+    "MinLength": 21,
+    "MaxLength": 31
+  },
+  {
+    "Name": "提示54",
+    "ID": 54,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕54",
+    "Voice": "tip-54",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示55",
+    "ID": 55,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕55",
+    "Voice": "tip-55",
+    "MinLength": 39,
+    "MaxLength": 49
+  },
+  {
+    "Name": "提示56",
+    "ID": 56,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕56",
+    "Voice": "tip-56",
+    "MinLength": 12,
+    "MaxLength": 22
+  },
+  {
+    "Name": "提示57",
+    "ID": 57,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕57",
+    "Voice": "tip-57",
+    "MinLength": 15,
+    "MaxLength": 25
+  },
+  {
+    "Name": "提示58",
+    "ID": 58,
+    "SID": null,
+    "Priority": 0,
+    "Script": "顾问字幕58",
+    "Voice": "tip-58",
+    "MinLength": 7,
+    "MaxLength": 17
+  }
+]
