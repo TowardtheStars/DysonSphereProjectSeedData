@@ -802,7 +802,7 @@
   {
     "Name": "喷涂次数",
     "ID": 101,
-    "SID": 92,
+    "SID": "92",
     "ZHCN": "喷涂次数",
     "ENUS": "Times of spray",
     "FRFR": "Nombre de pulvérisation"
@@ -810,7 +810,7 @@
   {
     "Name": "采集速度",
     "ID": 102,
-    "SID": 93,
+    "SID": "93",
     "ZHCN": "采集速度",
     "ENUS": "Gathering speed",
     "FRFR": "Vitesse de collecte"
@@ -1324,7 +1324,7 @@
     "ID": 166,
     "SID": null,
     "ZHCN": "极速分拣器每次可运送 ",
-    "ENUS": "Sorter MK.III cargo stacking : ",
+    "ENUS": "Sorter MK.III cargo stacking : !!str  ",
     "FRFR": "Trieuse MK.III empilage cargo :"
   },
   {
@@ -1588,15 +1588,15 @@
     "ID": 199,
     "SID": null,
     "ZHCN": "节点",
-    "ENUS": "Node:  #",
-    "FRFR": "Nœud:  #"
+    "ENUS": "Node: !!str   #",
+    "FRFR": "Nœud: !!str   #"
   },
   {
     "Name": "带长度",
     "ID": 200,
     "SID": null,
     "ZHCN": "长度 ",
-    "ENUS": "Length:  ",
+    "ENUS": "Length: !!str   ",
     "FRFR": "Longueur:"
   },
   {
@@ -1604,7 +1604,7 @@
     "ID": 201,
     "SID": null,
     "ZHCN": "速度 ",
-    "ENUS": "Speed:  ",
+    "ENUS": "Speed: !!str   ",
     "FRFR": "Vitesse:"
   },
   {
@@ -1620,15 +1620,15 @@
     "ID": 203,
     "SID": null,
     "ZHCN": "线路",
-    "ENUS": "Path:  #",
-    "FRFR": "Chemin:  #"
+    "ENUS": "Path: !!str   #",
+    "FRFR": "Chemin: !!str   #"
   },
   {
     "Name": "线路节点数",
     "ID": 204,
     "SID": null,
     "ZHCN": "线路节点数 ",
-    "ENUS": "Total Nodes:  ",
+    "ENUS": "Total Nodes: !!str   ",
     "FRFR": "Total Nœuds:"
   },
   {
@@ -1636,8 +1636,8 @@
     "ID": 205,
     "SID": null,
     "ZHCN": "线路货物数 ",
-    "ENUS": "Total cargo:  ",
-    "FRFR": "Total cargos: "
+    "ENUS": "Total cargo: !!str   ",
+    "FRFR": "Total cargos: !!str  "
   },
   {
     "Name": "双击打开合成器",
@@ -1875,16 +1875,16 @@
     "Name": "分拣长度",
     "ID": 235,
     "SID": null,
-    "ZHCN": "长度: ",
-    "ENUS": "Length: ",
+    "ZHCN": "长度: !!str  ",
+    "ENUS": "Length: !!str  ",
     "FRFR": "Longueur:"
   },
   {
     "Name": "分拣往返",
     "ID": 236,
     "SID": null,
-    "ZHCN": "往返: ",
-    "ENUS": "Round-trip: ",
+    "ZHCN": "往返: !!str  ",
+    "ENUS": "Round-trip: !!str  ",
     "FRFR": "Aller-retour:"
   },
   {
@@ -2460,8 +2460,8 @@
     "ID": 308,
     "SID": null,
     "ZHCN": "关",
-    "ENUS": false,
-    "FRFR": false
+    "ENUS": "OFF",
+    "FRFR": "OFF"
   },
   {
     "Name": "空格分钟",
@@ -2851,9 +2851,9 @@
     "Name": "关闭",
     "ID": 357,
     "SID": null,
-    "ZHCN": false,
-    "ENUS": false,
-    "FRFR": false
+    "ZHCN": "OFF",
+    "ENUS": "OFF",
+    "FRFR": "OFF"
   },
   {
     "Name": "运行能耗",
@@ -3452,7 +3452,7 @@
     "ID": 432,
     "SID": null,
     "ZHCN": "否",
-    "ENUS": false,
+    "ENUS": "No",
     "FRFR": "Non"
   },
   {
@@ -3460,7 +3460,7 @@
     "ID": 433,
     "SID": null,
     "ZHCN": "是",
-    "ENUS": true,
+    "ENUS": "Yes",
     "FRFR": "Oui"
   },
   {
@@ -3557,15 +3557,15 @@
     "SID": null,
     "ZHCN": " 个",
     "ENUS": " ",
-    "FRFR": 0
+    "FRFR": "0"
   },
   {
     "Name": "储量",
     "ID": 446,
     "SID": null,
     "ZHCN": "\n储量 ",
-    "ENUS": "\nVein Reserves : ",
-    "FRFR": "\nRéserves de veines: "
+    "ENUS": "\nVein Reserves : !!str  ",
+    "FRFR": "\nRéserves de veines: !!str  "
   },
   {
     "Name": "产量",
@@ -3797,7 +3797,7 @@
     "SID": null,
     "ZHCN": "鼠标左键可以将该接口设置为优先输入。",
     "ENUS": "Left-click to prioritize input on this port.",
-    "FRFR": "Clic gauche : priorité aux entrées sur ce port."
+    "FRFR": "Clic gauche : !!str  priorité aux entrées sur ce port."
   },
   {
     "Name": "接口输出",
@@ -3805,7 +3805,7 @@
     "SID": null,
     "ZHCN": "鼠标左键可以将该接口设置为优先输出。",
     "ENUS": "Left-click to prioritize output on this port.",
-    "FRFR": "Clic gauche : priorité aux sorties sur ce port."
+    "FRFR": "Clic gauche : !!str  priorité aux sorties sur ce port."
   },
   {
     "Name": "接口取消优先",
@@ -3852,16 +3852,16 @@
     "ID": 482,
     "SID": null,
     "ZHCN": "开",
-    "ENUS": true,
-    "FRFR": true
+    "ENUS": "ON",
+    "FRFR": "ON"
   },
   {
     "Name": "储液罐关",
     "ID": 483,
     "SID": null,
     "ZHCN": "关",
-    "ENUS": false,
-    "FRFR": false
+    "ENUS": "OFF",
+    "FRFR": "OFF"
   },
   {
     "Name": "机甲功率提升",
@@ -3939,8 +3939,8 @@
     "Name": "沙土无消耗",
     "ID": 493,
     "SID": null,
-    "ZHCN": "      可用沙土数量: ",
-    "ENUS": "      Amount of soil pile available: ",
+    "ZHCN": "      可用沙土数量: !!str  ",
+    "ENUS": "      Amount of soil pile available: !!str  ",
     "FRFR": "      Quantité de tas de terre disponible :"
   },
   {
@@ -3955,17 +3955,17 @@
     "Name": "剩余沙土数量",
     "ID": 495,
     "SID": null,
-    "ZHCN": "个沙土\n      可用沙土数量: ",
-    "ENUS": "soil pile.\n      Amount of soil pile available: ",
-    "FRFR": "tas de terre.\n      Quantité de tas de terre disponible: "
+    "ZHCN": "个沙土\n      可用沙土数量: !!str  ",
+    "ENUS": "soil pile.\n      Amount of soil pile available: !!str  ",
+    "FRFR": "tas de terre.\n      Quantité de tas de terre disponible: !!str  "
   },
   {
     "Name": "改造大小",
     "ID": 496,
     "SID": null,
-    "ZHCN": "      区域大小: ",
-    "ENUS": "      The area size: ",
-    "FRFR": "      Taille de la zone: "
+    "ZHCN": "      区域大小: !!str  ",
+    "ENUS": "      The area size: !!str  ",
+    "FRFR": "      Taille de la zone: !!str  "
   },
   {
     "Name": "沙土不足",
@@ -6341,7 +6341,7 @@
     "SID": null,
     "ZHCN": "提示：\n【矩阵合成】用于制造各种超级矩阵；\n【科研模式】用于研究需要矩阵的科技。",
     "ENUS": "Tip:\n[Matrix mode] is to produce matrix;\n[Research mode] is to research tech which require matrix.",
-    "FRFR": "Conseil:\n[Mode Matrice] : produire une matrice;\n[Mode Recherche] : recherche de tech. nécessitant une matrice."
+    "FRFR": "Conseil:\n[Mode Matrice] : !!str  produire une matrice;\n[Mode Recherche] : !!str  recherche de tech. nécessitant une matrice."
   },
   {
     "Name": "无研究的科技",
@@ -7484,32 +7484,32 @@
     "ID": 1374,
     "SID": null,
     "ZHCN": "计划修建：节点",
-    "ENUS": "Build plan: Node",
-    "FRFR": "Plan de construction: Nœud"
+    "ENUS": "Build plan: !!str  Node",
+    "FRFR": "Plan de construction: !!str  Nœud"
   },
   {
     "Name": "绘制蓝图测地线",
     "ID": 1375,
     "SID": null,
     "ZHCN": "计划修建：测地线框架",
-    "ENUS": "Build plan: Frame (Geodesic)",
-    "FRFR": "Plan de construction: Cadre Géodésique"
+    "ENUS": "Build plan: !!str  Frame (Geodesic)",
+    "FRFR": "Plan de construction: !!str  Cadre Géodésique"
   },
   {
     "Name": "绘制蓝图经纬线",
     "ID": 1376,
     "SID": null,
     "ZHCN": "计划修建：经纬线框架",
-    "ENUS": "Build plan: Frame (Graticule)",
-    "FRFR": "Plan de construction: Cadre Graticule"
+    "ENUS": "Build plan: !!str  Frame (Graticule)",
+    "FRFR": "Plan de construction: !!str  Cadre Graticule"
   },
   {
     "Name": "绘制蓝图壳",
     "ID": 1377,
     "SID": null,
     "ZHCN": "计划修建：壳",
-    "ENUS": "Build plan: Shell",
-    "FRFR": "Plan de construction: Coque"
+    "ENUS": "Build plan: !!str  Shell",
+    "FRFR": "Plan de construction: !!str  Coque"
   },
   {
     "Name": "无网格",
@@ -7949,7 +7949,7 @@
     "SID": null,
     "ZHCN": "复制建筑的设置（公式、筛选器、模式等）快捷键 [<color=\"#FD966E\"><</color>]",
     "ENUS": "Copy building settings (recipe, filter, mode, etc..)  shortcut [<color=\"#FD966E\"><</color>]",
-    "FRFR": "Raccourci : Copie Param. Bâtiment (Planning, filtre, mode, etc.) [<color=\"#FD966E\"><</color>]"
+    "FRFR": "Raccourci : !!str  Copie Param. Bâtiment (Planning, filtre, mode, etc.) [<color=\"#FD966E\"><</color>]"
   },
   {
     "Name": "粘贴按钮提示",
@@ -7957,7 +7957,7 @@
     "SID": null,
     "ZHCN": "粘贴建筑的设置（公式、筛选器、模式等）快捷键 [<color=\"#FD966E\">></color>]",
     "ENUS": "Paste building settings (recipe, filter, mode, etc..)  shortcut [<color=\"#FD966E\">></color>]",
-    "FRFR": "Raccourci : Coller Param. Bâtiment (Planning, filtre, mode, etc.) [<color=\"#FD966E\">></color>]"
+    "FRFR": "Raccourci : !!str  Coller Param. Bâtiment (Planning, filtre, mode, etc.) [<color=\"#FD966E\">></color>]"
   },
   {
     "Name": "配方已复制",
@@ -11298,7 +11298,7 @@
   {
     "Name": "单极磁矿（珍奇）",
     "ID": 2310,
-    "SID": 2309,
+    "SID": "2309",
     "ZHCN": "单极磁矿<color=\"#FFA086C8\">（珍奇）</color>",
     "ENUS": "Unipolar magnet vein <color=\"#FFA086C8\">(rare)</color>",
     "FRFR": "Veine de Magnet unipolaire <color=\"#FFA086C8\">(rare)</color>."
@@ -12700,8 +12700,8 @@
     "ID": 3189,
     "SID": null,
     "ZHCN": "欢迎加入戴森球计划！\n你将白手起家，从一个小作坊，发展成为庞大的跨星系工业帝国，最终建造宇宙伟大的奇迹：戴森球。",
-    "ENUS": "Welcome to the Dyson Sphere Program!\nYou will start from scratch with a small workshop, develop into a huge intergalactic industrial empire, and finally build the great miracle of the universe: The Dyson Sphere.",
-    "FRFR": "Bienvenue dans le programme Sphere de Dyson!\nPartant de zéro, d'un petit atelier, vous vous développerez en un immense empire industriel inter-galactique, et vous construirez enfin le grand miracle de l'univers : la Sphère de Dyson."
+    "ENUS": "Welcome to the Dyson Sphere Program!\nYou will start from scratch with a small workshop, develop into a huge intergalactic industrial empire, and finally build the great miracle of the universe: !!str  The Dyson Sphere.",
+    "FRFR": "Bienvenue dans le programme Sphere de Dyson!\nPartant de zéro, d'un petit atelier, vous vous développerez en un immense empire industriel inter-galactique, et vous construirez enfin le grand miracle de l'univers : !!str  la Sphère de Dyson."
   },
   {
     "Name": "电磁学描述",
@@ -12796,8 +12796,8 @@
     "ID": 3201,
     "SID": null,
     "ZHCN": "使用新型高分子化合物合成技术加工精炼油和塑料，得到一种新的物品：有机晶体。",
-    "ENUS": "Processing refined oil and plastic with a new polymer synthesis technology will create a new material: Organic Crystal.",
-    "FRFR": "La transformation du pétrole raffiné et du plastique par une nouvelle technologie de synthèse des polymères permettra d'obtenir un nouveau matériau : Le cristal organique."
+    "ENUS": "Processing refined oil and plastic with a new polymer synthesis technology will create a new material: !!str  Organic Crystal.",
+    "FRFR": "La transformation du pétrole raffiné et du plastique par une nouvelle technologie de synthèse des polymères permettra d'obtenir un nouveau matériau : !!str  Le cristal organique."
   },
   {
     "Name": "高强度晶体描述",
@@ -13220,8 +13220,8 @@
     "ID": 3254,
     "SID": null,
     "ZHCN": "解锁基本的动力系统部件：电动机。",
-    "ENUS": "Unlocks the basic power system component: Electric Motor.",
-    "FRFR": "Déverrouillez l'élément de base du système d'alimentation : le moteur électrique."
+    "ENUS": "Unlocks the basic power system component: !!str  Electric Motor.",
+    "FRFR": "Déverrouillez l'élément de base du système d'alimentation : !!str  le moteur électrique."
   },
   {
     "Name": "磁悬浮技术描述",
@@ -13589,7 +13589,7 @@
     "SID": null,
     "ZHCN": "你解锁了超级矩阵━━能量矩阵，它是主脑维持家园运行的五种源码之一，也是开启更多科技的钥匙。",
     "ENUS": "You have unlocked the Energy Matrix, one of the five source codes to keep the CentreBrain simulating, and the key to activate more technologies.",
-    "FRFR": "Vous avez déverrouillé la Supermatrice : Matrice de l'Énergie, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation, et la clé pour activer d'autres technologies."
+    "FRFR": "Vous avez déverrouillé la Supermatrice : !!str  Matrice de l'Énergie, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation, et la clé pour activer d'autres technologies."
   },
   {
     "Name": "氢燃料棒结果",
@@ -13653,7 +13653,7 @@
     "SID": null,
     "ZHCN": "你解锁了超级矩阵━━结构矩阵，它是维持主脑运行的五种源码之一。上传结构矩阵至主脑，会让你更清楚了解物质结构的本质。",
     "ENUS": "You have unlocked the Structure Matrix, one of the five source codes to keep the CentreBrain simulating. Uploading the structure matrices to the CentreBrain will give you a clearer understanding of material structure.",
-    "FRFR": "Vous avez déverrouillé la matrice : Supermatrice de Structure, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation. Le téléchargement des Matrices de Sructure dans le CerveauCentral vous permettra de mieux comprendre la structure des matériaux."
+    "FRFR": "Vous avez déverrouillé la matrice : !!str  Supermatrice de Structure, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation. Le téléchargement des Matrices de Sructure dans le CerveauCentral vous permettra de mieux comprendre la structure des matériaux."
   },
   {
     "Name": "卡西米尔晶体结果",
@@ -13677,7 +13677,7 @@
     "SID": null,
     "ZHCN": "你获得了新型纳米超导材料━━石墨烯。它的用途非常广泛，如果你找到稀有矿物可燃冰，将会大大提高它的生产效率。",
     "ENUS": "You can now produce Graphene, a nano-superconducting material. Graphene is made in a Chemical Facility and can be produced with much greater efficiency through the use of a rare material called Fire Ice.",
-    "FRFR": "Vous avez obtenu un nouveau type de matériau nano-supraconducteur : Le Graphène. Si vous trouvez les minerais rares de Glace Combustible, ils amélioreront considérablement l'efficacité de la production du Graphène."
+    "FRFR": "Vous avez obtenu un nouveau type de matériau nano-supraconducteur : !!str  Le Graphène. Si vous trouvez les minerais rares de Glace Combustible, ils amélioreront considérablement l'efficacité de la production du Graphène."
   },
   {
     "Name": "高强度材料结果",
@@ -13685,7 +13685,7 @@
     "SID": null,
     "ZHCN": "你获得了比金刚石还要坚硬的材料：碳纳米管，它具有极高的强度和抗变形能力。你可以前往海洋类星球寻找稀有矿物━━刺笋结晶，用它来制造碳纳米管非常的方便。",
     "ENUS": "You have obtained Carbon Nanotube, a material harder than diamond. Has extremely high strength and resistance to deformation. You can go to marine planets to find rare ores, the Spiniform stalagmite crystal. It is very convenient to use them to make carbon nanotubes.",
-    "FRFR": "Vous avez obtenu un matériau plus dur que le diamant : le Nanotube de Carbone, qui présente une résistance mécanique et une résistance à la déformation extrêmement élevées. Vous pouvez aller sur les planètes marines pour trouver des minerais rares : Cristal de Stalagmite spiniforme. Il est très pratique de les utiliser pour fabriquer des nanotubes de carbone."
+    "FRFR": "Vous avez obtenu un matériau plus dur que le diamant : !!str  le Nanotube de Carbone, qui présente une résistance mécanique et une résistance à la déformation extrêmement élevées. Vous pouvez aller sur les planètes marines pour trouver des minerais rares : !!str  Cristal de Stalagmite spiniforme. Il est très pratique de les utiliser pour fabriquer des nanotubes de carbone."
   },
   {
     "Name": "粒子可控技术结果",
@@ -13733,7 +13733,7 @@
     "SID": null,
     "ZHCN": "你解锁了发电设施：人造小太阳，通过它可以将反物质燃料棒蕴含的巨大能量稳定可控地输入到电网。",
     "ENUS": "You have unlocked the power generation facility, the Mini-sun. It can input the tremendous energy of antimatter fuel rods to the power grid in a stable and controllable way.",
-    "FRFR": "Vous avez déverrouillé la centrale électrique : Mini-Soleil. Il peut apporter l'énorme énergie des barres de combustible antimatière au réseau électrique d'une manière stable et contrôlable."
+    "FRFR": "Vous avez déverrouillé la centrale électrique : !!str  Mini-Soleil. Il peut apporter l'énorme énergie des barres de combustible antimatière au réseau électrique d'une manière stable et contrôlable."
   },
   {
     "Name": "可控湮灭反应结果",
@@ -13813,7 +13813,7 @@
     "SID": null,
     "ZHCN": "你解锁了半导体材料━━微晶元件，它可以用来制造更复杂的集成电路。",
     "ENUS": "You have unlocked the semiconductor material, the Microcrystalline Component, which can be used to make more complex integrated circuits.",
-    "FRFR": "Vous avez débloqué le matériau semi-conducteur : Composants Microcristallins, qui peuvent être utilisés pour fabriquer des circuits intégrés plus complexes."
+    "FRFR": "Vous avez débloqué le matériau semi-conducteur : !!str  Composants Microcristallins, qui peuvent être utilisés pour fabriquer des circuits intégrés plus complexes."
   },
   {
     "Name": "信息矩阵结果",
@@ -13821,7 +13821,7 @@
     "SID": null,
     "ZHCN": "你解锁了超级矩阵━━信息矩阵，它是维持主脑运行的五种源码之一。上传信息矩阵，可以获得更多信息管理科技，从而提高基地的生产效率。",
     "ENUS": "You have unlocked the Information Matrix, one of the five source codes to keep the CentreBrain simulating. Uploading the structure matrices can get more information management technology, improving production efficiency.",
-    "FRFR": "Vous avez déverrouillé la Supermatrice : Matrice de l'Information, l'un des cinq codes sources qui permettent au CerveauCentral de maintenir la Simulation. En téléchargeant les Matrices de Structure, vous pouvez obtenir plus de technologie de gestion de l'information, ce qui améliore l'efficacité de la production."
+    "FRFR": "Vous avez déverrouillé la Supermatrice : !!str  Matrice de l'Information, l'un des cinq codes sources qui permettent au CerveauCentral de maintenir la Simulation. En téléchargeant les Matrices de Structure, vous pouvez obtenir plus de technologie de gestion de l'information, ce qui améliore l'efficacité de la production."
   },
   {
     "Name": "自动化冶金结果",
@@ -13877,7 +13877,7 @@
     "SID": null,
     "ZHCN": "你获得了一种新型合金材料━━钛合金，它有更高的强度，更好的韧性。",
     "ENUS": "You have obtained a new type of alloy material, the Titanium Alloy, which has higher strength and better toughness.\n",
-    "FRFR": "Vous avez obtenu un nouveau type d’alliage : l'Alliage de Titane, qui a une plus grande résistance et une meilleure ténacité."
+    "FRFR": "Vous avez obtenu un nouveau type d’alliage : !!str  l'Alliage de Titane, qui a une plus grande résistance et une meilleure ténacité."
   },
   {
     "Name": "移山填海工程结果",
@@ -13957,7 +13957,7 @@
     "SID": null,
     "ZHCN": "你解锁了超级矩阵━━宇宙矩阵，它容纳了一切事物，是万有理论的终极结晶，揭示了宇宙最终的奥秘。",
     "ENUS": "You have unlocked the Universe Matrix. It is the ultimate crystallization of the theory of everything and reveals the ultimate mystery of the universe.",
-    "FRFR": "Vous avez déverrouillé la matrice : Supermatrice de l'Univers. Elle est l'ultime cristallisation de la théorie du tout et révèle l'ultime mystère de l'univers."
+    "FRFR": "Vous avez déverrouillé la matrice : !!str  Supermatrice de l'Univers. Elle est l'ultime cristallisation de la théorie du tout et révèle l'ultime mystère de l'univers."
   },
   {
     "Name": "任务完成结果",
@@ -13989,7 +13989,7 @@
     "SID": null,
     "ZHCN": "你解锁了一种新型高强度轻质结构：框架材料，因为它能承受住恒星强大的引力，所以被用来制成戴森球组件发射到戴森球上形成节点和框架。",
     "ENUS": "You have unlocked a new type of high-strength lightweight structure, the Frame Material. Because it can withstand the strong gravitational force of the star, it is used to produce Dyson Sphere Component and launch them onto the Dyson sphere to form Node and Frame.",
-    "FRFR": "Vous avez débloqué un nouveau type de structure légère et très résistante : le Matériau de Cadre. Parce qu'il peut résister à la forte force gravitationnelle de l'étoile, il est utilisé pour produire des composants de la Sphère de Dyson et les envoyer sur la Sphère de Dyson pour former des nœuds et des cadres."
+    "FRFR": "Vous avez débloqué un nouveau type de structure légère et très résistante : !!str  le Matériau de Cadre. Parce qu'il peut résister à la forte force gravitationnelle de l'étoile, il est utilisé pour produire des composants de la Sphère de Dyson et les envoyer sur la Sphère de Dyson pour former des nœuds et des cadres."
   },
   {
     "Name": "垂直发射井结果",
@@ -14013,7 +14013,7 @@
     "SID": null,
     "ZHCN": "你解锁了自动化物流的基础设施━━传送带和分拣器，你可以用它们来将采矿机里堆积的矿物自动运送出来冶炼，或是装入储物仓。",
     "ENUS": "You have unlocked automated logistics, the Conveyor Belt and Sorter. You can use them to automatically transport the ores gathered in the mining machine for smelting or to load them into storage.",
-    "FRFR": "Vous avez déverrouillé la logistique automatisée : Tapis Roulants et Trieuses. Vous pouvez les utiliser pour transporter automatiquement les minerais rassemblés dans la machine d'extraction pour la fusion ou pour les charger dans l'Entrepôt."
+    "FRFR": "Vous avez déverrouillé la logistique automatisée : !!str  Tapis Roulants et Trieuses. Vous pouvez les utiliser pour transporter automatiquement les minerais rassemblés dans la machine d'extraction pour la fusion ou pour les charger dans l'Entrepôt."
   },
   {
     "Name": "改良物流系统结果",
@@ -14037,7 +14037,7 @@
     "SID": null,
     "ZHCN": "你解锁了远距离物流系统的基础设施━━行星内物流运输站和运输机，只要在运输站内设置好条件，运输机就会自动运送物品。",
     "ENUS": "You have unlocked the planetary logistics system, the Logistics Station and Drone. As long as you set the conditions in the station, the drones will automatically transport cargo.",
-    "FRFR": "Vous avez déverrouillé le système logistique planétaire : Stations Logistiques et Drones. Tant que vous définissez les conditions dans la station, les drones transporteront automatiquement des marchandises."
+    "FRFR": "Vous avez déverrouillé le système logistique planétaire : !!str  Stations Logistiques et Drones. Tant que vous définissez les conditions dans la station, les drones transporteront automatiquement des marchandises."
   },
   {
     "Name": "星际物流系统结果",
@@ -14045,7 +14045,7 @@
     "SID": null,
     "ZHCN": "你解锁了巨大的太空电梯━━星际物流运输站，只要在运输站内放入星际物流运输船，就可以实现行星之间的物资运输。",
     "ENUS": "You have unlocked the magnificent space elevator, the Interstellar Logistics Station. As long as you put logistics vessels in the station, you will realize the transportation of materials between planets.",
-    "FRFR": "Vous avez déverrouillé le magnifique ascenseur spatial : Station Logistique Interstellaire. Tant que vous placerez des vaisseaux logistiques dans la station, vous réaliserez le transport de matériaux entre les planètes."
+    "FRFR": "Vous avez déverrouillé le magnifique ascenseur spatial : !!str  Station Logistique Interstellaire. Tant que vous placerez des vaisseaux logistiques dans la station, vous réaliserez le transport de matériaux entre les planètes."
   },
   {
     "Name": "气态行星开采结果",
@@ -14061,7 +14061,7 @@
     "SID": null,
     "ZHCN": "你解锁了动力系统部件：电动机，可以加速机械运转，初期可以用来提升机甲移动速度。",
     "ENUS": "You have unlocked the Electric Motor. It can accelerate the machine's operating, and increase the mecha's move speed in the initial stage.",
-    "FRFR": "Vous avez déverrouillé le composant du système d'alimentation : le Moteur Électrique. Il peut accélérer le fonctionnement de la machine et augmenter la vitesse de déplacement du Méca dans la phase initiale."
+    "FRFR": "Vous avez déverrouillé le composant du système d'alimentation : !!str  le Moteur Électrique. Il peut accélérer le fonctionnement de la machine et augmenter la vitesse de déplacement du Méca dans la phase initiale."
   },
   {
     "Name": "磁悬浮技术结果",
@@ -14093,7 +14093,7 @@
     "SID": null,
     "ZHCN": "你解锁了超级矩阵━━引力矩阵，它是维持主脑运行的五种源码之一，调和了量子场论和广义相对论。",
     "ENUS": "You have unlocked the Gravity Matrix, one of the five source codes to keep the CentreBrain simulating, reconciling Quantum Field Theory and General Relativity.",
-    "FRFR": "Vous avez déverrouillé la Supermatrice : Matrice de Gravité, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation, en réconciliant la Théorie Quantique des Champs et la Relativité Générale."
+    "FRFR": "Vous avez déverrouillé la Supermatrice : !!str  Matrice de Gravité, l'un des cinq codes sources permettant au CerveauCentral de maintenir la Simulation, en réconciliant la Théorie Quantique des Champs et la Relativité Générale."
   },
   {
     "Name": "超级磁场发生器结果",
@@ -14957,7 +14957,7 @@
     "SID": null,
     "ZHCN": "将一层石墨烯叠在另一层石墨烯上，通过旋转，双层石墨烯会形成更加复杂的重复结构━━超级晶格，旋转至一定的“魔角”后，双层石墨烯会出现超导性，成为一种新型的纳米超导材料。",
     "ENUS": "The double-layer graphenes will form a complex repeating structure, a superlattice by rotating when stacking one layer of graphene on top of another. After rotating to a certain Magic Angle, double-layered graphene will gain superconductive properties. Graphene has become a new type of nano-superconducting material.",
-    "FRFR": "Les graphènes à double couche formeront une structure répétitive complexe : Super-réseau. Obtenu en tournant lorsqu'on empile une couche de graphène sur une autre.  Après avoir tourné jusqu'à un certain \"angle magique\", le graphène double couche deviendra un supraconducteur. Le graphène est devenu un nouveau type de matériau nano-supraconducteur."
+    "FRFR": "Les graphènes à double couche formeront une structure répétitive complexe : !!str  Super-réseau. Obtenu en tournant lorsqu'on empile une couche de graphène sur une autre.  Après avoir tourné jusqu'à un certain \"angle magique\", le graphène double couche deviendra un supraconducteur. Le graphène est devenu un nouveau type de matériau nano-supraconducteur."
   },
   {
     "Name": "I碳纳米管",
@@ -16356,8 +16356,8 @@
     "ID": 8218,
     "SID": null,
     "ZHCN": "机甲核心能量的回复主要通过燃烧室将燃料的能量转化为核心能量。燃烧室的功率越大，能量回复的速度也就越快。\n\n\n前期，采集星球上的树木、植物可以获得<color=\"#FD965ECC\">木材</color>、<color=\"#FD965ECC\">植物燃料</color>这两种初级燃料，<color=\"#FD965ECC\">煤</color>也是一种不错的燃料选择。\n高级燃料除了比低级燃料所蕴含的能量更多以外，还会对机甲燃烧室功率有额外提升，使机甲能更快速的回复能量。\n\n\n除了燃烧室以外，机甲核心还自带一个微弱的供电功率。\n\n\n你可以将鼠标移动到能量槽右边的数值上查看能量的具体使用细节。",
-    "ENUS": "Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: <color=\"#FD965ECC\">Logs</color> and <color=\"#FD965ECC\">Plant fuels</color>. <color=\"#FD965ECC\">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details.",
-    "FRFR": "Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: <color=\"#FD965ECC\">Logs</color> and <color=\"#FD965ECC\">Plant fuels</color>. <color=\"#FD965ECC\">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details."
+    "ENUS": "Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: !!str  <color=\"#FD965ECC\">Logs</color> and <color=\"#FD965ECC\">Plant fuels</color>. <color=\"#FD965ECC\">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details.",
+    "FRFR": "Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: !!str  <color=\"#FD965ECC\">Logs</color> and <color=\"#FD965ECC\">Plant fuels</color>. <color=\"#FD965ECC\">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details."
   },
   {
     "Name": "矩阵研究站介绍标题",
@@ -16372,8 +16372,8 @@
     "ID": 8220,
     "SID": null,
     "ZHCN": "矩阵研究站是真实世界与主脑连接的枢纽，它有两种工作模式：“矩阵合成”以及“科研模式”。\n\n\n矩阵合成模式，是指可以利用研究站来制造超级矩阵。\n科研模式，则是消耗超级矩阵来研究科技，只能研究需要超级矩阵才能解锁的科技。\n\n\n一旦选择科研模式，研究站将会自动研究当前正在进行的项目，所有研究站共享一个研究进度。\n\n\n<color=\"#FD965ECC\">使用多个研究站来同时研究一项科技，将极大的提升科技的研究速度 !</color>\n每个研究站将贡献 <color=\"#FD965ECC\">60hash/s</color> 的基础研究速度，必须放入科技所需的所有矩阵材料才能开始研究。",
-    "ENUS": "The Matrix lab is the hub of connecting the real world and the CentreBrain. It has two modes: Matrix and Research.\n\n\nThe Matrix mode is to produce matrices.\nThe Research mode is to consume the supermatrices to research technologies. And can only research the technologies that require the supermatrices to unlock.\n\n\nOnce select the research mode, the Matrix labs will automatically research the currently ongoing technology, and all Matrix labs share the same research progress.\n\n\n<color=\"#FD965ECC\">This will greatly increase the research speed by using multiple Matrix labs to research the same technology at the same time!</color>\n\n\nEach Matrix lab contributes a basic research speed of <color=\"#FD965ECC\">60hash/s</color>. Only you put all the matrices required by the technology into the Matrix lab, it will start research.",
-    "FRFR": "The Matrix lab is the hub of connecting the real world and the CentreBrain. It has two modes: Matrix and Research.\n\n\nThe Matrix mode is to produce matrices.\nThe Research mode is to consume the supermatrices to research technologies. And can only research the technologies that require the supermatrices to unlock.\n\n\nOnce select the research mode, the Matrix labs will automatically research the currently ongoing technology, and all Matrix labs share the same research progress.\n\n\n<color=\"#FD965ECC\">This will greatly increase the research speed by using multiple Matrix labs to research the same technology at the same time!</color>\n\n\nEach Matrix lab contributes a basic research speed of <color=\"#FD965ECC\">60hash/s</color>. Only you put all the matrices required by the technology into the Matrix lab, it will start research."
+    "ENUS": "The Matrix lab is the hub of connecting the real world and the CentreBrain. It has two modes: !!str  Matrix and Research.\n\n\nThe Matrix mode is to produce matrices.\nThe Research mode is to consume the supermatrices to research technologies. And can only research the technologies that require the supermatrices to unlock.\n\n\nOnce select the research mode, the Matrix labs will automatically research the currently ongoing technology, and all Matrix labs share the same research progress.\n\n\n<color=\"#FD965ECC\">This will greatly increase the research speed by using multiple Matrix labs to research the same technology at the same time!</color>\n\n\nEach Matrix lab contributes a basic research speed of <color=\"#FD965ECC\">60hash/s</color>. Only you put all the matrices required by the technology into the Matrix lab, it will start research.",
+    "FRFR": "The Matrix lab is the hub of connecting the real world and the CentreBrain. It has two modes: !!str  Matrix and Research.\n\n\nThe Matrix mode is to produce matrices.\nThe Research mode is to consume the supermatrices to research technologies. And can only research the technologies that require the supermatrices to unlock.\n\n\nOnce select the research mode, the Matrix labs will automatically research the currently ongoing technology, and all Matrix labs share the same research progress.\n\n\n<color=\"#FD965ECC\">This will greatly increase the research speed by using multiple Matrix labs to research the same technology at the same time!</color>\n\n\nEach Matrix lab contributes a basic research speed of <color=\"#FD965ECC\">60hash/s</color>. Only you put all the matrices required by the technology into the Matrix lab, it will start research."
   },
   {
     "Name": "矩阵研究站介绍后字",
@@ -16444,8 +16444,8 @@
     "ID": 8229,
     "SID": null,
     "ZHCN": "射线接收站可以接收从戴森球（戴森云）上传输回来的高能射线，它有两种不同的模式：<color=\"#FD965ECC\">“直接发电”</color>以及<color=\"#FD965ECC\">“光子生成”</color>。\n\n\n直接发电模式，是指射线接收站将接收到的能量直接输出到电网。\n<color=\"#FD965ECC\">光子生成模式，升级科技“狄拉克逆变机制”后才能解锁。</color>在光子生成模式下，射线接收站的接收功率×8，并会以这一超高的功率将接收到能量直接转化为“临界光子”。\n\n\n利用微型粒子对撞机可以很容易的将临界光子逆变为反物质和氢，实现将能量作为反物质来存储。",
-    "ENUS": "The ray receiver can receive the high-energy Gamma rays transmitted from the Dyson sphere(Dyson swarm). It has two different modes: <color=\"#FD965ECC\">Power generation</color> and <color=\"#FD965ECC\">Photon generation</color>.\n\n\nPower generation mode means that the ray receiver directly outputs the received energy to the grid.\n<color=\"#FD965ECC\">After upgrading the Dirac inversion mechanism technology, you can unlock the Photon generation mode.</color> Under the Photon generation mode, the receiving power of the ray receiver will be 8 times. Use this ultra-high power can directly convert the received energy into Critical photons.\n\n\nThe Miniature particle collider can easily convert critical photons into antimatter and hydrogen, realizing energy storage as antimatter.",
-    "FRFR": "The ray receiver can receive the high-energy Gamma rays transmitted from the Dyson sphere(Dyson swarm). It has two different modes: <color=\"#FD965ECC\">Power generation</color> and <color=\"#FD965ECC\">Photon generation</color>.\n\n\nPower generation mode means that the ray receiver directly outputs the received energy to the grid.\n<color=\"#FD965ECC\">After upgrading the Dirac inversion mechanism technology, you can unlock the Photon generation mode.</color> Under the Photon generation mode, the receiving power of the ray receiver will be five times. Use this ultra-high power can directly convert the received energy into Critical photons.\n\n\nThe Miniature particle collider can easily convert critical photons into antimatter and hydrogen, realizing energy storage as antimatter."
+    "ENUS": "The ray receiver can receive the high-energy Gamma rays transmitted from the Dyson sphere(Dyson swarm). It has two different modes: !!str  <color=\"#FD965ECC\">Power generation</color> and <color=\"#FD965ECC\">Photon generation</color>.\n\n\nPower generation mode means that the ray receiver directly outputs the received energy to the grid.\n<color=\"#FD965ECC\">After upgrading the Dirac inversion mechanism technology, you can unlock the Photon generation mode.</color> Under the Photon generation mode, the receiving power of the ray receiver will be 8 times. Use this ultra-high power can directly convert the received energy into Critical photons.\n\n\nThe Miniature particle collider can easily convert critical photons into antimatter and hydrogen, realizing energy storage as antimatter.",
+    "FRFR": "The ray receiver can receive the high-energy Gamma rays transmitted from the Dyson sphere(Dyson swarm). It has two different modes: !!str  <color=\"#FD965ECC\">Power generation</color> and <color=\"#FD965ECC\">Photon generation</color>.\n\n\nPower generation mode means that the ray receiver directly outputs the received energy to the grid.\n<color=\"#FD965ECC\">After upgrading the Dirac inversion mechanism technology, you can unlock the Photon generation mode.</color> Under the Photon generation mode, the receiving power of the ray receiver will be five times. Use this ultra-high power can directly convert the received energy into Critical photons.\n\n\nThe Miniature particle collider can easily convert critical photons into antimatter and hydrogen, realizing energy storage as antimatter."
   },
   {
     "Name": "射线接收站工作机制后字",

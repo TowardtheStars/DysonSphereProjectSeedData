@@ -3,7 +3,7 @@
     "Name": "铁矿",
     "ID": 1001,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "铁矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -36,7 +36,7 @@
     "Name": "铜矿",
     "ID": 1002,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "铜矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -69,7 +69,7 @@
     "Name": "硅石",
     "ID": 1003,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "硅矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -94,7 +94,8 @@
     "UnlockKey": 6001,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      0,
+      1
     ],
     "Description": "I硅石"
   },
@@ -102,7 +103,7 @@
     "Name": "钛石",
     "ID": 1004,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "钛矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -135,7 +136,7 @@
     "Name": "石矿",
     "ID": 1005,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "石矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -168,7 +169,7 @@
     "Name": "煤矿",
     "ID": 1006,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "煤矿脉",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -204,7 +205,7 @@
     "Name": "木材",
     "ID": 1030,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "树木",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -240,7 +241,7 @@
     "Name": "植物燃料",
     "ID": 1031,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "植物",
     "ProduceFrom": null,
     "StackSize": 500,
@@ -276,7 +277,7 @@
     "Name": "可燃冰",
     "ID": 1011,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "可燃冰矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -312,7 +313,7 @@
     "Name": "金伯利矿石",
     "ID": 1012,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "金伯利矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -345,7 +346,7 @@
     "Name": "分形硅石",
     "ID": 1013,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "分形硅矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -378,7 +379,7 @@
     "Name": "光栅石",
     "ID": 1014,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "光栅石矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -411,7 +412,7 @@
     "Name": "刺笋结晶",
     "ID": 1015,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "刺笋矿脉（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -444,7 +445,7 @@
     "Name": "单极磁石",
     "ID": 1016,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "单极磁矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 50,
@@ -477,7 +478,7 @@
     "Name": "铁块",
     "ID": 1101,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -502,7 +503,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I铁块"
   },
@@ -510,7 +511,7 @@
     "Name": "铜块",
     "ID": 1104,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -535,7 +536,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I铜块"
   },
@@ -543,7 +544,7 @@
     "Name": "高纯硅块",
     "ID": 1105,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -568,7 +569,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I高纯硅块"
   },
@@ -576,7 +577,7 @@
     "Name": "钛块",
     "ID": 1106,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -601,7 +602,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I钛块"
   },
@@ -609,7 +610,7 @@
     "Name": "石材",
     "ID": 1108,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -634,7 +635,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I石材"
   },
@@ -642,7 +643,7 @@
     "Name": "高能石墨",
     "ID": 1109,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -678,7 +679,7 @@
     "Name": "钢材",
     "ID": 1103,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -703,7 +704,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I钢材"
   },
@@ -711,7 +712,7 @@
     "Name": "钛合金",
     "ID": 1107,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -736,7 +737,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I钛合金"
   },
@@ -744,7 +745,7 @@
     "Name": "玻璃",
     "ID": 1110,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -769,7 +770,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I玻璃"
   },
@@ -777,7 +778,7 @@
     "Name": "钛化玻璃",
     "ID": 1119,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -802,7 +803,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I钛化玻璃"
   },
@@ -810,7 +811,7 @@
     "Name": "棱镜",
     "ID": 1111,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -835,7 +836,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I棱镜"
   },
@@ -843,7 +844,7 @@
     "Name": "金刚石",
     "ID": 1112,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -879,7 +880,7 @@
     "Name": "晶格硅",
     "ID": 1113,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -904,7 +905,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I晶格硅"
   },
@@ -912,7 +913,7 @@
     "Name": "齿轮",
     "ID": 1201,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -937,7 +938,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I齿轮"
   },
@@ -945,7 +946,7 @@
     "Name": "磁铁",
     "ID": 1102,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -970,7 +971,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I磁铁"
   },
@@ -978,7 +979,7 @@
     "Name": "磁线圈",
     "ID": 1202,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1003,7 +1004,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I磁线圈"
   },
@@ -1011,7 +1012,7 @@
     "Name": "电动机",
     "ID": 1203,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1036,7 +1037,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I电动机"
   },
@@ -1044,7 +1045,7 @@
     "Name": "电磁涡轮",
     "ID": 1204,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1069,7 +1070,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I电磁涡轮"
   },
@@ -1077,7 +1078,7 @@
     "Name": "超级磁场环",
     "ID": 1205,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1102,7 +1103,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I超级磁场环"
   },
@@ -1110,7 +1111,7 @@
     "Name": "粒子容器",
     "ID": 1206,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1135,7 +1136,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I粒子容器"
   },
@@ -1143,7 +1144,7 @@
     "Name": "奇异物质",
     "ID": 1127,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1168,7 +1169,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I奇异物质"
   },
@@ -1176,7 +1177,7 @@
     "Name": "电路板",
     "ID": 1301,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1201,7 +1202,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I电路板"
   },
@@ -1209,7 +1210,7 @@
     "Name": "处理器",
     "ID": 1303,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1234,7 +1235,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I处理器"
   },
@@ -1242,7 +1243,7 @@
     "Name": "量子芯片",
     "ID": 1305,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1267,7 +1268,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I量子芯片"
   },
@@ -1275,7 +1276,7 @@
     "Name": "微晶元件",
     "ID": 1302,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1300,7 +1301,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I微晶元件"
   },
@@ -1308,7 +1309,7 @@
     "Name": "位面过滤器",
     "ID": 1304,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1333,7 +1334,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I位面过滤器"
   },
@@ -1341,7 +1342,7 @@
     "Name": "粒子宽带",
     "ID": 1402,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1366,7 +1367,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I粒子宽带"
   },
@@ -1374,7 +1375,7 @@
     "Name": "电浆激发器",
     "ID": 1401,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -1399,7 +1400,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I电浆激发器"
   },
@@ -1407,7 +1408,7 @@
     "Name": "光子合并器",
     "ID": 1404,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -1432,7 +1433,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I光子合并器"
   },
@@ -1440,7 +1441,7 @@
     "Name": "太阳帆",
     "ID": 1501,
     "SID": null,
-    "Type": 4,
+    "Type": "4",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -1465,8 +1466,8 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      3381004288,
-      1078101387
+      36,
+      1
     ],
     "Description": "I太阳帆"
   },
@@ -1474,7 +1475,7 @@
     "Name": "水",
     "ID": 1000,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "海洋",
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1507,7 +1508,7 @@
     "Name": "原油",
     "ID": 1007,
     "SID": null,
-    "Type": 1,
+    "Type": "1",
     "MiningFrom": "原油涌泉",
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1543,7 +1544,7 @@
     "Name": "精炼油",
     "ID": 1114,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1579,7 +1580,7 @@
     "Name": "硫酸",
     "ID": 1116,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": "硫酸海洋",
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1604,7 +1605,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      262144,
+      1,
       0
     ],
     "Description": "I硫酸"
@@ -1613,7 +1614,7 @@
     "Name": "氢",
     "ID": 1120,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": "气态巨星轨道",
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1650,7 +1651,7 @@
     "Name": "重氢",
     "ID": 1121,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": "气态巨星轨道",
     "ProduceFrom": "分馏塔",
     "StackSize": 20,
@@ -1687,7 +1688,7 @@
     "Name": "反物质",
     "ID": 1122,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1712,8 +1713,8 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      3168864256,
-      1082326939
+      37,
+      1
     ],
     "Description": "I反物质"
   },
@@ -1721,7 +1722,7 @@
     "Name": "临界光子",
     "ID": 1208,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": "射线接收站",
     "StackSize": 100,
@@ -1746,8 +1747,8 @@
     "UnlockKey": 1122,
     "PreTechOverride": 1506,
     "DescFields": [
-      3168864256,
-      1082326939
+      37,
+      1
     ],
     "Description": "I临界光子"
   },
@@ -1755,7 +1756,7 @@
     "Name": "氢燃料棒",
     "ID": 1801,
     "SID": null,
-    "Type": 4,
+    "Type": "4",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 30,
@@ -1791,7 +1792,7 @@
     "Name": "氘核燃料棒",
     "ID": 1802,
     "SID": null,
-    "Type": 4,
+    "Type": "4",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1827,7 +1828,7 @@
     "Name": "反物质燃料棒",
     "ID": 1803,
     "SID": null,
-    "Type": 4,
+    "Type": "4",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -1863,7 +1864,7 @@
     "Name": "塑料",
     "ID": 1115,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -1888,7 +1889,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I塑料"
   },
@@ -1896,7 +1897,7 @@
     "Name": "石墨烯",
     "ID": 1123,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -1932,7 +1933,7 @@
     "Name": "碳纳米管",
     "ID": 1124,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -1968,7 +1969,7 @@
     "Name": "有机晶体",
     "ID": 1117,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": "有机晶体矿（珍奇）",
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2005,7 +2006,7 @@
     "Name": "钛晶石",
     "ID": 1118,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2030,7 +2031,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I钛晶石"
   },
@@ -2038,7 +2039,7 @@
     "Name": "卡西米尔晶体",
     "ID": 1126,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2063,7 +2064,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I卡西米尔晶体"
   },
@@ -2071,7 +2072,7 @@
     "Name": "引力透镜",
     "ID": 1209,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2096,7 +2097,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I引力透镜"
   },
@@ -2104,7 +2105,7 @@
     "Name": "空间翘曲器",
     "ID": 1210,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2129,7 +2130,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I空间翘曲器"
   },
@@ -2137,7 +2138,7 @@
     "Name": "湮灭约束球",
     "ID": 1403,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -2162,7 +2163,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I湮灭约束球"
   },
@@ -2170,7 +2171,7 @@
     "Name": "推进器2",
     "ID": 1405,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2195,7 +2196,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I推进器"
   },
@@ -2203,7 +2204,7 @@
     "Name": "加力推进器",
     "ID": 1406,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2228,7 +2229,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I加力推进器"
   },
@@ -2236,7 +2237,7 @@
     "Name": "物流运输机",
     "ID": 5001,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2271,7 +2272,7 @@
     "Name": "星际物流运输船",
     "ID": 5002,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -2305,7 +2306,7 @@
     "Name": "框架材料",
     "ID": 1125,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2330,7 +2331,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I框架材料"
   },
@@ -2338,7 +2339,7 @@
     "Name": "戴森球组件",
     "ID": 1502,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2363,7 +2364,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I戴森球组件"
   },
@@ -2371,7 +2372,7 @@
     "Name": "小型运载火箭",
     "ID": 1503,
     "SID": null,
-    "Type": 4,
+    "Type": "4",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -2396,7 +2397,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I小型运载火箭"
   },
@@ -2404,7 +2405,7 @@
     "Name": "地基",
     "ID": 1131,
     "SID": null,
-    "Type": 3,
+    "Type": "3",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 1000,
@@ -2429,7 +2430,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I地基"
   },
@@ -2437,7 +2438,7 @@
     "Name": "加速剂 Mk.I",
     "ID": 1141,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2472,7 +2473,7 @@
     "Name": "加速剂 Mk.II",
     "ID": 1142,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2507,7 +2508,7 @@
     "Name": "加速剂 Mk.III",
     "ID": 1143,
     "SID": null,
-    "Type": 2,
+    "Type": "2",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2542,7 +2543,7 @@
     "Name": "低速传送带",
     "ID": 2001,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -2580,7 +2581,7 @@
     "Name": "高速传送带",
     "ID": 2002,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -2618,7 +2619,7 @@
     "Name": "极速传送带",
     "ID": 2003,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -2656,7 +2657,7 @@
     "Name": "低速分拣器",
     "ID": 2011,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2697,7 +2698,7 @@
     "Name": "高速分拣器",
     "ID": 2012,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2738,7 +2739,7 @@
     "Name": "极速分拣器",
     "ID": 2013,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -2779,7 +2780,7 @@
     "Name": "四向分流器",
     "ID": 2020,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2804,8 +2805,8 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      2123170560,
-      1086510500
+      16,
+      1
     ],
     "Description": "I四向分流器"
   },
@@ -2813,7 +2814,7 @@
     "Name": "小型储物仓",
     "ID": 2101,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2838,8 +2839,8 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1911030528,
-      1073893557
+      17,
+      1
     ],
     "Description": "I小型储物仓"
   },
@@ -2847,7 +2848,7 @@
     "Name": "大型储物仓",
     "ID": 2102,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -2872,8 +2873,8 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1911030528,
-      1073893557
+      17,
+      1
     ],
     "Description": "I大型储物仓"
   },
@@ -2881,7 +2882,7 @@
     "Name": "储液罐",
     "ID": 2106,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2915,7 +2916,7 @@
     "Name": "制造台 Mk.I",
     "ID": 2303,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2955,7 +2956,7 @@
     "Name": "制造台 Mk.II",
     "ID": 2304,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -2995,7 +2996,7 @@
     "Name": "制造台 Mk.III",
     "ID": 2305,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -3035,7 +3036,7 @@
     "Name": "电力感应塔",
     "ID": 2201,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 100,
@@ -3070,7 +3071,7 @@
     "Name": "无线输电塔",
     "ID": 2202,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -3107,7 +3108,7 @@
     "Name": "卫星配电站",
     "ID": 2212,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3143,7 +3144,7 @@
     "Name": "风力涡轮机",
     "ID": 2203,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3180,7 +3181,7 @@
     "Name": "火力发电厂",
     "ID": 2204,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3205,9 +3206,10 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      335544336,
-      1572864,
-      1024
+      4,
+      5,
+      6,
+      1
     ],
     "Description": "I火力发电厂"
   },
@@ -3215,7 +3217,7 @@
     "Name": "微型聚变发电站",
     "ID": 2211,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3240,9 +3242,10 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      335544336,
-      1572864,
-      1024
+      4,
+      5,
+      6,
+      1
     ],
     "Description": "I微型聚变发电站"
   },
@@ -3250,7 +3253,7 @@
     "Name": "采矿机",
     "ID": 2301,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3287,7 +3290,7 @@
     "Name": "电弧熔炉",
     "ID": 2302,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -3326,7 +3329,7 @@
     "Name": "位面熔炉",
     "ID": 2315,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 50,
@@ -3365,7 +3368,7 @@
     "Name": "原油萃取站",
     "ID": 2307,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3402,7 +3405,7 @@
     "Name": "原油精炼厂",
     "ID": 2308,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3438,7 +3441,7 @@
     "Name": "抽水站",
     "ID": 2306,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3475,7 +3478,7 @@
     "Name": "化工厂",
     "ID": 2309,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3511,7 +3514,7 @@
     "Name": "分馏塔",
     "ID": 2314,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3546,7 +3549,7 @@
     "Name": "喷涂机",
     "ID": 2313,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3581,7 +3584,7 @@
     "Name": "太阳能板",
     "ID": 2205,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3606,9 +3609,9 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      268435456,
-      6029312,
-      1024
+      4,
+      39,
+      1
     ],
     "Description": "I太阳能板"
   },
@@ -3616,7 +3619,7 @@
     "Name": "蓄电器",
     "ID": 2206,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3652,7 +3655,7 @@
     "Name": "蓄电器（满）",
     "ID": 2207,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": "能量枢纽",
     "StackSize": 20,
@@ -3691,7 +3694,7 @@
     "Name": "电磁轨道弹射器",
     "ID": 2311,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -3727,7 +3730,7 @@
     "Name": "射线接收站",
     "ID": 2208,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3752,9 +3755,9 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      268435456,
-      6029312,
-      1024
+      4,
+      39,
+      1
     ],
     "Description": "I射线接收站"
   },
@@ -3762,7 +3765,7 @@
     "Name": "垂直发射井",
     "ID": 2312,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3798,7 +3801,7 @@
     "Name": "能量枢纽",
     "ID": 2209,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3834,7 +3837,7 @@
     "Name": "微型粒子对撞机",
     "ID": 2310,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3870,7 +3873,7 @@
     "Name": "人造恒星",
     "ID": 2210,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3895,9 +3898,10 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      335544336,
-      1572864,
-      1024
+      4,
+      5,
+      6,
+      1
     ],
     "Description": "I人造恒星"
   },
@@ -3905,7 +3909,7 @@
     "Name": "物流运输站",
     "ID": 2103,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3942,7 +3946,7 @@
     "Name": "星际物流运输站",
     "ID": 2104,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -3979,7 +3983,7 @@
     "Name": "轨道采集器",
     "ID": 2105,
     "SID": null,
-    "Type": 5,
+    "Type": "5",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 10,
@@ -4015,7 +4019,7 @@
     "Name": "矩阵研究站",
     "ID": 2901,
     "SID": null,
-    "Type": 6,
+    "Type": "6",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 20,
@@ -4052,7 +4056,7 @@
     "Name": "电磁矩阵",
     "ID": 6001,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4077,7 +4081,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I电磁矩阵"
   },
@@ -4085,7 +4089,7 @@
     "Name": "能量矩阵",
     "ID": 6002,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4110,7 +4114,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I能量矩阵"
   },
@@ -4118,7 +4122,7 @@
     "Name": "结构矩阵",
     "ID": 6003,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4143,7 +4147,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I结构矩阵"
   },
@@ -4151,7 +4155,7 @@
     "Name": "信息矩阵",
     "ID": 6004,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4176,7 +4180,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I信息矩阵"
   },
@@ -4184,7 +4188,7 @@
     "Name": "引力矩阵",
     "ID": 6005,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4209,7 +4213,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I引力矩阵"
   },
@@ -4217,7 +4221,7 @@
     "Name": "宇宙矩阵",
     "ID": 6006,
     "SID": null,
-    "Type": 9,
+    "Type": "9",
     "MiningFrom": null,
     "ProduceFrom": null,
     "StackSize": 200,
@@ -4242,7 +4246,7 @@
     "UnlockKey": 0,
     "PreTechOverride": 0,
     "DescFields": [
-      1024
+      1
     ],
     "Description": "I宇宙矩阵"
   }

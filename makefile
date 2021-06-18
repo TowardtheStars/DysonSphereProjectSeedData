@@ -10,7 +10,7 @@ proto: assets
 	python gen_proto.py
 
 zip: dirs
-	powershell Compress-Archive -Path "./data" -DestinationPath "./build/${VERSION}.zip"
+	powershell Compress-Archive -Path "./data" -DestinationPath "./build/${VERSION}.zip" -Force
 
 dirs:
 	powershell if (-not (Test-Path "./build")) {mkdir ./build}

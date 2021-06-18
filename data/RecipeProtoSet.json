@@ -2,8 +2,8 @@
   {
     "Name": "铁块",
     "ID": 1,
-    "SID": 1101,
-    "Type": 1,
+    "SID": "1101",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -11,13 +11,13 @@
       1001
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
       1101
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1101,
     "IconPath": null,
@@ -26,8 +26,8 @@
   {
     "Name": "磁铁",
     "ID": 2,
-    "SID": 1201,
-    "Type": 1,
+    "SID": "1201",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 90,
@@ -35,13 +35,13 @@
       1001
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
       1102
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1201,
     "IconPath": null,
@@ -50,8 +50,8 @@
   {
     "Name": "铜块",
     "ID": 3,
-    "SID": 1102,
-    "Type": 1,
+    "SID": "1102",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -59,13 +59,13 @@
       1002
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      3230464770
+      1104
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1102,
     "IconPath": null,
@@ -74,8 +74,8 @@
   {
     "Name": "石材",
     "ID": 4,
-    "SID": 1105,
-    "Type": 1,
+    "SID": "1105",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -83,13 +83,13 @@
       1005
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      3231004675
+      1108
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1105,
     "IconPath": null,
@@ -98,8 +98,8 @@
   {
     "Name": "齿轮",
     "ID": 5,
-    "SID": 1401,
-    "Type": 4,
+    "SID": "1401",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -107,13 +107,13 @@
       1101
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
       1201
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1401,
     "IconPath": null,
@@ -122,8 +122,8 @@
   {
     "Name": "磁线圈",
     "ID": 6,
-    "SID": 1202,
-    "Type": 4,
+    "SID": "1202",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -132,14 +132,14 @@
       1104
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       1202
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1202,
     "IconPath": null,
@@ -148,8 +148,8 @@
   {
     "Name": "风力涡轮机",
     "ID": 7,
-    "SID": 2104,
-    "Type": 4,
+    "SID": "2104",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -159,15 +159,15 @@
       1202
     ],
     "ItemCounts": [
-      402653184,
-      262144,
-      3072
+      6,
+      1,
+      3
     ],
     "Results": [
       2203
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2104,
     "IconPath": null,
@@ -176,8 +176,8 @@
   {
     "Name": "电力感应塔",
     "ID": 8,
-    "SID": 2101,
-    "Type": 4,
+    "SID": "2101",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -186,14 +186,14 @@
       1202
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
-      1087891205
+      2201
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2101,
     "IconPath": null,
@@ -202,8 +202,8 @@
   {
     "Name": "电磁矩阵",
     "ID": 9,
-    "SID": 1701,
-    "Type": 15,
+    "SID": "1701",
+    "Type": "15",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -212,14 +212,14 @@
       1301
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
-      3505863940
+      6001
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1701,
     "IconPath": null,
@@ -228,8 +228,8 @@
   {
     "Name": "矩阵研究站",
     "ID": 10,
-    "SID": 2408,
-    "Type": 4,
+    "SID": "2408",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -249,7 +249,7 @@
       2901
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2408,
     "IconPath": null,
@@ -258,22 +258,22 @@
   {
     "Name": "棱镜",
     "ID": 11,
-    "SID": 1305,
-    "Type": 4,
+    "SID": "1305",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
     "Items": [
-      1075468035
+      1110
     ],
     "ItemCounts": [
-      3072
+      3
     ],
     "Results": [
-      2153539075
+      1111
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1305,
     "IconPath": null,
@@ -282,8 +282,8 @@
   {
     "Name": "电浆激发器",
     "ID": 12,
-    "SID": 1402,
-    "Type": 4,
+    "SID": "1402",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -292,14 +292,14 @@
       1111
     ],
     "ItemCounts": [
-      1048576,
-      2048
+      4,
+      2
     ],
     "Results": [
-      271955460
+      1401
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1501,
     "IconPath": null,
@@ -308,24 +308,24 @@
   {
     "Name": "无线输电塔",
     "ID": 13,
-    "SID": 2102,
-    "Type": 4,
+    "SID": "2102",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
     "Items": [
-      1177756416,
-      276112649
+      2201,
+      1401
     ],
     "ItemCounts": [
-      262144,
-      3072
+      1,
+      3
     ],
     "Results": [
       2202
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2102,
     "IconPath": null,
@@ -334,8 +334,8 @@
   {
     "Name": "原油萃取站",
     "ID": 14,
-    "SID": 2306,
-    "Type": 4,
+    "SID": "2306",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -355,7 +355,7 @@
       2307
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2306,
     "IconPath": null,
@@ -364,8 +364,8 @@
   {
     "Name": "原油精炼厂",
     "ID": 15,
-    "SID": 2307,
-    "Type": 4,
+    "SID": "2307",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -385,7 +385,7 @@
       2308
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2307,
     "IconPath": null,
@@ -394,8 +394,8 @@
   {
     "Name": "等离子精炼",
     "ID": 16,
-    "SID": 1107,
-    "Type": 3,
+    "SID": "1107",
+    "Type": "3",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 240,
@@ -403,15 +403,15 @@
       1007
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
       1120,
       1114
     ],
     "ResultCounts": [
-      262144,
-      2048
+      1,
+      2
     ],
     "GridIndex": 1107,
     "IconPath": "Icons/ItemRecipe/plasma-refining",
@@ -420,8 +420,8 @@
   {
     "Name": "高能石墨",
     "ID": 17,
-    "SID": 1106,
-    "Type": 1,
+    "SID": "1106",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -429,13 +429,13 @@
       1006
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      14173955
+      1109
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1106,
     "IconPath": null,
@@ -444,24 +444,24 @@
   {
     "Name": "能量矩阵",
     "ID": 18,
-    "SID": 1702,
-    "Type": 15,
+    "SID": "1702",
+    "Type": "15",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      3683455744,
-      1076063456
+      1109,
+      1120
     ],
     "ItemCounts": [
-      524288,
-      2048
+      2,
+      2
     ],
     "Results": [
-      272256260
+      6002
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1702,
     "IconPath": null,
@@ -470,14 +470,14 @@
   {
     "Name": "氢燃料棒",
     "ID": 19,
-    "SID": 1210,
-    "Type": 4,
+    "SID": "1210",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      41751040,
-      1080294830
+      1106,
+      1120
     ],
     "ItemCounts": [
       1,
@@ -487,7 +487,7 @@
       1801
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1210,
     "IconPath": null,
@@ -496,8 +496,8 @@
   {
     "Name": "推进器",
     "ID": 20,
-    "SID": 1310,
-    "Type": 4,
+    "SID": "1310",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -506,14 +506,14 @@
       1104
     ],
     "ItemCounts": [
-      524288,
-      3072
+      2,
+      3
     ],
     "Results": [
       1405
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1310,
     "IconPath": null,
@@ -522,8 +522,8 @@
   {
     "Name": "加力推进器",
     "ID": 21,
-    "SID": 1311,
-    "Type": 4,
+    "SID": "1311",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -532,14 +532,14 @@
       1204
     ],
     "ItemCounts": [
-      1310720,
-      5120
+      5,
+      5
     ],
     "Results": [
       1406
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1311,
     "IconPath": null,
@@ -548,8 +548,8 @@
   {
     "Name": "化工厂",
     "ID": 22,
-    "SID": 2407,
-    "Type": 4,
+    "SID": "2407",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -569,7 +569,7 @@
       2309
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2407,
     "IconPath": null,
@@ -578,8 +578,8 @@
   {
     "Name": "塑料",
     "ID": 23,
-    "SID": 1108,
-    "Type": 2,
+    "SID": "1108",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -588,14 +588,14 @@
       1109
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       1115
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1108,
     "IconPath": null,
@@ -604,8 +604,8 @@
   {
     "Name": "硫酸",
     "ID": 24,
-    "SID": 1406,
-    "Type": 2,
+    "SID": "1406",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -623,7 +623,7 @@
       1116
     ],
     "ResultCounts": [
-      4096
+      4
     ],
     "GridIndex": 1406,
     "IconPath": null,
@@ -632,8 +632,8 @@
   {
     "Name": "有机晶体",
     "ID": 25,
-    "SID": 1208,
-    "Type": 2,
+    "SID": "1208",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -643,15 +643,15 @@
       1000
     ],
     "ItemCounts": [
-      134217728,
-      262144,
-      1024
+      2,
+      1,
+      1
     ],
     "Results": [
       1117
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1208,
     "IconPath": null,
@@ -660,8 +660,8 @@
   {
     "Name": "钛晶石",
     "ID": 26,
-    "SID": 1309,
-    "Type": 4,
+    "SID": "1309",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -670,14 +670,14 @@
       1106
     ],
     "ItemCounts": [
-      262144,
-      3072
+      1,
+      3
     ],
     "Results": [
       1118
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1309,
     "IconPath": null,
@@ -686,8 +686,8 @@
   {
     "Name": "结构矩阵",
     "ID": 27,
-    "SID": 1703,
-    "Type": 15,
+    "SID": "1703",
+    "Type": "15",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -696,14 +696,14 @@
       1118
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
-      1350327300
+      6003
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1703,
     "IconPath": null,
@@ -712,8 +712,8 @@
   {
     "Name": "卡西米尔晶体",
     "ID": 28,
-    "SID": 1505,
-    "Type": 4,
+    "SID": "1505",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -728,10 +728,10 @@
       12
     ],
     "Results": [
-      3232820995
+      1126
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1505,
     "IconPath": null,
@@ -740,8 +740,8 @@
   {
     "Name": "卡西米尔晶体（高效）",
     "ID": 29,
-    "SID": 1605,
-    "Type": 4,
+    "SID": "1605",
+    "Type": "4",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 240,
@@ -756,10 +756,10 @@
       12
     ],
     "Results": [
-      3232820995
+      1126
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1605,
     "IconPath": "Icons/ItemRecipe/casimir-crystal-lv2",
@@ -768,8 +768,8 @@
   {
     "Name": "钛化玻璃",
     "ID": 30,
-    "SID": 1304,
-    "Type": 4,
+    "SID": "1304",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -779,15 +779,15 @@
       1000
     ],
     "ItemCounts": [
-      134217728,
-      524288,
-      2048
+      2,
+      2,
+      2
     ],
     "Results": [
       1119
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1304,
     "IconPath": null,
@@ -796,8 +796,8 @@
   {
     "Name": "石墨烯",
     "ID": 31,
-    "SID": 1109,
-    "Type": 2,
+    "SID": "1109",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -806,14 +806,14 @@
       1116
     ],
     "ItemCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "Results": [
-      15384835
+      1123
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1109,
     "IconPath": null,
@@ -822,8 +822,8 @@
   {
     "Name": "石墨烯（高效）",
     "ID": 32,
-    "SID": 1209,
-    "Type": 2,
+    "SID": "1209",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 120,
@@ -831,15 +831,15 @@
       1011
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      1952781824,
-      1076051556
+      1123,
+      1120
     ],
     "ResultCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "GridIndex": 1209,
     "IconPath": "Icons/ItemRecipe/graphene-lv2",
@@ -848,24 +848,24 @@
   {
     "Name": "碳纳米管",
     "ID": 33,
-    "SID": 1409,
-    "Type": 2,
+    "SID": "1409",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 240,
     "Items": [
-      1952781824,
-      1074906211
+      1123,
+      1106
     ],
     "ItemCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "Results": [
-      1076678915
+      1124
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1409,
     "IconPath": null,
@@ -874,8 +874,8 @@
   {
     "Name": "硅石",
     "ID": 34,
-    "SID": 1403,
-    "Type": 1,
+    "SID": "1403",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 600,
@@ -889,7 +889,7 @@
       1003
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1403,
     "IconPath": null,
@@ -898,8 +898,8 @@
   {
     "Name": "碳纳米管（高效）",
     "ID": 35,
-    "SID": 1509,
-    "Type": 2,
+    "SID": "1509",
+    "Type": "2",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 240,
@@ -907,13 +907,13 @@
       1015
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      1076678915
+      1124
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1509,
     "IconPath": "Icons/ItemRecipe/nanotube-lv2",
@@ -922,8 +922,8 @@
   {
     "Name": "粒子宽带",
     "ID": 36,
-    "SID": 1503,
-    "Type": 4,
+    "SID": "1503",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -933,15 +933,15 @@
       1115
     ],
     "ItemCounts": [
-      134217728,
-      524288,
-      1024
+      2,
+      2,
+      1
     ],
     "Results": [
       1402
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1503,
     "IconPath": null,
@@ -950,22 +950,22 @@
   {
     "Name": "晶格硅",
     "ID": 37,
-    "SID": 1203,
-    "Type": 1,
+    "SID": "1203",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 120,
     "Items": [
-      13568515
+      1105
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      14779395
+      1113
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1203,
     "IconPath": null,
@@ -974,8 +974,8 @@
   {
     "Name": "位面过滤器",
     "ID": 38,
-    "SID": 1408,
-    "Type": 4,
+    "SID": "1408",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 720,
@@ -984,14 +984,14 @@
       1119
     ],
     "ItemCounts": [
-      262144,
-      2048
+      1,
+      2
     ],
     "Results": [
-      3496678145
+      1304
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1408,
     "IconPath": null,
@@ -1000,8 +1000,8 @@
   {
     "Name": "微型粒子对撞机",
     "ID": 39,
-    "SID": 2210,
-    "Type": 4,
+    "SID": "2210",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 900,
@@ -1023,7 +1023,7 @@
       2310
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2210,
     "IconPath": null,
@@ -1032,22 +1032,22 @@
   {
     "Name": "重氢",
     "ID": 40,
-    "SID": 1407,
-    "Type": 5,
+    "SID": "1407",
+    "Type": "5",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 300,
     "Items": [
-      1076073475
+      1120
     ],
     "ItemCounts": [
       10
     ],
     "Results": [
-      2154144515
+      1121
     ],
     "ResultCounts": [
-      5120
+      5
     ],
     "GridIndex": 1407,
     "IconPath": null,
@@ -1056,8 +1056,8 @@
   {
     "Name": "氘核燃料棒",
     "ID": 41,
-    "SID": 1211,
-    "Type": 4,
+    "SID": "1211",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 720,
@@ -1067,15 +1067,15 @@
       1205
     ],
     "ItemCounts": [
-      67108864,
-      3145728,
-      1024
+      1,
+      20,
+      1
     ],
     "Results": [
       1802
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1211,
     "IconPath": null,
@@ -1084,8 +1084,8 @@
   {
     "Name": "湮灭约束球",
     "ID": 42,
-    "SID": 1508,
-    "Type": 4,
+    "SID": "1508",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1200,
@@ -1094,14 +1094,14 @@
       1303
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
       1403
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1508,
     "IconPath": null,
@@ -1110,8 +1110,8 @@
   {
     "Name": "人造恒星",
     "ID": 43,
-    "SID": 2111,
-    "Type": 4,
+    "SID": "2111",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1800,
@@ -1131,7 +1131,7 @@
       2210
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2111,
     "IconPath": null,
@@ -1140,8 +1140,8 @@
   {
     "Name": "反物质燃料棒",
     "ID": 44,
-    "SID": 1212,
-    "Type": 4,
+    "SID": "1212",
+    "Type": "4",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 1440,
@@ -1161,7 +1161,7 @@
       1803
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1212,
     "IconPath": null,
@@ -1170,8 +1170,8 @@
   {
     "Name": "制造台 Mk.I",
     "ID": 45,
-    "SID": 2401,
-    "Type": 4,
+    "SID": "2401",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -1189,7 +1189,7 @@
       2303
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2401,
     "IconPath": null,
@@ -1198,8 +1198,8 @@
   {
     "Name": "制造台 Mk.II",
     "ID": 46,
-    "SID": 2402,
-    "Type": 4,
+    "SID": "2402",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -1217,7 +1217,7 @@
       2304
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2402,
     "IconPath": null,
@@ -1226,8 +1226,8 @@
   {
     "Name": "制造台 Mk.III",
     "ID": 47,
-    "SID": 2403,
-    "Type": 4,
+    "SID": "2403",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -1245,7 +1245,7 @@
       2305
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2403,
     "IconPath": null,
@@ -1254,8 +1254,8 @@
   {
     "Name": "采矿机",
     "ID": 48,
-    "SID": 2304,
-    "Type": 4,
+    "SID": "2304",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -1266,15 +1266,16 @@
       1201
     ],
     "ItemCounts": [
-      134217744,
-      524288,
-      2048
+      4,
+      2,
+      2,
+      2
     ],
     "Results": [
       2301
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2304,
     "IconPath": null,
@@ -1283,8 +1284,8 @@
   {
     "Name": "抽水站",
     "ID": 49,
-    "SID": 2305,
-    "Type": 4,
+    "SID": "2305",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -1304,7 +1305,7 @@
       2306
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2305,
     "IconPath": null,
@@ -1313,8 +1314,8 @@
   {
     "Name": "电路板",
     "ID": 50,
-    "SID": 1404,
-    "Type": 4,
+    "SID": "1404",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -1323,14 +1324,14 @@
       1104
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
-      279307520
+      1301
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1404,
     "IconPath": null,
@@ -1339,24 +1340,24 @@
   {
     "Name": "处理器",
     "ID": 51,
-    "SID": 1504,
-    "Type": 4,
+    "SID": "1504",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
     "Items": [
-      3394766080,
-      1358386975
+      1301,
+      1302
     ],
     "ItemCounts": [
-      524288,
-      2048
+      2,
+      2
     ],
     "Results": [
-      2418607105
+      1303
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1504,
     "IconPath": null,
@@ -1365,24 +1366,24 @@
   {
     "Name": "量子芯片",
     "ID": 52,
-    "SID": 1604,
-    "Type": 4,
+    "SID": "1604",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      2953709056,
-      3506137664
+      1303,
+      1304
     ],
     "ItemCounts": [
-      524288,
-      2048
+      2,
+      2
     ],
     "Results": [
-      279847425
+      1305
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1604,
     "IconPath": null,
@@ -1391,24 +1392,24 @@
   {
     "Name": "微晶元件",
     "ID": 53,
-    "SID": 1603,
-    "Type": 4,
+    "SID": "1603",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
     "Items": [
-      253891072,
-      3230460573
+      1105,
+      1104
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
-      1357378560
+      1302
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1603,
     "IconPath": null,
@@ -1417,8 +1418,8 @@
   {
     "Name": "有机晶体（原始）",
     "ID": 54,
-    "SID": 1308,
-    "Type": 4,
+    "SID": "1308",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 1,
     "TimeSpend": 360,
@@ -1436,7 +1437,7 @@
       1117
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1308,
     "IconPath": "Icons/ItemRecipe/crystal-rubber-lv0",
@@ -1445,8 +1446,8 @@
   {
     "Name": "信息矩阵",
     "ID": 55,
-    "SID": 1704,
-    "Type": 15,
+    "SID": "1704",
+    "Type": "15",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 600,
@@ -1455,14 +1456,14 @@
       1402
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
-      2428398340
+      6004
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1704,
     "IconPath": null,
@@ -1471,8 +1472,8 @@
   {
     "Name": "电弧熔炉",
     "ID": 56,
-    "SID": 2404,
-    "Type": 4,
+    "SID": "2404",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -1483,15 +1484,16 @@
       1202
     ],
     "ItemCounts": [
-      134217744,
-      1048576,
-      2048
+      4,
+      2,
+      4,
+      2
     ],
     "Results": [
       2302
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2404,
     "IconPath": null,
@@ -1500,8 +1502,8 @@
   {
     "Name": "玻璃",
     "ID": 57,
-    "SID": 1205,
-    "Type": 1,
+    "SID": "1205",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -1509,13 +1511,13 @@
       1005
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      1075468035
+      1110
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1205,
     "IconPath": null,
@@ -1524,8 +1526,8 @@
   {
     "Name": "X射线裂解",
     "ID": 58,
-    "SID": 1207,
-    "Type": 3,
+    "SID": "1207",
+    "Type": "3",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 240,
@@ -1534,16 +1536,16 @@
       1120
     ],
     "ItemCounts": [
-      262144,
-      2048
+      1,
+      2
     ],
     "Results": [
-      2605978880,
-      1606450
+      1120,
+      1109
     ],
     "ResultCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "GridIndex": 1207,
     "IconPath": "Icons/ItemRecipe/X-ray",
@@ -1552,8 +1554,8 @@
   {
     "Name": "高纯硅块",
     "ID": 59,
-    "SID": 1103,
-    "Type": 1,
+    "SID": "1103",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -1561,13 +1563,13 @@
       1003
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      13568515
+      1105
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1103,
     "IconPath": null,
@@ -1576,22 +1578,22 @@
   {
     "Name": "金刚石",
     "ID": 60,
-    "SID": 1206,
-    "Type": 1,
+    "SID": "1206",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 120,
     "Items": [
-      14173955
+      1109
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      3231610115
+      1112
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1206,
     "IconPath": null,
@@ -1600,8 +1602,8 @@
   {
     "Name": "金刚石（高效）",
     "ID": 61,
-    "SID": 1306,
-    "Type": 1,
+    "SID": "1306",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 90,
@@ -1609,13 +1611,13 @@
       1012
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      3231610115
+      1112
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1306,
     "IconPath": "Icons/ItemRecipe/diamond-lv2",
@@ -1624,8 +1626,8 @@
   {
     "Name": "晶格硅（高效）",
     "ID": 62,
-    "SID": 1303,
-    "Type": 4,
+    "SID": "1303",
+    "Type": "4",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 90,
@@ -1633,13 +1635,13 @@
       1013
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
-      14779395
+      1113
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1303,
     "IconPath": "Icons/ItemRecipe/silicium-high-purity-lv2",
@@ -1648,8 +1650,8 @@
   {
     "Name": "钢材",
     "ID": 63,
-    "SID": 1301,
-    "Type": 1,
+    "SID": "1301",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -1657,13 +1659,13 @@
       1101
     ],
     "ItemCounts": [
-      3072
+      3
     ],
     "Results": [
       1103
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1301,
     "IconPath": null,
@@ -1672,8 +1674,8 @@
   {
     "Name": "火力发电厂",
     "ID": 64,
-    "SID": 2105,
-    "Type": 4,
+    "SID": "2105",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -1693,7 +1695,7 @@
       2204
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2105,
     "IconPath": null,
@@ -1702,8 +1704,8 @@
   {
     "Name": "钛块",
     "ID": 65,
-    "SID": 1104,
-    "Type": 1,
+    "SID": "1104",
+    "Type": "1",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -1711,13 +1713,13 @@
       1004
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      1074862595
+      1106
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1104,
     "IconPath": null,
@@ -1726,8 +1728,8 @@
   {
     "Name": "钛合金",
     "ID": 66,
-    "SID": 1204,
-    "Type": 1,
+    "SID": "1204",
+    "Type": "1",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 720,
@@ -1742,10 +1744,10 @@
       8
     ],
     "Results": [
-      2152933635
+      1107
     ],
     "ResultCounts": [
-      4096
+      4
     ],
     "GridIndex": 1204,
     "IconPath": null,
@@ -1754,15 +1756,15 @@
   {
     "Name": "太阳能板",
     "ID": 67,
-    "SID": 2106,
-    "Type": 4,
+    "SID": "2106",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      4134076416,
-      989927357,
-      279287032
+      1104,
+      1105,
+      1301
     ],
     "ItemCounts": [
       10,
@@ -1773,7 +1775,7 @@
       2205
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2106,
     "IconPath": null,
@@ -1782,24 +1784,24 @@
   {
     "Name": "光子合并器",
     "ID": 68,
-    "SID": 1502,
-    "Type": 4,
+    "SID": "1502",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
     "Items": [
-      3242398720,
-      270906110
+      1111,
+      1301
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       1404
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1601,
     "IconPath": null,
@@ -1808,8 +1810,8 @@
   {
     "Name": "光子合并器（高效）",
     "ID": 69,
-    "SID": 1602,
-    "Type": 4,
+    "SID": "1602",
+    "Type": "4",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 180,
@@ -1818,14 +1820,14 @@
       1301
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
       1404
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1602,
     "IconPath": "Icons/ItemRecipe/photo-shifter-lv2",
@@ -1834,8 +1836,8 @@
   {
     "Name": "太阳帆",
     "ID": 70,
-    "SID": 1510,
-    "Type": 4,
+    "SID": "1510",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -1844,14 +1846,14 @@
       1404
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
       1501
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1510,
     "IconPath": null,
@@ -1860,8 +1862,8 @@
   {
     "Name": "电磁轨道弹射器",
     "ID": 71,
-    "SID": 2208,
-    "Type": 4,
+    "SID": "2208",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -1881,7 +1883,7 @@
       2311
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2208,
     "IconPath": null,
@@ -1890,8 +1892,8 @@
   {
     "Name": "射线接收站",
     "ID": 72,
-    "SID": 2108,
-    "Type": 4,
+    "SID": "2108",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -1913,7 +1915,7 @@
       2208
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2108,
     "IconPath": null,
@@ -1922,8 +1924,8 @@
   {
     "Name": "卫星配电站",
     "ID": 73,
-    "SID": 2103,
-    "Type": 4,
+    "SID": "2103",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -1941,7 +1943,7 @@
       2212
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2103,
     "IconPath": null,
@@ -1950,8 +1952,8 @@
   {
     "Name": "光子物质化",
     "ID": 74,
-    "SID": 1608,
-    "Type": 5,
+    "SID": "1608",
+    "Type": "5",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 120,
@@ -1959,15 +1961,15 @@
       1208
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      2164921856,
-      1088668499
+      1122,
+      1120
     ],
     "ResultCounts": [
-      524288,
-      2048
+      2,
+      2
     ],
     "GridIndex": 1608,
     "IconPath": "Icons/ItemRecipe/photon-formula",
@@ -1976,30 +1978,32 @@
   {
     "Name": "宇宙矩阵",
     "ID": 75,
-    "SID": 1706,
-    "Type": 15,
+    "SID": "1706",
+    "Type": "15",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 900,
     "Items": [
-      1757129084,
-      154914792,
-      1750394060,
-      4115133542,
-      3229026657
+      6001,
+      6002,
+      6003,
+      6004,
+      6005,
+      1122
     ],
     "ItemCounts": [
-      262144,
-      1024,
-      67108868,
-      262144,
-      1024
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "Results": [
-      272861700
+      6006
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1706,
     "IconPath": null,
@@ -2008,8 +2012,8 @@
   {
     "Name": "蓄电器",
     "ID": 76,
-    "SID": 2107,
-    "Type": 4,
+    "SID": "2107",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -2019,15 +2023,15 @@
       1113
     ],
     "ItemCounts": [
-      402653184,
-      262144,
-      6144
+      6,
+      1,
+      6
     ],
     "Results": [
       2206
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2107,
     "IconPath": null,
@@ -2036,8 +2040,8 @@
   {
     "Name": "能量枢纽",
     "ID": 77,
-    "SID": 2110,
-    "Type": 4,
+    "SID": "2110",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 900,
@@ -2048,16 +2052,16 @@
       1206
     ],
     "ItemCounts": [
-      1627455488,
-      308470120,
-      2684906121,
-      1235276
+      40,
+      40,
+      40,
+      8
     ],
     "Results": [
       2209
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2110,
     "IconPath": null,
@@ -2066,8 +2070,8 @@
   {
     "Name": "空间翘曲器",
     "ID": 78,
-    "SID": 1507,
-    "Type": 4,
+    "SID": "1507",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 600,
@@ -2075,13 +2079,13 @@
       1209
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
       1210
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1507,
     "IconPath": null,
@@ -2090,16 +2094,16 @@
   {
     "Name": "空间翘曲器（高级）",
     "ID": 79,
-    "SID": 1607,
-    "Type": 4,
+    "SID": "1607",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 1,
     "TimeSpend": 600,
     "Items": [
-      3489692420
+      6005
     ],
     "ItemCounts": [
-      1024
+      1
     ],
     "Results": [
       1210
@@ -2114,26 +2118,26 @@
   {
     "Name": "框架材料",
     "ID": 80,
-    "SID": 1511,
-    "Type": 4,
+    "SID": "1511",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      2626093056,
-      1472160295,
-      5189339
+      1124,
+      1107,
+      1105
     ],
     "ItemCounts": [
-      268435456,
-      262144,
-      1024
+      4,
+      1,
+      1
     ],
     "Results": [
-      2154749955
+      1125
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1511,
     "IconPath": null,
@@ -2142,8 +2146,8 @@
   {
     "Name": "戴森球组件",
     "ID": 81,
-    "SID": 1512,
-    "Type": 4,
+    "SID": "1512",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -2153,15 +2157,15 @@
       1303
     ],
     "ItemCounts": [
-      201326592,
-      786432,
-      3072
+      3,
+      3,
+      3
     ],
     "Results": [
       1502
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1512,
     "IconPath": null,
@@ -2170,8 +2174,8 @@
   {
     "Name": "垂直发射井",
     "ID": 82,
-    "SID": 2308,
-    "Type": 4,
+    "SID": "2308",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1800,
@@ -2191,7 +2195,7 @@
       2312
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2308,
     "IconPath": null,
@@ -2200,8 +2204,8 @@
   {
     "Name": "小型运载火箭",
     "ID": 83,
-    "SID": 1412,
-    "Type": 4,
+    "SID": "1412",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -2211,15 +2215,15 @@
       1305
     ],
     "ItemCounts": [
-      134217728,
-      1048576,
-      2048
+      2,
+      4,
+      2
     ],
     "Results": [
       1503
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1412,
     "IconPath": null,
@@ -2228,8 +2232,8 @@
   {
     "Name": "低速传送带",
     "ID": 84,
-    "SID": 2201,
-    "Type": 4,
+    "SID": "2201",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2238,14 +2242,14 @@
       1201
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       2001
     ],
     "ResultCounts": [
-      3072
+      3
     ],
     "GridIndex": 2201,
     "IconPath": null,
@@ -2254,8 +2258,8 @@
   {
     "Name": "低速分拣器",
     "ID": 85,
-    "SID": 2301,
-    "Type": 4,
+    "SID": "2301",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2264,14 +2268,14 @@
       1301
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
       2011
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2301,
     "IconPath": null,
@@ -2280,8 +2284,8 @@
   {
     "Name": "小型储物仓",
     "ID": 86,
-    "SID": 2205,
-    "Type": 4,
+    "SID": "2205",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2290,14 +2294,14 @@
       1108
     ],
     "ItemCounts": [
-      1048576,
-      4096
+      4,
+      4
     ],
     "Results": [
-      1078400770
+      2101
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2205,
     "IconPath": null,
@@ -2306,8 +2310,8 @@
   {
     "Name": "四向分流器",
     "ID": 87,
-    "SID": 2204,
-    "Type": 4,
+    "SID": "2204",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2317,15 +2321,15 @@
       1301
     ],
     "ItemCounts": [
-      201326592,
-      524288,
-      1024
+      3,
+      2,
+      1
     ],
     "Results": [
       2020
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2204,
     "IconPath": null,
@@ -2334,8 +2338,8 @@
   {
     "Name": "高速分拣器",
     "ID": 88,
-    "SID": 2302,
-    "Type": 4,
+    "SID": "2302",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2344,14 +2348,14 @@
       1203
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       2012
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 2302,
     "IconPath": null,
@@ -2360,8 +2364,8 @@
   {
     "Name": "高速传送带",
     "ID": 89,
-    "SID": 2202,
-    "Type": 4,
+    "SID": "2202",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2370,14 +2374,14 @@
       1204
     ],
     "ItemCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "Results": [
       2002
     ],
     "ResultCounts": [
-      3072
+      3
     ],
     "GridIndex": 2202,
     "IconPath": null,
@@ -2386,8 +2390,8 @@
   {
     "Name": "极速分拣器",
     "ID": 90,
-    "SID": 2303,
-    "Type": 4,
+    "SID": "2303",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2396,14 +2400,14 @@
       1204
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
       2013
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 2303,
     "IconPath": null,
@@ -2412,8 +2416,8 @@
   {
     "Name": "大型储物仓",
     "ID": 91,
-    "SID": 2206,
-    "Type": 4,
+    "SID": "2206",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -2426,10 +2430,10 @@
       8
     ],
     "Results": [
-      2156471810
+      2102
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2206,
     "IconPath": null,
@@ -2438,8 +2442,8 @@
   {
     "Name": "极速传送带",
     "ID": 92,
-    "SID": 2203,
-    "Type": 4,
+    "SID": "2203",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2449,15 +2453,15 @@
       1123
     ],
     "ItemCounts": [
-      201326592,
-      262144,
-      1024
+      3,
+      1,
+      1
     ],
     "Results": [
       2003
     ],
     "ResultCounts": [
-      3072
+      3
     ],
     "GridIndex": 2203,
     "IconPath": null,
@@ -2466,8 +2470,8 @@
   {
     "Name": "物流运输站",
     "ID": 93,
-    "SID": 2209,
-    "Type": 4,
+    "SID": "2209",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1200,
@@ -2478,16 +2482,16 @@
       1206
     ],
     "ItemCounts": [
-      1627455488,
-      308470120,
-      2684906121,
-      2157917261
+      40,
+      40,
+      40,
+      20
     ],
     "Results": [
-      3234542850
+      2103
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2209,
     "IconPath": null,
@@ -2496,8 +2500,8 @@
   {
     "Name": "物流运输机",
     "ID": 94,
-    "SID": 1410,
-    "Type": 4,
+    "SID": "1410",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -2507,15 +2511,15 @@
       1405
     ],
     "ItemCounts": [
-      335544320,
-      524288,
-      2048
+      5,
+      2,
+      2
     ],
     "Results": [
-      268718085
+      5001
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1410,
     "IconPath": null,
@@ -2524,8 +2528,8 @@
   {
     "Name": "星际物流运输站",
     "ID": 95,
-    "SID": 2309,
-    "Type": 4,
+    "SID": "2309",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1800,
@@ -2540,10 +2544,10 @@
       20
     ],
     "Results": [
-      935170
+      2104
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2309,
     "IconPath": null,
@@ -2552,8 +2556,8 @@
   {
     "Name": "星际物流运输船",
     "ID": 96,
-    "SID": 1411,
-    "Type": 4,
+    "SID": "1411",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
@@ -2571,7 +2575,7 @@
       5002
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1411,
     "IconPath": null,
@@ -2580,8 +2584,8 @@
   {
     "Name": "电动机",
     "ID": 97,
-    "SID": 1501,
-    "Type": 4,
+    "SID": "1501",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2591,15 +2595,15 @@
       1202
     ],
     "ItemCounts": [
-      134217728,
-      262144,
-      1024
+      2,
+      1,
+      1
     ],
     "Results": [
       1203
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1302,
     "IconPath": null,
@@ -2608,8 +2612,8 @@
   {
     "Name": "电磁涡轮",
     "ID": 98,
-    "SID": 1601,
-    "Type": 4,
+    "SID": "1601",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2618,14 +2622,14 @@
       1202
     ],
     "ItemCounts": [
-      524288,
-      2048
+      2,
+      2
     ],
     "Results": [
       1204
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1402,
     "IconPath": null,
@@ -2634,8 +2638,8 @@
   {
     "Name": "粒子容器",
     "ID": 99,
-    "SID": 1506,
-    "Type": 4,
+    "SID": "1506",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -2645,15 +2649,15 @@
       1123
     ],
     "ItemCounts": [
-      134217728,
-      524288,
-      2048
+      2,
+      2,
+      2
     ],
     "Results": [
       1206
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1506,
     "IconPath": null,
@@ -2662,8 +2666,8 @@
   {
     "Name": "粒子容器（高效）",
     "ID": 100,
-    "SID": 1606,
-    "Type": 4,
+    "SID": "1606",
+    "Type": "4",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 240,
@@ -2679,7 +2683,7 @@
       1206
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1606,
     "IconPath": "Icons/ItemRecipe/partical-capacitor-lv2",
@@ -2688,24 +2692,24 @@
   {
     "Name": "引力透镜",
     "ID": 101,
-    "SID": 1405,
-    "Type": 4,
+    "SID": "1405",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 360,
     "Items": [
-      3047035904,
-      11748626
+      1112,
+      1127
     ],
     "ItemCounts": [
-      1048576,
-      1024
+      4,
+      1
     ],
     "Results": [
       1209
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1405,
     "IconPath": null,
@@ -2714,8 +2718,8 @@
   {
     "Name": "引力矩阵",
     "ID": 102,
-    "SID": 1705,
-    "Type": 15,
+    "SID": "1705",
+    "Type": "15",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1440,
@@ -2724,14 +2728,14 @@
       1305
     ],
     "ItemCounts": [
-      262144,
-      1024
+      1,
+      1
     ],
     "Results": [
-      3489692420
+      6005
     ],
     "ResultCounts": [
-      2048
+      2
     ],
     "GridIndex": 1705,
     "IconPath": null,
@@ -2740,8 +2744,8 @@
   {
     "Name": "超级磁场环",
     "ID": 103,
-    "SID": 1302,
-    "Type": 4,
+    "SID": "1302",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -2751,15 +2755,15 @@
       1109
     ],
     "ItemCounts": [
-      134217728,
-      786432,
-      1024
+      2,
+      3,
+      1
     ],
     "Results": [
       1205
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1502,
     "IconPath": null,
@@ -2768,8 +2772,8 @@
   {
     "Name": "奇异物质",
     "ID": 104,
-    "SID": 1312,
-    "Type": 5,
+    "SID": "1312",
+    "Type": "5",
     "Handcraft": 0,
     "Explicit": 0,
     "TimeSpend": 480,
@@ -2784,10 +2788,10 @@
       10
     ],
     "Results": [
-      15990275
+      1127
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1312,
     "IconPath": null,
@@ -2796,8 +2800,8 @@
   {
     "Name": "加速剂 Mk.I",
     "ID": 106,
-    "SID": 1110,
-    "Type": 4,
+    "SID": "1110",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2805,13 +2809,13 @@
       1006
     ],
     "ItemCounts": [
-      2048
+      2
     ],
     "Results": [
-      358660
+      1141
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1110,
     "IconPath": null,
@@ -2820,8 +2824,8 @@
   {
     "Name": "加速剂 Mk.II",
     "ID": 107,
-    "SID": 1111,
-    "Type": 4,
+    "SID": "1111",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 240,
@@ -2830,14 +2834,14 @@
       1141
     ],
     "ItemCounts": [
-      524288,
-      1024
+      2,
+      1
     ],
     "Results": [
-      1078429700
+      1142
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1111,
     "IconPath": null,
@@ -2846,24 +2850,24 @@
   {
     "Name": "加速剂 Mk.III",
     "ID": 108,
-    "SID": 1112,
-    "Type": 4,
+    "SID": "1112",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 480,
     "Items": [
-      1299584768,
-      1074241942
+      1126,
+      1142
     ],
     "ItemCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "Results": [
-      2156500740
+      1143
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1112,
     "IconPath": null,
@@ -2872,8 +2876,8 @@
   {
     "Name": "喷涂机",
     "ID": 109,
-    "SID": 2410,
-    "Type": 4,
+    "SID": "2410",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -2883,15 +2887,15 @@
       1103
     ],
     "ItemCounts": [
-      67108864,
-      1048576,
-      2048
+      1,
+      4,
+      2
     ],
     "Results": [
       2313
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2410,
     "IconPath": null,
@@ -2900,8 +2904,8 @@
   {
     "Name": "分馏塔",
     "ID": 110,
-    "SID": 2406,
-    "Type": 4,
+    "SID": "2406",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 180,
@@ -2921,7 +2925,7 @@
       2314
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2406,
     "IconPath": null,
@@ -2930,8 +2934,8 @@
   {
     "Name": "轨道采集器",
     "ID": 111,
-    "SID": 2409,
-    "Type": 4,
+    "SID": "2409",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 1800,
@@ -2942,15 +2946,16 @@
       2207
     ],
     "ItemCounts": [
-      1744830468,
-      3145728,
-      12288
+      1,
+      50,
+      20,
+      20
     ],
     "Results": [
-      1079006210
+      2105
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2409,
     "IconPath": null,
@@ -2959,8 +2964,8 @@
   {
     "Name": "地基",
     "ID": 112,
-    "SID": 1712,
-    "Type": 4,
+    "SID": "1712",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 60,
@@ -2969,14 +2974,14 @@
       1103
     ],
     "ItemCounts": [
-      786432,
-      1024
+      3,
+      1
     ],
     "Results": [
       1131
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1712,
     "IconPath": null,
@@ -2985,8 +2990,8 @@
   {
     "Name": "微型聚变发电站",
     "ID": 113,
-    "SID": 2109,
-    "Type": 4,
+    "SID": "2109",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 600,
@@ -3006,7 +3011,7 @@
       2211
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2109,
     "IconPath": null,
@@ -3015,8 +3020,8 @@
   {
     "Name": "储液罐",
     "ID": 114,
-    "SID": 2207,
-    "Type": 4,
+    "SID": "2207",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 120,
@@ -3034,7 +3039,7 @@
       2106
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2207,
     "IconPath": null,
@@ -3043,22 +3048,22 @@
   {
     "Name": "重氢分馏",
     "ID": 115,
-    "SID": 1307,
-    "Type": 8,
+    "SID": "1307",
+    "Type": "8",
     "Handcraft": 0,
     "Explicit": 1,
     "TimeSpend": 1,
     "Items": [
-      1076073475
+      1120
     ],
     "ItemCounts": [
-      9490435
+      100
     ],
     "Results": [
-      2154144515
+      1121
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 1307,
     "IconPath": "Icons/ItemRecipe/deuterium-formula",
@@ -3067,8 +3072,8 @@
   {
     "Name": "位面熔炉",
     "ID": 116,
-    "SID": 2405,
-    "Type": 4,
+    "SID": "2405",
+    "Type": "4",
     "Handcraft": 1,
     "Explicit": 0,
     "TimeSpend": 300,
@@ -3088,7 +3093,7 @@
       2315
     ],
     "ResultCounts": [
-      1024
+      1
     ],
     "GridIndex": 2405,
     "IconPath": null,

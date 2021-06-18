@@ -23,8 +23,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 5,
-      "y": 1
+      "x": "5",
+      "y": "1"
     }
   },
   {
@@ -41,7 +41,7 @@
     "IconPath": "Icons/Tech/1001",
     "IsLabTech": 0,
     "PreTechs": [
-      1024
+      1
     ],
     "PreTechsImplicit": [],
     "Items": [
@@ -64,13 +64,13 @@
       2301
     ],
     "AddItemCounts": [
-      67108864,
-      262144,
-      1024
+      1,
+      1,
+      1
     ],
     "Position": {
-      "x": 9,
-      "y": 1
+      "x": "9",
+      "y": "1"
     }
   },
   {
@@ -95,8 +95,8 @@
       1301
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 1800,
     "UnlockRecipes": [
@@ -109,11 +109,11 @@
       2901
     ],
     "AddItemCounts": [
-      1024
+      1
     ],
     "Position": {
-      "x": 13,
-      "y": 1
+      "x": "13",
+      "y": "1"
     }
   },
   {
@@ -134,10 +134,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 9000,
     "UnlockRecipes": [
@@ -148,14 +148,14 @@
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [
-      271955460
+      1401
     ],
     "AddItemCounts": [
       10
     ],
     "Position": {
-      "x": 13,
-      "y": -23
+      "x": "13",
+      "y": "-23"
     }
   },
   {
@@ -177,7 +177,7 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
       10
@@ -193,8 +193,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -23
+      "x": "17",
+      "y": "-23"
     }
   },
   {
@@ -216,12 +216,12 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
@@ -232,8 +232,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -23
+      "x": "25",
+      "y": "-23"
     }
   },
   {
@@ -254,22 +254,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [
-      1816320
+      18
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -27
+      "x": "21",
+      "y": "-27"
     }
   },
   {
@@ -286,26 +286,26 @@
     "IconPath": "Icons/Tech/1112",
     "IsLabTech": 1,
     "PreTechs": [
-      2153539075
+      1111
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272256260
+      6002
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
-      1079887360
+      19
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -27
+      "x": "25",
+      "y": "-27"
     }
   },
   {
@@ -322,26 +322,26 @@
     "IconPath": "Icons/Tech/1113",
     "IsLabTech": 1,
     "PreTechs": [
-      3231610115
+      1112
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272256260
+      6002
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [
-      2157958400
+      20
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -27
+      "x": "29",
+      "y": "-27"
     }
   },
   {
@@ -358,26 +358,26 @@
     "IconPath": "Icons/Tech/1114",
     "IsLabTech": 1,
     "PreTechs": [
-      14779395
+      1113
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272256260
+      6002
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 288000,
     "UnlockRecipes": [
-      3236029440
+      21
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -27
+      "x": "33",
+      "y": "-27"
     }
   },
   {
@@ -398,15 +398,15 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 9000,
     "UnlockRecipes": [
-      1553209600,
-      3221568420
+      114,
+      49
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -414,11 +414,11 @@
       2106
     ],
     "AddItemCounts": [
-      1024
+      1
     ],
     "Position": {
-      "x": 13,
-      "y": -19
+      "x": "13",
+      "y": "-19"
     }
   },
   {
@@ -440,24 +440,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
       10
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
-      3777036288,
-      3483701918,
-      2162700349
+      22,
+      23,
+      24
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -19
+      "x": "21",
+      "y": "-19"
     }
   },
   {
@@ -474,29 +474,29 @@
     "IconPath": "Icons/Tech/1122",
     "IsLabTech": 1,
     "PreTechs": [
-      2154144515
+      1121
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
-      180356608,
-      1128507
+      25,
+      54
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -19
+      "x": "25",
+      "y": "-19"
     }
   },
   {
@@ -513,16 +513,16 @@
     "IconPath": "Icons/Tech/1123",
     "IsLabTech": 1,
     "PreTechs": [
-      3232215555
+      1122
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [
@@ -533,8 +533,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -19
+      "x": "29",
+      "y": "-19"
     }
   },
   {
@@ -551,12 +551,12 @@
     "IconPath": "Icons/Tech/1124",
     "IsLabTech": 1,
     "PreTechs": [
-      15384835
+      1123
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       12,
@@ -571,8 +571,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -19
+      "x": "33",
+      "y": "-19"
     }
   },
   {
@@ -589,13 +589,13 @@
     "IconPath": "Icons/Tech/1125",
     "IsLabTech": 1,
     "PreTechs": [
-      1076678915
+      1124
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -612,8 +612,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -19
+      "x": "37",
+      "y": "-19"
     }
   },
   {
@@ -634,8 +634,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3533904128,
-      1351398597
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -650,8 +650,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -15
+      "x": "37",
+      "y": "-15"
     }
   },
   {
@@ -668,14 +668,14 @@
     "IconPath": "Icons/Tech/1131",
     "IsLabTech": 1,
     "PreTechs": [
-      2154144515
+      1121
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
@@ -687,8 +687,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -15
+      "x": "25",
+      "y": "-15"
     }
   },
   {
@@ -709,25 +709,25 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3533904128,
-      1351398597
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2123170560,
-      8979365
+      16,
+      4
     ],
     "HashNeeded": 135000,
     "UnlockRecipes": [
-      4034201344,
-      3224594011
+      33,
+      35
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -15
+      "x": "33",
+      "y": "-15"
     }
   },
   {
@@ -748,14 +748,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      756350976,
-      3379481346,
-      9012123
+      16,
+      16,
+      4
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [
@@ -767,8 +767,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -11
+      "x": "37",
+      "y": "-11"
     }
   },
   {
@@ -790,8 +790,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       20,
@@ -807,8 +807,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -11
+      "x": "21",
+      "y": "-11"
     }
   },
   {
@@ -825,14 +825,14 @@
     "IconPath": "Icons/Tech/1141",
     "IsLabTech": 1,
     "PreTechs": [
-      1299584768,
-      2150562197
+      1126,
+      1125
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      2429457353
+      6001,
+      6002,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -841,15 +841,15 @@
     ],
     "HashNeeded": 360000,
     "UnlockRecipes": [
-      2159709185
+      38
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 41,
-      "y": -19
+      "x": "41",
+      "y": "-19"
     }
   },
   {
@@ -866,13 +866,13 @@
     "IconPath": "Icons/Tech/1142",
     "IsLabTech": 1,
     "PreTechs": [
-      1076678915
+      1124
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -881,16 +881,16 @@
     ],
     "HashNeeded": 240000,
     "UnlockRecipes": [
-      2727807232,
-      16748478
+      39,
+      40
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -23
+      "x": "37",
+      "y": "-23"
     }
   },
   {
@@ -907,13 +907,13 @@
     "IconPath": "Icons/Tech/1143",
     "IsLabTech": 1,
     "PreTechs": [
-      1078429700
+      1142
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -922,15 +922,15 @@
     ],
     "HashNeeded": 300000,
     "UnlockRecipes": [
-      10030340
+      104
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 41,
-      "y": -23
+      "x": "41",
+      "y": "-23"
     }
   },
   {
@@ -947,15 +947,15 @@
     "IconPath": "Icons/Tech/1144",
     "IsLabTech": 1,
     "PreTechs": [
-      964100
+      1145
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
       10,
@@ -973,8 +973,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 61,
-      "y": -3
+      "x": "61",
+      "y": "-3"
     }
   },
   {
@@ -995,8 +995,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3533904128,
-      3490763717
+      6002,
+      6005
     ],
     "ItemPoints": [
       24,
@@ -1012,8 +1012,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 57,
-      "y": -3
+      "x": "57",
+      "y": "-3"
     }
   },
   {
@@ -1034,10 +1034,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [
@@ -1049,8 +1049,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -31
+      "x": "17",
+      "y": "-31"
     }
   },
   {
@@ -1071,8 +1071,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       16,
@@ -1087,8 +1087,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -31
+      "x": "29",
+      "y": "-31"
     }
   },
   {
@@ -1105,13 +1105,13 @@
     "IconPath": "Icons/Tech/1153",
     "IsLabTech": 1,
     "PreTechs": [
-      1079035140
+      1152
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       8,
@@ -1127,8 +1127,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -31
+      "x": "37",
+      "y": "-31"
     }
   },
   {
@@ -1153,8 +1153,8 @@
       1201
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 1800,
     "UnlockRecipes": [
@@ -1166,11 +1166,11 @@
       2303
     ],
     "AddItemCounts": [
-      1024
+      1
     ],
     "Position": {
-      "x": 13,
-      "y": -3
+      "x": "13",
+      "y": "-3"
     }
   },
   {
@@ -1192,8 +1192,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       20,
@@ -1204,7 +1204,7 @@
       46
     ],
     "UnlockFunctions": [
-      7168
+      7
     ],
     "UnlockValues": [
       0.5
@@ -1212,8 +1212,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -3
+      "x": "29",
+      "y": "-3"
     }
   },
   {
@@ -1235,10 +1235,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       10,
@@ -1251,7 +1251,7 @@
       47
     ],
     "UnlockFunctions": [
-      7168
+      7
     ],
     "UnlockValues": [
       0.5
@@ -1259,8 +1259,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 49,
-      "y": -3
+      "x": "49",
+      "y": "-3"
     }
   },
   {
@@ -1281,22 +1281,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [
-      1082849025
+      51
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -7
+      "x": "25",
+      "y": "-7"
     }
   },
   {
@@ -1313,14 +1313,14 @@
     "IconPath": "Icons/Tech/1303",
     "IsLabTech": 1,
     "PreTechs": [
-      2300512000,
-      5586805
+      1312,
+      1141
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      2429457353
+      6001,
+      6002,
+      6004
     ],
     "ItemPoints": [
       10,
@@ -1329,15 +1329,15 @@
     ],
     "HashNeeded": 288000,
     "UnlockRecipes": [
-      2160854530
+      52
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 45,
-      "y": -15
+      "x": "45",
+      "y": "-15"
     }
   },
   {
@@ -1358,22 +1358,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      4172545
+      40
     ],
     "HashNeeded": 18000,
     "UnlockRecipes": [
-      3222148610
+      53
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -7
+      "x": "21",
+      "y": "-7"
     }
   },
   {
@@ -1395,8 +1395,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       10,
@@ -1404,15 +1404,15 @@
     ],
     "HashNeeded": 288000,
     "UnlockRecipes": [
-      1083388930
+      55
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 41,
-      "y": -7
+      "x": "41",
+      "y": "-7"
     }
   },
   {
@@ -1437,13 +1437,13 @@
       1301
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 1800,
     "UnlockRecipes": [
-      343936256,
-      3231152244
+      56,
+      57
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -1451,11 +1451,11 @@
       2302
     ],
     "AddItemCounts": [
-      3072
+      3
     ],
     "Position": {
-      "x": 13,
-      "y": 5
+      "x": "13",
+      "y": "5"
     }
   },
   {
@@ -1472,14 +1472,14 @@
     "IconPath": "Icons/Tech/1402",
     "IsLabTech": 1,
     "PreTechs": [
-      271955460
+      1401
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 18000,
     "UnlockRecipes": [
@@ -1492,8 +1492,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 5
+      "x": "17",
+      "y": "5"
     }
   },
   {
@@ -1514,12 +1514,12 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 90000,
     "UnlockRecipes": [
@@ -1532,8 +1532,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 5
+      "x": "21",
+      "y": "5"
     }
   },
   {
@@ -1550,14 +1550,14 @@
     "IconPath": "Icons/Tech/1411",
     "IsLabTech": 1,
     "PreTechs": [
-      271955460
+      1401
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 21600,
     "UnlockRecipes": [
@@ -1568,8 +1568,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 13
+      "x": "17",
+      "y": "13"
     }
   },
   {
@@ -1590,14 +1590,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 5400,
     "UnlockRecipes": [
-      5923330
+      64
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -1605,11 +1605,11 @@
       2204
     ],
     "AddItemCounts": [
-      1024
+      1
     ],
     "Position": {
-      "x": 17,
-      "y": -11
+      "x": "17",
+      "y": "-11"
     }
   },
   {
@@ -1626,28 +1626,28 @@
     "IconPath": "Icons/Tech/1413",
     "IsLabTech": 1,
     "PreTechs": [
-      272560900
+      1411
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [
-      1083994370
+      65
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 13
+      "x": "25",
+      "y": "13"
     }
   },
   {
@@ -1664,30 +1664,30 @@
     "IconPath": "Icons/Tech/1414",
     "IsLabTech": 1,
     "PreTechs": [
-      2428637445
+      1413
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2147765926
+      20,
+      20,
+      2
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [
-      2162065410
+      66
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": 13
+      "x": "33",
+      "y": "13"
     }
   },
   {
@@ -1704,26 +1704,26 @@
     "IconPath": "Icons/Tech/1415",
     "IsLabTech": 1,
     "PreTechs": [
-      272560900
+      1411
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
-      2149395460
+      112
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 9
+      "x": "21",
+      "y": "9"
     }
   },
   {
@@ -1744,9 +1744,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       20,
@@ -1755,16 +1755,16 @@
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [
-      1765349632,
-      1078043283
+      113,
+      41
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -11
+      "x": "33",
+      "y": "-11"
     }
   },
   {
@@ -1781,16 +1781,16 @@
     "IconPath": "Icons/Tech/1417",
     "IsLabTech": 1,
     "PreTechs": [
-      358660
+      1141
     ],
     "PreTechsImplicit": [
       1403
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       10,
@@ -1800,15 +1800,15 @@
     ],
     "HashNeeded": 360000,
     "UnlockRecipes": [
-      2150000900
+      116
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 45,
-      "y": -19
+      "x": "45",
+      "y": "-19"
     }
   },
   {
@@ -1831,14 +1831,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      4172545
+      40
     ],
     "HashNeeded": 18000,
     "UnlockRecipes": [
-      3223359490
+      67
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -1846,11 +1846,11 @@
       2205
     ],
     "AddItemCounts": [
-      1024
+      1
     ],
     "Position": {
-      "x": 21,
-      "y": 1
+      "x": "21",
+      "y": "1"
     }
   },
   {
@@ -1871,25 +1871,25 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [
-      3332443904,
-      1084600791
+      68,
+      69
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 1
+      "x": "25",
+      "y": "1"
     }
   },
   {
@@ -1910,25 +1910,25 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 54000,
     "UnlockRecipes": [
-      2891386880,
-      3232351480
+      70,
+      71
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 1
+      "x": "29",
+      "y": "1"
     }
   },
   {
@@ -1949,24 +1949,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [
-      7134210
+      72
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": 1
+      "x": "33",
+      "y": "1"
     }
   },
   {
@@ -1987,16 +1987,16 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      3494927708
+      6001,
+      6002,
+      6003,
+      6005
     ],
     "ItemPoints": [
-      2952790016,
-      162623668,
-      1342485828,
-      2149516583
+      20,
+      20,
+      20,
+      20
     ],
     "HashNeeded": 360000,
     "UnlockRecipes": [],
@@ -2009,8 +2009,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 49,
-      "y": 1
+      "x": "49",
+      "y": "1"
     }
   },
   {
@@ -2031,11 +2031,11 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
       20,
@@ -2053,8 +2053,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 53,
-      "y": 1
+      "x": "53",
+      "y": "1"
     }
   },
   {
@@ -2075,11 +2075,11 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
       10,
@@ -2097,8 +2097,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 65,
-      "y": 1
+      "x": "65",
+      "y": "1"
     }
   },
   {
@@ -2119,15 +2119,15 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": 3600000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3226321155
+      99
     ],
     "UnlockValues": [
       1
@@ -2135,8 +2135,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 69,
-      "y": 1
+      "x": "69",
+      "y": "1"
     }
   },
   {
@@ -2158,12 +2158,12 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [
@@ -2174,8 +2174,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 5
+      "x": "25",
+      "y": "5"
     }
   },
   {
@@ -2197,14 +2197,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2147765926
+      20,
+      20,
+      2
     ],
     "HashNeeded": 216000,
     "UnlockRecipes": [
@@ -2215,8 +2215,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": 9
+      "x": "37",
+      "y": "9"
     }
   },
   {
@@ -2237,8 +2237,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      1347173045
+      6001,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -2246,16 +2246,16 @@
     ],
     "HashNeeded": 360000,
     "UnlockRecipes": [
-      2042827008,
-      3232950842
+      80,
+      81
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": 5
+      "x": "33",
+      "y": "5"
     }
   },
   {
@@ -2276,10 +2276,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       10,
@@ -2289,16 +2289,16 @@
     ],
     "HashNeeded": 576000,
     "UnlockRecipes": [
-      1601769984,
-      1085799771
+      82,
+      83
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 45,
-      "y": 5
+      "x": "45",
+      "y": "5"
     }
   },
   {
@@ -2319,18 +2319,18 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      67108864,
-      3845209629,
-      3044003751,
-      3504554698,
-      2149516583
+      20,
+      20,
+      20,
+      20,
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [],
@@ -2343,8 +2343,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 49,
-      "y": 5
+      "x": "49",
+      "y": "5"
     }
   },
   {
@@ -2369,14 +2369,14 @@
       1201
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 1800,
     "UnlockRecipes": [
-      1500643328,
-      2585230965,
-      4069927
+      84,
+      85,
+      86
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -2385,12 +2385,12 @@
       2011
     ],
     "AddItemCounts": [
-      1257833472,
-      1087110118
+      20,
+      5
     ],
     "Position": {
-      "x": 13,
-      "y": 17
+      "x": "13",
+      "y": "17"
     }
   },
   {
@@ -2407,19 +2407,19 @@
     "IconPath": "Icons/Tech/1602",
     "IsLabTech": 1,
     "PreTechs": [
-      2693165570
+      1601
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 18000,
     "UnlockRecipes": [
-      507515904,
-      2151853486
+      87,
+      88
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
@@ -2428,12 +2428,12 @@
       2012
     ],
     "AddItemCounts": [
-      262144,
-      5120
+      1,
+      5
     ],
     "Position": {
-      "x": 17,
-      "y": 17
+      "x": "17",
+      "y": "17"
     }
   },
   {
@@ -2450,16 +2450,16 @@
     "IconPath": "Icons/Tech/1603",
     "IsLabTech": 1,
     "PreTechs": [
-      3771236610
+      1602
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      1087110118
+      20,
+      5
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
@@ -2472,8 +2472,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 17
+      "x": "25",
+      "y": "17"
     }
   },
   {
@@ -2490,15 +2490,15 @@
     "IconPath": "Icons/Tech/1604",
     "IsLabTech": 1,
     "PreTechs": [
-      537628930
+      1603
     ],
     "PreTechsImplicit": [
       1113,
       3701
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       20,
@@ -2515,8 +2515,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 17
+      "x": "29",
+      "y": "17"
     }
   },
   {
@@ -2533,21 +2533,21 @@
     "IconPath": "Icons/Tech/1605",
     "IsLabTech": 1,
     "PreTechs": [
-      1000804096,
-      3496215254
+      1604,
+      1414
     ],
     "PreTechsImplicit": [
       1114
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2147765926
+      20,
+      20,
+      2
     ],
     "HashNeeded": 216000,
     "UnlockRecipes": [
@@ -2559,8 +2559,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": 17
+      "x": "37",
+      "y": "17"
     }
   },
   {
@@ -2582,9 +2582,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       10,
@@ -2600,8 +2600,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 41,
-      "y": 13
+      "x": "41",
+      "y": "13"
     }
   },
   {
@@ -2622,22 +2622,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 9000,
     "UnlockRecipes": [
-      1086956035
+      97
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -35
+      "x": "13",
+      "y": "-35"
     }
   },
   {
@@ -2658,24 +2658,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      1087110118
+      20,
+      5
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [
-      2148250115
+      98
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -35
+      "x": "21",
+      "y": "-35"
     }
   },
   {
@@ -2696,8 +2696,8 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       20,
@@ -2705,16 +2705,16 @@
     ],
     "HashNeeded": 288000,
     "UnlockRecipes": [
-      3512800768,
-      5301777
+      99,
+      100
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -35
+      "x": "29",
+      "y": "-35"
     }
   },
   {
@@ -2736,9 +2736,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -2755,8 +2755,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 45,
-      "y": -35
+      "x": "45",
+      "y": "-35"
     }
   },
   {
@@ -2778,9 +2778,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       10,
@@ -2797,8 +2797,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 49,
-      "y": -27
+      "x": "49",
+      "y": "-27"
     }
   },
   {
@@ -2819,24 +2819,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      1087110118
+      20,
+      5
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [
-      3226926595
+      103
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -39
+      "x": "25",
+      "y": "-39"
     }
   },
   {
@@ -2857,9 +2857,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -2868,15 +2868,15 @@
     ],
     "HashNeeded": 240000,
     "UnlockRecipes": [
-      1085205250
+      73
     ],
     "UnlockFunctions": [],
     "UnlockValues": [],
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -39
+      "x": "37",
+      "y": "-39"
     }
   },
   {
@@ -2899,13 +2899,13 @@
       1104
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 3600,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       40000000
@@ -2913,8 +2913,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 25
+      "x": "9",
+      "y": "25"
     }
   },
   {
@@ -2931,12 +2931,12 @@
     "IconPath": "Icons/Tech/2102",
     "IsLabTech": 1,
     "PreTechs": [
-      1078400770
+      2101
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
       10,
@@ -2945,7 +2945,7 @@
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       240000000
@@ -2953,8 +2953,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 25
+      "x": "13",
+      "y": "25"
     }
   },
   {
@@ -2971,13 +2971,13 @@
     "IconPath": "Icons/Tech/2103",
     "IsLabTech": 1,
     "PreTechs": [
-      2156471810
+      2102
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       10,
@@ -2987,7 +2987,7 @@
     "HashNeeded": 108000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       400000000
@@ -2995,8 +2995,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 25
+      "x": "17",
+      "y": "25"
     }
   },
   {
@@ -3013,24 +3013,25 @@
     "IconPath": "Icons/Tech/2104",
     "IsLabTech": 1,
     "PreTechs": [
-      3234542850
+      2103
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       800000000
@@ -3038,8 +3039,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 25
+      "x": "21",
+      "y": "25"
     }
   },
   {
@@ -3056,26 +3057,27 @@
     "IconPath": "Icons/Tech/2105",
     "IsLabTech": 1,
     "PreTechs": [
-      935170
+      2104
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      2048,
-      134217736,
-      524288,
-      2048
+      2,
+      2,
+      2,
+      2,
+      2
     ],
     "HashNeeded": 1440000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       1600000000
@@ -3083,8 +3085,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 25
+      "x": "25",
+      "y": "25"
     }
   },
   {
@@ -3101,19 +3103,19 @@
     "IconPath": "Icons/Tech/2106",
     "IsLabTech": 1,
     "PreTechs": [
-      1079006210
+      2105
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      2048
+      2
     ],
     "HashNeeded": 18000000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      6144
+      6
     ],
     "UnlockValues": [
       2400000000
@@ -3121,8 +3123,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 25
+      "x": "29",
+      "y": "25"
     }
   },
   {
@@ -3140,7 +3142,7 @@
     "IsLabTech": 0,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
       1203
@@ -3151,7 +3153,7 @@
     "HashNeeded": 7200,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3159,8 +3161,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 21
+      "x": "9",
+      "y": "21"
     }
   },
   {
@@ -3177,23 +3179,23 @@
     "IconPath": "Icons/Tech/2202",
     "IsLabTech": 1,
     "PreTechs": [
-      1087891205
+      2201
     ],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3201,8 +3203,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 21
+      "x": "13",
+      "y": "21"
     }
   },
   {
@@ -3222,20 +3224,20 @@
       2202
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3243,8 +3245,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 21
+      "x": "17",
+      "y": "21"
     }
   },
   {
@@ -3264,12 +3266,12 @@
       2203
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -3279,7 +3281,7 @@
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3287,8 +3289,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 21
+      "x": "21",
+      "y": "21"
     }
   },
   {
@@ -3308,12 +3310,12 @@
       2204
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -3323,7 +3325,7 @@
     "HashNeeded": 240000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3331,8 +3333,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 21
+      "x": "25",
+      "y": "21"
     }
   },
   {
@@ -3352,13 +3354,13 @@
       2205
     ],
     "PreTechsImplicit": [
-      935170
+      2104
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -3369,7 +3371,7 @@
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       1
@@ -3377,8 +3379,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 21
+      "x": "29",
+      "y": "21"
     }
   },
   {
@@ -3398,13 +3400,13 @@
       2206
     ],
     "PreTechsImplicit": [
-      935170
+      2104
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -3415,7 +3417,7 @@
     "HashNeeded": 360000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       2
@@ -3423,8 +3425,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": 21
+      "x": "33",
+      "y": "21"
     }
   },
   {
@@ -3444,25 +3446,26 @@
       2207
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      6144,
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 1200000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      3072
+      3
     ],
     "UnlockValues": [
       2
@@ -3470,8 +3473,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": 21
+      "x": "37",
+      "y": "21"
     }
   },
   {
@@ -3489,7 +3492,7 @@
     "IsLabTech": 0,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
       1103,
@@ -3502,7 +3505,7 @@
     "HashNeeded": 7200,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       1
@@ -3510,8 +3513,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 17
+      "x": "9",
+      "y": "17"
     }
   },
   {
@@ -3531,20 +3534,20 @@
       2301
     ],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       1
@@ -3552,8 +3555,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 17
+      "x": "13",
+      "y": "17"
     }
   },
   {
@@ -3573,22 +3576,22 @@
       2302
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       1
@@ -3596,8 +3599,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 17
+      "x": "17",
+      "y": "17"
     }
   },
   {
@@ -3617,12 +3620,12 @@
       2303
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -3632,7 +3635,7 @@
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       1
@@ -3640,8 +3643,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 17
+      "x": "21",
+      "y": "17"
     }
   },
   {
@@ -3661,12 +3664,12 @@
       2304
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -3676,7 +3679,7 @@
     "HashNeeded": 240000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       2
@@ -3684,8 +3687,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 17
+      "x": "25",
+      "y": "17"
     }
   },
   {
@@ -3705,25 +3708,26 @@
       2305
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      6144,
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 600000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      5120
+      5
     ],
     "UnlockValues": [
       2
@@ -3731,8 +3735,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 17
+      "x": "29",
+      "y": "17"
     }
   },
   {
@@ -3750,18 +3754,18 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      4172545
+      40
     ],
     "HashNeeded": 9000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1024
+      1
     ],
     "UnlockValues": [
       1
@@ -3769,8 +3773,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 13
+      "x": "9",
+      "y": "13"
     }
   },
   {
@@ -3787,23 +3791,23 @@
     "IconPath": "Icons/Tech/2402",
     "IsLabTech": 1,
     "PreTechs": [
-      3492324355
+      2401
     ],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1024
+      1
     ],
     "UnlockValues": [
       1
@@ -3811,8 +3815,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 13
+      "x": "13",
+      "y": "13"
     }
   },
   {
@@ -3829,18 +3833,18 @@
     "IconPath": "Icons/Tech/2403",
     "IsLabTech": 1,
     "PreTechs": [
-      275493635
+      2402
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [],
@@ -3853,8 +3857,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 13
+      "x": "17",
+      "y": "13"
     }
   },
   {
@@ -3871,15 +3875,15 @@
     "IconPath": "Icons/Tech/2404",
     "IsLabTech": 1,
     "PreTechs": [
-      1353564675
+      2403
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -3889,7 +3893,7 @@
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1024
+      1
     ],
     "UnlockValues": [
       2
@@ -3897,8 +3901,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 13
+      "x": "21",
+      "y": "13"
     }
   },
   {
@@ -3915,16 +3919,16 @@
     "IconPath": "Icons/Tech/2405",
     "IsLabTech": 1,
     "PreTechs": [
-      2431635715
+      2404
     ],
     "PreTechsImplicit": [
-      935170
+      2104
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -3935,7 +3939,7 @@
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1024
+      1
     ],
     "UnlockValues": [
       2
@@ -3943,8 +3947,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 13
+      "x": "25",
+      "y": "13"
     }
   },
   {
@@ -3961,23 +3965,24 @@
     "IconPath": "Icons/Tech/2406",
     "IsLabTech": 1,
     "PreTechs": [
-      3492929795
+      2405
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 1440000,
     "UnlockRecipes": [],
@@ -3990,8 +3995,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 13
+      "x": "29",
+      "y": "13"
     }
   },
   {
@@ -4008,21 +4013,21 @@
     "IconPath": "Icons/Tech/2407",
     "IsLabTech": 1,
     "PreTechs": [
-      276099075
+      2406
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": 64800000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1024
+      1
     ],
     "UnlockValues": [
       2
@@ -4030,8 +4035,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": 13
+      "x": "33",
+      "y": "13"
     }
   },
   {
@@ -4049,7 +4054,7 @@
     "IsLabTech": 0,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
       1030,
@@ -4064,7 +4069,7 @@
     "HashNeeded": 7200,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       200000
@@ -4072,8 +4077,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 9
+      "x": "9",
+      "y": "9"
     }
   },
   {
@@ -4093,20 +4098,20 @@
       2501
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       200000
@@ -4114,8 +4119,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 9
+      "x": "13",
+      "y": "9"
     }
   },
   {
@@ -4135,22 +4140,22 @@
       2502
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 216000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       200000
@@ -4158,8 +4163,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 9
+      "x": "17",
+      "y": "9"
     }
   },
   {
@@ -4179,12 +4184,12 @@
       2503
     ],
     "PreTechsImplicit": [
-      935170
+      2104
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -4194,7 +4199,7 @@
     "HashNeeded": 600000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       200000
@@ -4202,8 +4207,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 9
+      "x": "21",
+      "y": "9"
     }
   },
   {
@@ -4223,25 +4228,26 @@
       2504
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 2700000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       800000
@@ -4249,8 +4255,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 9
+      "x": "25",
+      "y": "9"
     }
   },
   {
@@ -4270,18 +4276,18 @@
       2505
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": 36000000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2048
+      2
     ],
     "UnlockValues": [
       1000000
@@ -4289,8 +4295,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 9
+      "x": "29",
+      "y": "9"
     }
   },
   {
@@ -4308,13 +4314,13 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      4172545
+      40
     ],
     "HashNeeded": 18000,
     "UnlockRecipes": [],
@@ -4327,8 +4333,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 5
+      "x": "9",
+      "y": "5"
     }
   },
   {
@@ -4348,15 +4354,15 @@
       2601
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 72000,
     "UnlockRecipes": [],
@@ -4369,8 +4375,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 5
+      "x": "13",
+      "y": "5"
     }
   },
   {
@@ -4390,17 +4396,17 @@
       2602
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
@@ -4413,8 +4419,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 5
+      "x": "17",
+      "y": "5"
     }
   },
   {
@@ -4434,13 +4440,13 @@
       2603
     ],
     "PreTechsImplicit": [
-      935170
+      2104
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -4459,8 +4465,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 5
+      "x": "21",
+      "y": "5"
     }
   },
   {
@@ -4480,20 +4486,21 @@
       2604
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 1440000,
     "UnlockRecipes": [],
@@ -4506,8 +4513,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 5
+      "x": "25",
+      "y": "5"
     }
   },
   {
@@ -4527,13 +4534,13 @@
       2605
     ],
     "PreTechsImplicit": [
-      1079006210
+      2105
     ],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": 45000000,
     "UnlockRecipes": [],
@@ -4546,8 +4553,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 5
+      "x": "29",
+      "y": "5"
     }
   },
   {
@@ -4565,20 +4572,20 @@
     "IsLabTech": 0,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1078400770
+      2101
     ],
     "Items": [
       1006,
       1202
     ],
     "ItemPoints": [
-      1650330368,
-      2157911312
+      50,
+      20
     ],
     "HashNeeded": 10800,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      4096
+      4
     ],
     "UnlockValues": [
       1
@@ -4586,8 +4593,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 1
+      "x": "9",
+      "y": "1"
     }
   },
   {
@@ -4607,20 +4614,20 @@
       2901
     ],
     "PreTechsImplicit": [
-      2156471810
+      2102
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      4096
+      4
     ],
     "UnlockValues": [
       2
@@ -4628,8 +4635,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 1
+      "x": "13",
+      "y": "1"
     }
   },
   {
@@ -4649,22 +4656,22 @@
       2902
     ],
     "PreTechsImplicit": [
-      3234542850
+      2103
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      0
+      11
     ],
     "UnlockValues": [
       1000
@@ -4672,8 +4679,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 1
+      "x": "17",
+      "y": "1"
     }
   },
   {
@@ -4697,9 +4704,9 @@
       1704
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       10,
@@ -4709,7 +4716,7 @@
     "HashNeeded": 720000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      4096
+      4
     ],
     "UnlockValues": [
       3
@@ -4717,8 +4724,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 1
+      "x": "21",
+      "y": "1"
     }
   },
   {
@@ -4739,10 +4746,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      3494927708
+      6001,
+      6002,
+      6003,
+      6005
     ],
     "ItemPoints": [
       10,
@@ -4761,8 +4768,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": 1
+      "x": "25",
+      "y": "1"
     }
   },
   {
@@ -4783,7 +4790,7 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
       10
@@ -4799,8 +4806,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": 1
+      "x": "29",
+      "y": "1"
     }
   },
   {
@@ -4821,14 +4828,14 @@
       1503
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1245380608,
-      17014996,
-      4131406
+      40,
+      40,
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
@@ -4841,8 +4848,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -7
+      "x": "9",
+      "y": "-7"
     }
   },
   {
@@ -4863,14 +4870,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [],
@@ -4883,8 +4890,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -7
+      "x": "13",
+      "y": "-7"
     }
   },
   {
@@ -4905,14 +4912,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
@@ -4925,8 +4932,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -7
+      "x": "17",
+      "y": "-7"
     }
   },
   {
@@ -4947,10 +4954,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -4969,8 +4976,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -7
+      "x": "21",
+      "y": "-7"
     }
   },
   {
@@ -4991,10 +4998,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -5013,8 +5020,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -7
+      "x": "25",
+      "y": "-7"
     }
   },
   {
@@ -5035,15 +5042,16 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 1200000,
     "UnlockRecipes": [],
@@ -5056,8 +5064,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -7
+      "x": "29",
+      "y": "-7"
     }
   },
   {
@@ -5078,14 +5086,14 @@
       1504
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1245380608,
-      17014996,
-      4131406
+      40,
+      40,
+      40
     ],
     "HashNeeded": 54000,
     "UnlockRecipes": [],
@@ -5098,8 +5106,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -11
+      "x": "9",
+      "y": "-11"
     }
   },
   {
@@ -5120,14 +5128,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
@@ -5140,8 +5148,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -11
+      "x": "13",
+      "y": "-11"
     }
   },
   {
@@ -5162,14 +5170,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [],
@@ -5182,8 +5190,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -11
+      "x": "17",
+      "y": "-11"
     }
   },
   {
@@ -5204,10 +5212,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -5226,8 +5234,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -11
+      "x": "21",
+      "y": "-11"
     }
   },
   {
@@ -5248,10 +5256,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -5270,8 +5278,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -11
+      "x": "25",
+      "y": "-11"
     }
   },
   {
@@ -5292,11 +5300,11 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
       12,
@@ -5316,8 +5324,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -11
+      "x": "29",
+      "y": "-11"
     }
   },
   {
@@ -5338,17 +5346,18 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 1620000,
     "UnlockRecipes": [],
@@ -5361,8 +5370,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -11
+      "x": "33",
+      "y": "-11"
     }
   },
   {
@@ -5383,10 +5392,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": -12600000,
     "UnlockRecipes": [],
@@ -5399,8 +5408,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -11
+      "x": "37",
+      "y": "-11"
     }
   },
   {
@@ -5418,17 +5427,17 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      537628930
+      1603
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1245380608,
-      17014996,
-      4131406
+      40,
+      40,
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
@@ -5441,8 +5450,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -19
+      "x": "9",
+      "y": "-19"
     }
   },
   {
@@ -5463,14 +5472,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [],
@@ -5483,8 +5492,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -19
+      "x": "13",
+      "y": "-19"
     }
   },
   {
@@ -5505,14 +5514,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
@@ -5525,8 +5534,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -19
+      "x": "17",
+      "y": "-19"
     }
   },
   {
@@ -5547,9 +5556,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -5567,8 +5576,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -19
+      "x": "21",
+      "y": "-19"
     }
   },
   {
@@ -5589,14 +5598,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      402653184,
-      1572864,
-      6144
+      6,
+      6,
+      6
     ],
     "HashNeeded": 900000,
     "UnlockRecipes": [],
@@ -5609,8 +5618,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -19
+      "x": "25",
+      "y": "-19"
     }
   },
   {
@@ -5628,17 +5637,17 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1615699970
+      1604
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1245380608,
-      17014996,
-      4131406
+      40,
+      40,
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
@@ -5651,8 +5660,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -23
+      "x": "9",
+      "y": "-23"
     }
   },
   {
@@ -5673,14 +5682,14 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [],
@@ -5693,8 +5702,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -23
+      "x": "13",
+      "y": "-23"
     }
   },
   {
@@ -5714,17 +5723,17 @@
       3402
     ],
     "PreTechsImplicit": [
-      2693771010
+      1605
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
@@ -5739,8 +5748,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -23
+      "x": "17",
+      "y": "-23"
     }
   },
   {
@@ -5763,10 +5772,10 @@
       2904
     ],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -5789,8 +5798,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -23
+      "x": "21",
+      "y": "-23"
     }
   },
   {
@@ -5811,11 +5820,11 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
       12,
@@ -5837,8 +5846,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -23
+      "x": "25",
+      "y": "-23"
     }
   },
   {
@@ -5859,17 +5868,18 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 1440000,
     "UnlockRecipes": [],
@@ -5884,8 +5894,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -23
+      "x": "29",
+      "y": "-23"
     }
   },
   {
@@ -5906,10 +5916,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": 64800000,
     "UnlockRecipes": [],
@@ -5924,8 +5934,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -23
+      "x": "33",
+      "y": "-23"
     }
   },
   {
@@ -5943,22 +5953,22 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1615699970
+      1604
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1245380608,
-      17014996,
-      4131406
+      40,
+      40,
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1816320
+      18
     ],
     "UnlockValues": [
       5
@@ -5966,8 +5976,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -27
+      "x": "9",
+      "y": "-27"
     }
   },
   {
@@ -5988,19 +5998,19 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1816320
+      18
     ],
     "UnlockValues": [
       5
@@ -6008,8 +6018,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -27
+      "x": "13",
+      "y": "-27"
     }
   },
   {
@@ -6029,23 +6039,23 @@
       3502
     ],
     "PreTechsImplicit": [
-      2693771010
+      1605
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       5,
@@ -6054,8 +6064,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -27
+      "x": "17",
+      "y": "-27"
     }
   },
   {
@@ -6076,9 +6086,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -6088,8 +6098,8 @@
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       10,
@@ -6098,8 +6108,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -27
+      "x": "21",
+      "y": "-27"
     }
   },
   {
@@ -6120,21 +6130,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 720000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       10,
@@ -6143,8 +6154,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -27
+      "x": "25",
+      "y": "-27"
     }
   },
   {
@@ -6165,21 +6176,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 960000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       10,
@@ -6188,8 +6200,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -27
+      "x": "29",
+      "y": "-27"
     }
   },
   {
@@ -6210,23 +6222,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      3072,
-      201326604,
-      786432,
-      3072
+      3,
+      3,
+      3,
+      3,
+      3
     ],
     "HashNeeded": 2400000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       10,
@@ -6235,8 +6248,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 33,
-      "y": -27
+      "x": "33",
+      "y": "-27"
     }
   },
   {
@@ -6257,23 +6270,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      3072,
-      201326604,
-      786432,
-      3072
+      3,
+      3,
+      3,
+      3,
+      3
     ],
     "HashNeeded": 4800000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1682113536,
-      1079869894
+      18,
+      19
     ],
     "UnlockValues": [
       20,
@@ -6282,8 +6296,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 37,
-      "y": -27
+      "x": "37",
+      "y": "-27"
     }
   },
   {
@@ -6304,18 +6318,18 @@
       1001
     ],
     "Items": [
-      3746044160,
-      269102005
+      6001,
+      6002
     ],
     "ItemPoints": [
-      2515667200,
-      4131535
+      40,
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6324,8 +6338,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -31
+      "x": "9",
+      "y": "-31"
     }
   },
   {
@@ -6346,20 +6360,20 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
-      2770141184,
-      2147569770,
-      2149516711
+      20,
+      20,
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6368,8 +6382,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -31
+      "x": "13",
+      "y": "-31"
     }
   },
   {
@@ -6390,22 +6404,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
-      2952790016,
-      162623668,
-      1342485828,
-      2149516583
+      20,
+      20,
+      20,
+      20
     ],
     "HashNeeded": 180000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6414,8 +6428,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -31
+      "x": "17",
+      "y": "-31"
     }
   },
   {
@@ -6436,10 +6450,10 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      2416856668
+      6001,
+      6002,
+      6003,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -6450,8 +6464,8 @@
     "HashNeeded": 480000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6460,8 +6474,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -31
+      "x": "21",
+      "y": "-31"
     }
   },
   {
@@ -6482,23 +6496,24 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      335544320,
-      4133108970,
-      291541821,
-      490937864,
-      3499104095
+      6001,
+      6002,
+      6003,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      4096,
-      268435472,
-      1048576,
-      4096
+      4,
+      4,
+      4,
+      4,
+      4
     ],
     "HashNeeded": 1800000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6507,8 +6522,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -31
+      "x": "25",
+      "y": "-31"
     }
   },
   {
@@ -6529,16 +6544,16 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      4096
+      4
     ],
     "HashNeeded": -18000000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1257833472,
-      3227620583
+      20,
+      21
     ],
     "UnlockValues": [
       0.94,
@@ -6547,8 +6562,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -31
+      "x": "29",
+      "y": "-31"
     }
   },
   {
@@ -6566,19 +6581,19 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      2693165570
+      1601
     ],
     "Items": [
-      272256260
+      6002
     ],
     "ItemPoints": [
-      4172545
+      40
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6587,8 +6602,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -15
+      "x": "9",
+      "y": "-15"
     }
   },
   {
@@ -6609,16 +6624,16 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272256260
+      6002
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 108000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6627,8 +6642,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -15
+      "x": "13",
+      "y": "-15"
     }
   },
   {
@@ -6649,18 +6664,18 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3533904128,
-      1351398597
+      6002,
+      6003
     ],
     "ItemPoints": [
-      1257833472,
-      2149549543
+      20,
+      20
     ],
     "HashNeeded": 144000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6669,8 +6684,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -15
+      "x": "17",
+      "y": "-15"
     }
   },
   {
@@ -6691,9 +6706,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -6703,8 +6718,8 @@
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6713,8 +6728,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -15
+      "x": "21",
+      "y": "-15"
     }
   },
   {
@@ -6735,9 +6750,9 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3046506496,
-      2648157781,
-      1351386313
+      6001,
+      6002,
+      6003
     ],
     "ItemPoints": [
       12,
@@ -6747,8 +6762,8 @@
     "HashNeeded": 480000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6757,8 +6772,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 25,
-      "y": -15
+      "x": "25",
+      "y": "-15"
     }
   },
   {
@@ -6779,21 +6794,22 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      3038802714,
-      3494927708
+      6001,
+      6002,
+      6003,
+      6005
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 1200000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      392496640,
-      3228219945
+      24,
+      25
     ],
     "UnlockValues": [
       1,
@@ -6802,8 +6818,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 29,
-      "y": -15
+      "x": "29",
+      "y": "-15"
     }
   },
   {
@@ -6821,18 +6837,18 @@
     "IsLabTech": 1,
     "PreTechs": [],
     "PreTechsImplicit": [
-      1357918465
+      1312
     ],
     "Items": [
-      2428398340
+      6004
     ],
     "ItemPoints": [
-      6144
+      6
     ],
     "HashNeeded": 600000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2421760
+      22
     ],
     "UnlockValues": [
       1
@@ -6840,8 +6856,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": -35
+      "x": "9",
+      "y": "-35"
     }
   },
   {
@@ -6862,15 +6878,15 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2428398340
+      6004
     ],
     "ItemPoints": [
-      6144
+      6
     ],
     "HashNeeded": 1200000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2421760
+      22
     ],
     "UnlockValues": [
       1
@@ -6878,8 +6894,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": -35
+      "x": "13",
+      "y": "-35"
     }
   },
   {
@@ -6900,15 +6916,15 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2428398340
+      6004
     ],
     "ItemPoints": [
-      6144
+      6
     ],
     "HashNeeded": 2400000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2421760
+      22
     ],
     "UnlockValues": [
       1
@@ -6916,8 +6932,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": -35
+      "x": "17",
+      "y": "-35"
     }
   },
   {
@@ -6938,15 +6954,15 @@
     ],
     "PreTechsImplicit": [],
     "Items": [
-      272861700
+      6006
     ],
     "ItemPoints": [
-      2048
+      2
     ],
     "HashNeeded": -43200000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      2421760
+      22
     ],
     "UnlockValues": [
       1
@@ -6954,8 +6970,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": -35
+      "x": "21",
+      "y": "-35"
     }
   },
   {
@@ -6974,15 +6990,15 @@
     "PreTechs": [],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 1800,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1080427265
+      23
     ],
     "UnlockValues": [
       1
@@ -6990,8 +7006,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 9,
-      "y": 33
+      "x": "9",
+      "y": "33"
     }
   },
   {
@@ -7008,19 +7024,19 @@
     "IconPath": "Icons/Tech/4102",
     "IsLabTech": 1,
     "PreTechs": [
-      8393728
+      4101
     ],
     "PreTechsImplicit": [],
     "Items": [
-      3505863940
+      6001
     ],
     "ItemPoints": [
-      2157958400
+      20
     ],
     "HashNeeded": 36000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1080427265
+      23
     ],
     "UnlockValues": [
       2
@@ -7028,8 +7044,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 13,
-      "y": 33
+      "x": "13",
+      "y": "33"
     }
   },
   {
@@ -7046,15 +7062,15 @@
     "IconPath": "Icons/Tech/4103",
     "IsLabTech": 1,
     "PreTechs": [
-      8394752
+      4102
     ],
     "PreTechsImplicit": [
       2902
     ],
     "Items": [
-      3046506496,
-      2648157781,
-      2429457353
+      6001,
+      6002,
+      6004
     ],
     "ItemPoints": [
       12,
@@ -7064,7 +7080,7 @@
     "HashNeeded": 300000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1080427265
+      23
     ],
     "UnlockValues": [
       3
@@ -7072,8 +7088,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 17,
-      "y": 33
+      "x": "17",
+      "y": "33"
     }
   },
   {
@@ -7090,24 +7106,25 @@
     "IconPath": "Icons/Tech/4104",
     "IsLabTech": 1,
     "PreTechs": [
-      8395776
+      4103
     ],
     "PreTechsImplicit": [],
     "Items": [
-      2181234688,
-      3653938250,
-      2826662682,
-      3499153260
+      6001,
+      6002,
+      6004,
+      6005
     ],
     "ItemPoints": [
-      402653208,
-      1572864,
-      6144
+      6,
+      6,
+      6,
+      6
     ],
     "HashNeeded": 1200000,
     "UnlockRecipes": [],
     "UnlockFunctions": [
-      1080427265
+      23
     ],
     "UnlockValues": [
       4
@@ -7115,8 +7132,8 @@
     "AddItems": [],
     "AddItemCounts": [],
     "Position": {
-      "x": 21,
-      "y": 33
+      "x": "21",
+      "y": "33"
     }
   }
 ]

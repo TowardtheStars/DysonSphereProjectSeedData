@@ -4,20 +4,20 @@
     "ID": 1,
     "SID": null,
     "DisplayName": "地中海",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 1/",
     "Temperature": 0,
-    "Distribute": 1,
+    "Distribute": "1",
     "Algos": [
-      1024
+      1
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       604,
@@ -87,7 +87,7 @@
       1
     ],
     "RareVeins": [
-      0
+      11
     ],
     "RareSettings": [
       0,
@@ -116,20 +116,20 @@
     "ID": 2,
     "SID": null,
     "DisplayName": "气态巨星",
-    "PlanetType": 5,
+    "PlanetType": "5",
     "MaterialPath": "Universe/Materials/Planets/Gas 1/",
     "Temperature": 2,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
       0
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -143,8 +143,8 @@
     "RareVeins": [],
     "RareSettings": [],
     "GasItems": [
-      2605978880,
-      2158353970
+      1120,
+      1121
     ],
     "GasSpeeds": [
       0.96,
@@ -166,20 +166,20 @@
     "ID": 3,
     "SID": null,
     "DisplayName": "气态巨星",
-    "PlanetType": 5,
+    "PlanetType": "5",
     "MaterialPath": "Universe/Materials/Planets/Gas 2/",
     "Temperature": 1,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
       0
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -193,8 +193,8 @@
     "RareVeins": [],
     "RareSettings": [],
     "GasItems": [
-      2605978880,
-      2158353970
+      1120,
+      1121
     ],
     "GasSpeeds": [
       0.96,
@@ -216,20 +216,20 @@
     "ID": 4,
     "SID": null,
     "DisplayName": "冰巨星",
-    "PlanetType": 5,
+    "PlanetType": "5",
     "MaterialPath": "Universe/Materials/Planets/Gas 3/",
     "Temperature": -1,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
       0
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -266,20 +266,20 @@
     "ID": 5,
     "SID": null,
     "DisplayName": "冰巨星",
-    "PlanetType": 5,
+    "PlanetType": "5",
     "MaterialPath": "Universe/Materials/Planets/Gas 4/",
     "Temperature": -2,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
       0
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -316,20 +316,20 @@
     "ID": 6,
     "SID": null,
     "DisplayName": "干旱荒漠",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 1/",
     "Temperature": 2,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      2048
+      2
     ],
     "ModX": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       6,
@@ -341,10 +341,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
@@ -407,20 +408,20 @@
     "ID": 7,
     "SID": null,
     "DisplayName": "灰烬冻土",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 2/",
     "Temperature": -1,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      2048
+      2
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [
       6,
@@ -432,10 +433,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
@@ -503,20 +505,20 @@
     "ID": 8,
     "SID": null,
     "DisplayName": "海洋丛林",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 2/",
     "Temperature": 0,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      1024
+      1
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       1023,
@@ -600,7 +602,7 @@
     "WaterHeight": 0,
     "WaterItemId": 1000,
     "Musics": [
-      2157352960
+      16
     ],
     "SFXPath": "SFX/sfx-amb-ocean-1",
     "SFXVolume": 0.52,
@@ -612,20 +614,20 @@
     "ID": 9,
     "SID": null,
     "DisplayName": "熔岩",
-    "PlanetType": 1,
+    "PlanetType": "1",
     "MaterialPath": "Universe/Materials/Planets/Lava 1/",
     "Temperature": 5,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      5120
+      5
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       6,
@@ -637,10 +639,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
@@ -712,20 +715,20 @@
     "ID": 10,
     "SID": null,
     "DisplayName": "冰原冻土",
-    "PlanetType": 4,
+    "PlanetType": "4",
     "MaterialPath": "Universe/Materials/Planets/Ice 1/",
     "Temperature": -5,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      3072
+      3
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -800,20 +803,20 @@
     "ID": 11,
     "SID": null,
     "DisplayName": "贫瘠荒漠",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 3/",
     "Temperature": -2,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      4096
+      4
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -889,20 +892,20 @@
     "ID": 12,
     "SID": null,
     "DisplayName": "戈壁",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 4/",
     "Temperature": 1,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      3072
+      3
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -977,20 +980,20 @@
     "ID": 13,
     "SID": null,
     "DisplayName": "火山灰",
-    "PlanetType": 1,
+    "PlanetType": "1",
     "MaterialPath": "Universe/Materials/Planets/Volcanic 1/",
     "Temperature": 4,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      3072
+      3
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -1048,20 +1051,20 @@
     "ID": 14,
     "SID": null,
     "DisplayName": "红石",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 3/",
     "Temperature": 0,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      1024
+      1
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       604,
@@ -1164,20 +1167,20 @@
     "ID": 15,
     "SID": null,
     "DisplayName": "草原",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 4/",
     "Temperature": 0,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      6144
+      6
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [
       1001,
@@ -1218,12 +1221,13 @@
       101
     ],
     "VeinSpot": [
-      469762048,
-      1048576,
-      7168,
-      134217732,
-      1835008,
-      10240
+      7,
+      4,
+      7,
+      1,
+      2,
+      7,
+      18
     ],
     "VeinCount": [
       0.7,
@@ -1278,20 +1282,20 @@
     "ID": 16,
     "SID": null,
     "DisplayName": "水世界",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 5/",
     "Temperature": 0,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      7168
+      7
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [],
     "Vegetables1": [],
@@ -1356,20 +1360,20 @@
     "ID": 17,
     "SID": null,
     "DisplayName": "红土荒漠",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 5/",
     "Temperature": 1,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
-      2048
+      2
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 1,
-      "y": 1
+      "x": "1",
+      "y": "1"
     },
     "Vegetables0": [
       6,
@@ -1381,10 +1385,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
@@ -1452,20 +1457,20 @@
     "ID": 18,
     "SID": null,
     "DisplayName": "白色海洋",
-    "PlanetType": 2,
+    "PlanetType": "2",
     "MaterialPath": "Universe/Materials/Planets/Ocean 6/",
     "Temperature": 0,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
-      1024
+      1
     ],
     "ModX": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "ModY": {
-      "x": 0,
-      "y": 0
+      "x": "0",
+      "y": "0"
     },
     "Vegetables0": [
       605,
@@ -1507,7 +1512,7 @@
       1033
     ],
     "Vegetables5": [
-      12992005
+      136
     ],
     "VeinSpot": [
       5,
@@ -1558,8 +1563,8 @@
     "WaterHeight": 0,
     "WaterItemId": 1000,
     "Musics": [
-      2123170560,
-      1087655845
+      16,
+      9
     ],
     "SFXPath": "SFX/sfx-amb-ocean-1",
     "SFXVolume": 0.52,
@@ -1571,20 +1576,20 @@
     "ID": 19,
     "SID": null,
     "DisplayName": "三色荒漠",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 6/",
     "Temperature": 1,
-    "Distribute": 2,
+    "Distribute": "2",
     "Algos": [
       8
     ],
     "ModX": {
-      "x": 1.5,
-      "y": 1.5
+      "x": "1.5",
+      "y": "1.5"
     },
     "ModY": {
-      "x": -5,
-      "y": -5
+      "x": "-5",
+      "y": "-5"
     },
     "Vegetables0": [
       6,
@@ -1596,10 +1601,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
@@ -1672,20 +1678,20 @@
     "ID": 20,
     "SID": null,
     "DisplayName": "红冰荒漠",
-    "PlanetType": 3,
+    "PlanetType": "3",
     "MaterialPath": "Universe/Materials/Planets/Desert 7/",
     "Temperature": -2,
-    "Distribute": 0,
+    "Distribute": "0",
     "Algos": [
       9
     ],
     "ModX": {
-      "x": 6,
-      "y": 6
+      "x": "6",
+      "y": "6"
     },
     "ModY": {
-      "x": 8,
-      "y": 8
+      "x": "8",
+      "y": "8"
     },
     "Vegetables0": [
       6,
@@ -1697,10 +1703,11 @@
       12
     ],
     "Vegetables1": [
-      1024,
-      201326600,
-      1048576,
-      5120
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "Vegetables2": [],
     "Vegetables3": [],
